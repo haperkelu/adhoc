@@ -1,0 +1,1748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>AMAZON_DOC_URL</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>AMAZON_DOC_URL</shortDescription>
+        <value>https://d3ocqmkvthzmnl.cloudfront.net</value>
+    </labels>
+    <labels>
+        <fullName>Account_CTP_Public</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Account-CTP_Public</shortDescription>
+        <value>CTP_Public</value>
+    </labels>
+    <labels>
+        <fullName>COMMUNITY_DOMAIN</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>COMMUNITY_DOMAIN</shortDescription>
+        <value>ctpdev04-ctpdev04.cs57.force.com</value>
+    </labels>
+    <labels>
+        <fullName>CTP_10_week_call_Case_Status</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP 10 week call Case Status</shortDescription>
+        <value>10 week call</value>
+    </labels>
+    <labels>
+        <fullName>CTP_20_Month_Call_Case_Status</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP 20 Month Call Case Status</shortDescription>
+        <value>20 month call</value>
+    </labels>
+    <labels>
+        <fullName>CTP_23_Week_Call_Case_Status</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP 23 Week Call Case Status</shortDescription>
+        <value>23 week call</value>
+    </labels>
+    <labels>
+        <fullName>CTP_2_Year_Review_Case_Status</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_2_Year_Review_Case_Status</shortDescription>
+        <value>2 year review</value>
+    </labels>
+    <labels>
+        <fullName>CTP_3_Year_Review_Case_Status</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_3_Year_Review_Case_Status</shortDescription>
+        <value>3 year review</value>
+    </labels>
+    <labels>
+        <fullName>CTP_3_month_review_Case_Status</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_3_month_review_Case_Status</shortDescription>
+        <value>3 month review</value>
+    </labels>
+    <labels>
+        <fullName>CTP_5_Year_Review_Case_Status</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_5_Year_Review_Case_Status</shortDescription>
+        <value>5 year review</value>
+    </labels>
+    <labels>
+        <fullName>CTP_75_week_review_Case_Status</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP 75 week review Case Status</shortDescription>
+        <value>75 week review</value>
+    </labels>
+    <labels>
+        <fullName>CTP_ADDITIONAL_INFO_TASK_RECORDTYPE_ID</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP  ADDITIONAL INFO TASK  RECORDTYPE ID</shortDescription>
+        <value>0127F000000gVZv</value>
+    </labels>
+    <labels>
+        <fullName>CTP_AcceptButton</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_AcceptButton</shortDescription>
+        <value>Take ownership of case</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Accepted_icon</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Accepted icon</shortDescription>
+        <value>0157F000000Q2ee</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Access</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Access</shortDescription>
+        <value>User Role</value>
+    </labels>
+    <labels>
+        <fullName>CTP_AddTeamMember</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_AddTeamMember</shortDescription>
+        <value>Add Case Contact</value>
+    </labels>
+    <labels>
+        <fullName>CTP_AddUser</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_AddUser</shortDescription>
+        <value>Add User</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Add_DRS_Group_Error</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Add DRS Group Error</shortDescription>
+        <value>You are not Eligible to add this member to a DRS Group</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Add_OCS_Group_Error</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Add OCS Group Error</shortDescription>
+        <value>You are not Eligible to add this member to a OCS Group</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Additional_Information_Tabset_Claimant</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Additional Information Tabset Claimant</shortDescription>
+        <value>tabset-4f086=bd361</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Additional_Information_Tabset_Insurer</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Additional Information Tabset Insurer</shortDescription>
+        <value>tabset-16d72=7a0d8</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Additional_Information_Tabset_Legal</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Additional Information Tabset Legal</shortDescription>
+        <value>tabset-92936=22e9c</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Additional_information_about_injury</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Additional information about injury</shortDescription>
+        <value>Additional information about injury</value>
+    </labels>
+    <labels>
+        <fullName>CTP_AddressErrorMsz</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_AddressErrorMsz</shortDescription>
+        <value>Selected address doesn't contain all the necessary information, please enter the address manually</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Allocation_Profiles</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Allocation Profiles</shortDescription>
+        <value>CTP External Assessor,CTP Internal Decision Maker</value>
+    </labels>
+    <labels>
+        <fullName>CTP_ApplicationRecordType</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Application record type</shortDescription>
+        <value>Application</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Appointment_Picklist_Fields</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP  Appointment Picklist Fields</shortDescription>
+        <value>CTP_AppointmentType__c,CTP_Interpreterbooked__c,CTP_Interpreter__c</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Appointment_Type</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Appointment Type</shortDescription>
+        <value>Appointment Type</value>
+    </labels>
+    <labels>
+        <fullName>CTP_ApprovalComment</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_ApprovalComment</shortDescription>
+        <value>Submitting request for approval</value>
+    </labels>
+    <labels>
+        <fullName>CTP_ApprovalProcessName</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_ApprovalProcessName</shortDescription>
+        <value>CTP_Lightning_Knowledge_Article_Approval</value>
+    </labels>
+    <labels>
+        <fullName>CTP_AssistClaimantSupportRecordTypeName</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Claimant Support Case Record Type Name</shortDescription>
+        <value>CTP Assist - Non-damages</value>
+    </labels>
+    <labels>
+        <fullName>CTP_AssistDamagesRecordTypeName</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_AssistDamagesRecordTypeName</shortDescription>
+        <value>CTP Assist - Damages</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Assist_Case_Type</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Assist Case Type</shortDescription>
+        <value>CTP Assist</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Base_URL_to_navigate_to_records</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Base URL to navigate to records</shortDescription>
+        <value>/one/one.app?source=aloha#/sObject/</value>
+    </labels>
+    <labels>
+        <fullName>CTP_CASE_CTP_Connect_RecordTypeName</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_CASE_CTP_Connect_RecordTypeName</shortDescription>
+        <value>CTP Connect</value>
+    </labels>
+    <labels>
+        <fullName>CTP_CASFeedbackQueueId</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_CASFeedbackQueueId</shortDescription>
+        <value>test</value>
+    </labels>
+    <labels>
+        <fullName>CTP_CASFeedbackQueueName</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Assist Feedback Queue Name</shortDescription>
+        <value>CTP Assist Feedback</value>
+    </labels>
+    <labels>
+        <fullName>CTP_CAS_Case_Type</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP CAS Case Type</shortDescription>
+        <value>CTP Assist</value>
+    </labels>
+    <labels>
+        <fullName>CTP_CONTACT_CTP_Public_RecordTypeName</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_CONTACT_CTP_Public_RecordTypeName</shortDescription>
+        <value>CTP_Public</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Cancel</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Cancel</shortDescription>
+        <value>Cancel</value>
+    </labels>
+    <labels>
+        <fullName>CTP_CancelCross</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_CancelCross</shortDescription>
+        <value>X</value>
+    </labels>
+    <labels>
+        <fullName>CTP_CaseApplication</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_CaseApplication</shortDescription>
+        <value>Claims Application</value>
+    </labels>
+    <labels>
+        <fullName>CTP_CaseItem_AdditionalInforRecordTypeName</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_CaseItem_AdditionalInforRecordTypeName</shortDescription>
+        <value>Additional Information</value>
+    </labels>
+    <labels>
+        <fullName>CTP_CaseItem_ClaimantRecordTypeName</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_CaseItem_ClaimantRecordTypeName</shortDescription>
+        <value>Claimant</value>
+    </labels>
+    <labels>
+        <fullName>CTP_CaseItem_InsurerRecordTypeName</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_CaseItem_InsurerRecordTypeName</shortDescription>
+        <value>Insurer</value>
+    </labels>
+    <labels>
+        <fullName>CTP_CaseItem_RoleGroup_Claimant</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_CaseItem_RoleGroup_Claimant</shortDescription>
+        <value>Claimant</value>
+    </labels>
+    <labels>
+        <fullName>CTP_CaseItem_RoleGroup_Insurer</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_CaseItem_RoleGroup_Insurer</shortDescription>
+        <value>Insurer</value>
+    </labels>
+    <labels>
+        <fullName>CTP_CaseStatus_ADR</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_CaseStatus_ADR</shortDescription>
+        <value>Appropriate Dispute Resolution</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Case_DRS_Application</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Case_DRS_Application</shortDescription>
+        <value>CTP New Application</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Case_verification_milestone</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Case verification milestone</shortDescription>
+        <value>CTP Verification Milestone</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Claim</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Claim</shortDescription>
+        <value>Claims</value>
+    </labels>
+    <labels>
+        <fullName>CTP_ClaimAplicationRecordType</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_ClaimAplicationRecordType</shortDescription>
+        <value>Claims Application</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Claim_Application_Record_Type_Id</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Claim_Application_Record_Type_Id</shortDescription>
+        <value>0127F000000hj84</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Claim_Assessment</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Claim Assessment</shortDescription>
+        <value>CTP_Claim_Assessment</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Claim_Li_1</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Claim_Li_1</shortDescription>
+        <value>Access documents provided by a claimant to support their CTP claim</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Claimant_Declaration_Form</fullName>
+        <categories>CTP</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Claimant Declaration Form</shortDescription>
+        <value>https://www.sira.nsw.gov.au/__data/assets/pdf_file/0007/336265/Online-Declaration-SIRA08906.pdf</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Claimant_does_not_want_to_be_contacted_Case_Action_Outcome</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Claimant does not want to be contacted Case Action Outcome</shortDescription>
+        <value>Claimant does not want to be contacted</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Claims</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Claims</shortDescription>
+        <value>CTP claims</value>
+    </labels>
+    <labels>
+        <fullName>CTP_ClaimsApplication</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_ClaimsApplication</shortDescription>
+        <value>Claims Application</value>
+    </labels>
+    <labels>
+        <fullName>CTP_ClaimsNotification</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_ClaimsNotification</shortDescription>
+        <value>Claims Notification</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Claims_Furthers</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Claims Furthers</shortDescription>
+        <value>Claims Furthers</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Claims_assessment</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Claims assessment</shortDescription>
+        <value>Claims assessment</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Community_Base_URL</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Community Base URL</shortDescription>
+        <value>https://sira.force.com</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Community_Base_URL_Test</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Community Base URL_Test</shortDescription>
+        <value>https://ctpdev06-sira.cs72.force.com</value>
+    </labels>
+    <labels>
+        <fullName>CTP_CompensationToRelatives</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_CompensationToRelatives</shortDescription>
+        <value>Compensation to Relatives</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Complaint</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Complaint</shortDescription>
+        <value>Complaint</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Compliment</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Compliment</shortDescription>
+        <value>Compliment</value>
+    </labels>
+    <labels>
+        <fullName>CTP_ConnectRecordTypeName</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_ConnectRecordTypeName</shortDescription>
+        <value>CTP Connect</value>
+    </labels>
+    <labels>
+        <fullName>CTP_ConnectVehicleError</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_ConnectVehicleError</shortDescription>
+        <value>Please enter the policy number for this vehicle</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Connect_Warning_Email</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Connect_Warning_Email</shortDescription>
+        <value>Warning_email</value>
+    </labels>
+    <labels>
+        <fullName>CTP_ContactUs</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_ContactUs</shortDescription>
+        <value>Contact Us</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Court_filing_number</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Court filing number</shortDescription>
+        <value>Court filing number</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Court_order_hearing_date</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Court order/hearing date</shortDescription>
+        <value>Court order/hearing date</value>
+    </labels>
+    <labels>
+        <fullName>CTP_CreateNewArticle</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_CreateNewArticle</shortDescription>
+        <value>Create New Article</value>
+    </labels>
+    <labels>
+        <fullName>CTP_DRSFeedbackQueueId</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_DRSFeedbackQueueId</shortDescription>
+        <value>test</value>
+    </labels>
+    <labels>
+        <fullName>CTP_DRS_Case_Type</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP DRS Case Type</shortDescription>
+        <value>DRS</value>
+    </labels>
+    <labels>
+        <fullName>CTP_DRS_Feedback_Queue_Name</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>DRS Feedback Queue Name</shortDescription>
+        <value>DRS Feedback</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Damage_Milestone_name_1</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Damage_Milestone_name_1</shortDescription>
+        <value>CTP Milestone 1 Damages Entitlement</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Damage_Milestone_name_2</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Damage_Milestone_name_2</shortDescription>
+        <value>CTP Milestone 2 Damages Entitlement</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Damage_Milestone_name_3</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Damage_Milestone_name_3</shortDescription>
+        <value>CTP Milestone 3 Damages Entitlement</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Date_of_Birth</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Date_of_Birth</shortDescription>
+        <value>Date of birth</value>
+    </labels>
+    <labels>
+        <fullName>CTP_DateofDecision</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>DateofDecision</shortDescription>
+        <value>Date of Decision</value>
+    </labels>
+    <labels>
+        <fullName>CTP_DecisionMaker</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>DecisionMaker</shortDescription>
+        <value>Decision maker</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Declaration</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Declaration</shortDescription>
+        <value>I declare that, to the best of my knowledge, the information given in this form is true and correct. I also give consent and authorisation for the collection, use and disclosure and exchange of personal and health information provided in this form.</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Default</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Default days for milestone</shortDescription>
+        <value>7</value>
+    </labels>
+    <labels>
+        <fullName>CTP_DefaultFromEmail</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_DefaultFromEmail</shortDescription>
+        <value>Claimant Advisory Services &lt;nandu.s@capgemini.com></value>
+    </labels>
+    <labels>
+        <fullName>CTP_DipsuteTask_ParentAssessment</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP DipsuteTask ParentAssessment</shortDescription>
+        <value>CTP_Parent_Assessment</value>
+    </labels>
+    <labels>
+        <fullName>CTP_DisputeCategories_For_Allocation</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Dispute Categories For Allocation</shortDescription>
+        <value>Merit review,Medical assessment,Misc claims assessment,Claims assessment</value>
+    </labels>
+    <labels>
+        <fullName>CTP_DisputeTaskRecordTypeId_Assigned_To_DRO_By_PO</fullName>
+        <categories>DCR-3165</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_DisputeTaskRecordTypeId_Assigned_To_DRO_By_PO</shortDescription>
+        <value>0127F000000hj8F</value>
+    </labels>
+    <labels>
+        <fullName>CTP_DisputeTaskSubject</fullName>
+        <categories>DCR-3165</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_DisputeTaskSubject</shortDescription>
+        <value>Proper Officer has submitted decision on Dispute Task</value>
+    </labels>
+    <labels>
+        <fullName>CTP_DisputeTask_All_RecordTypes</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Dispute Task All Record Types</shortDescription>
+        <value>CTP_Claim_Assessment,CTP_Medical_Injury_Assessment,CTP_Medical_Treatment_Assessment,CTP_Merit_Review_Assessment,CTP_Misc_Claims_Assessment,CTP_Parent_Assessment,Reviews_Parent_Assessment,Reviews_Merit_review,Reviews_Medical_Assessment,CTP_Furthers_Merit_review,CTP_Furthers_Parent_Assessment,CTP_Furthers_Medical_Assessment,CTP_Furthers_Claim_Assessment</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Dispute_Applications</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Dispute_Applications</shortDescription>
+        <value>Dispute applications</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Dispute_Applications_Desc</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Dispute_Applications_Desc</shortDescription>
+        <value>Refer a dispute you’re having with a CTP insurer to our Dispute Resolution Service (DRS).
+DRS will be responsible for managing your dispute application.
+Time limits apply.</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Dispute_Notification_record_ID</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Dispute Notification record ID</shortDescription>
+        <value>0125D0000008jzUQAQ</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Dispute_Task_Record_Types</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Dispute Task Record Types</shortDescription>
+        <value>CTP_Claim_Assessment,CTP_Medical_Injury_Assessment,CTP_Medical_Treatment_Assessment,CTP_Merit_Review_Assessment,CTP_Misc_Claims_Assessment</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Dispute_Task_Status</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Dispute Task Status</shortDescription>
+        <value>Awaiting acceptance</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Disputes</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Disputes</shortDescription>
+        <value>Disputes (Coming soon...)</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Disputes_Li_1</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Disputes_Li_1</shortDescription>
+        <value>Lodge and track dispute applications made to Dispute Resolution Service (DRS)</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Disputes_Li_2</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Disputes_Li_2</shortDescription>
+        <value>Submit responses to Dispute Resolution Services (DRS)</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Draft</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Draft</shortDescription>
+        <value>Draft</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Email</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Email</shortDescription>
+        <value>Email</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Enquiry</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Enquiry</shortDescription>
+        <value>Enquiry</value>
+    </labels>
+    <labels>
+        <fullName>CTP_EnterClaimnumber</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Enter Claim number</shortDescription>
+        <value>Enter the claim number</value>
+    </labels>
+    <labels>
+        <fullName>CTP_ErrorInDecision</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ErrorInDecision</shortDescription>
+        <value>What is the error in the decision?</value>
+    </labels>
+    <labels>
+        <fullName>CTP_ErrorTeamAdd1</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_ErrorTeamAdd1</shortDescription>
+        <value>Please Select User From The List</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Event_Record_Type_Id</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Event Record Type Id</shortDescription>
+        <value>0127F000000gVZr</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Exception_Claims_Application</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Exception_Claims_Application</shortDescription>
+        <value>Exception Claims Application</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Expedited_Alert</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Expedited Alert</shortDescription>
+        <value>0157F000000Rl2M</value>
+    </labels>
+    <labels>
+        <fullName>CTP_ExternalArticleApprovalProcessName</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP ExternalArticleApprovalProcessName</shortDescription>
+        <value>CTP_External_Knowledge_Manager_Approval</value>
+    </labels>
+    <labels>
+        <fullName>CTP_External_Assessor</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP External Assessor</shortDescription>
+        <value>CTP External Assessor</value>
+    </labels>
+    <labels>
+        <fullName>CTP_External_Assessor_Portal_File_Attachment_Message</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP External Assessor Portal File Attachment Message</shortDescription>
+        <value>Please upload your decision and any documents that support your decision. You are able to attach files of different types (images or documents). The size limit for upload is 2GB per file.</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Feedback</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Feedback</shortDescription>
+        <value>Feedback</value>
+    </labels>
+    <labels>
+        <fullName>CTP_FeedbackCaseRecordId</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_FeedbackCaseRecordId</shortDescription>
+        <value>test</value>
+    </labels>
+    <labels>
+        <fullName>CTP_FeedbackDescription</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_FeedbackDescription</shortDescription>
+        <value>Please provide a description of your submission</value>
+    </labels>
+    <labels>
+        <fullName>CTP_FeedbackSubType</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_FeedbackSubType</shortDescription>
+        <value>In Regards to:</value>
+    </labels>
+    <labels>
+        <fullName>CTP_FeedbackType</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_FeedbackType</shortDescription>
+        <value>I would like to submit a:</value>
+    </labels>
+    <labels>
+        <fullName>CTP_File_Attachment_Heading</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>File Attachment Heading</shortDescription>
+        <value>Attach all information and evidence that supports your application:</value>
+    </labels>
+    <labels>
+        <fullName>CTP_File_Attachment_Subheading</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>File Attachment Subheading</shortDescription>
+        <value>You should list all document that you rely on. You do not need to attach any documents that you have already provided to the insurer</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Finalising_a_Dispute</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Finalising a Dispute</shortDescription>
+        <value>All disputes need an outcome before they can be finalised.</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Further_Application_Task_Record_Type_Id</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Further Application Task Record Type Id</shortDescription>
+        <value>0127F000000hj8GQAQ</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Further_Damages_Assessment</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Further Damages Assessment</shortDescription>
+        <value>Further Damages Assessment</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Further_Medical_Assessment</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Further Medical Assessment</shortDescription>
+        <value>Further medical assessment</value>
+    </labels>
+    <labels>
+        <fullName>CTP_FurthersLabelComp</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Furthers Label</shortDescription>
+        <value>Furthers</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Furthers_Claim_Assessment</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Furthers Claim Assessment</shortDescription>
+        <value>CTP_Furthers_Claim_Assessment</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Furthers_Medical_Assessment</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Furthers Medical Assessment</shortDescription>
+        <value>CTP_Furthers_Medical_Assessment</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Furthers_Merit_review</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Furthers Merit review</shortDescription>
+        <value>CTP_Furthers_Merit_review</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Furthers_Parent_Assessment</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Furthers Parent Assessment</shortDescription>
+        <value>CTP_Furthers_Parent_Assessment</value>
+    </labels>
+    <labels>
+        <fullName>CTP_GoogleAPI</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_GoogleAPI</shortDescription>
+        <value>AIzaSyANGyDjznhmnfO1QWcyP4U7UKHX_k_YAY4</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Hello</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Hello</shortDescription>
+        <value>Hello</value>
+    </labels>
+    <labels>
+        <fullName>CTP_HelpTextToDisagreeReason</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Help Text for Claimant Application Page Field</shortDescription>
+        <value>Outline what it is that you don't agree with in the Insurer's Internal Review Decision and how you think it should be different.</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Injury_RecordType_Name</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Injury RecordType Name</shortDescription>
+        <value>CTP_Injury</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Injury_Record_Type_Id</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Injury_Record_Type_Id</shortDescription>
+        <value>0127F000000hj81</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Insurer</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Insurer</shortDescription>
+        <value>Insurer</value>
+    </labels>
+    <labels>
+        <fullName>CTP_InsurerOrgWideEmailAddress</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_InsurerOrgWideEmailAddress</shortDescription>
+        <value>CTP Assist</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Insurer_Portal_File_Attachment_Message</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Insurer Portal File Attachment Message</shortDescription>
+        <value>Please upload and describe all documents in support of your application or reply. You are able to attach files of different types (images, video, documents) to the application. The size limit for upload is 2GB per file.</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Introduction_Call_Case_Status</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Introduction Call Case Status</shortDescription>
+        <value>Introduction Call</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Judge_Court_Officer_name</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Judge/Court Officer name</shortDescription>
+        <value>Judge/Court Officer name</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Legal_Portal_File_Attachment_Message</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Legal Portal File Attachment Message</shortDescription>
+        <value>Please upload and describe all documents in support of your application or reply. You are able to attach files of different types (images, video, documents) to the application. The size limit for upload is 2GB per file.</value>
+    </labels>
+    <labels>
+        <fullName>CTP_LodgeAppReview</fullName>
+        <categories>Lodge an application for review</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Lodge an application for review</shortDescription>
+        <value>Lodge an application for review</value>
+    </labels>
+    <labels>
+        <fullName>CTP_LoginURLto_Public_Community</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Login URL to Public Community</shortDescription>
+        <value>https://ctpdev04-ctpdev04.cs57.force.com/public</value>
+    </labels>
+    <labels>
+        <fullName>CTP_MasterRecordType</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_MasterRecordType</shortDescription>
+        <value>Master</value>
+    </labels>
+    <labels>
+        <fullName>CTP_MaterialToOutcome</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>MaterialToOutcome</shortDescription>
+        <value>How is this material to the outcome of the decision?</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Materiality</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Materiality</shortDescription>
+        <value>Materiality</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Max_No_of_ClaimHist</fullName>
+        <categories>CTP_StartNewClaimAppController.js</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>DCR-3619: Maximum number os Claim History</shortDescription>
+        <value>5</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Medical_Furthers</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Medical Furthers</shortDescription>
+        <value>Medical Furthers</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Medical_Injury_Assessment</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Medical Injury Assessment</shortDescription>
+        <value>CTP_Medical_Injury_Assessment</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Medical_Treatment_Assessment</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Medical Treatment Assessment</shortDescription>
+        <value>CTP_Medical_Treatment_Assessment</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Medical_assessment</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Medical assessment</shortDescription>
+        <value>Medical assessment</value>
+    </labels>
+    <labels>
+        <fullName>CTP_MeritReview</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_MeritReview</shortDescription>
+        <value>Merit review</value>
+    </labels>
+    <labels>
+        <fullName>CTP_MeritReview_Allocation_UserProfile</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_MeritReview_Allocation_UserProfile</shortDescription>
+        <value>External Assessor,CTP Internal Decision Maker</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Merit_Review_Assessment</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Merit Review Assessment</shortDescription>
+        <value>CTP_Merit_Review_Assessment</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Milestone_Name_1</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Milestone Name 1</shortDescription>
+        <value>CTP Milestone 1 Non-Damages Entitlement</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Milestone_Name_2</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Milestone Name 2</shortDescription>
+        <value>CTP Milestone 2 Non-Damages Entitlement</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Milestone_Name_For_Claims_Application</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Milestone_Name_For_Claims_Application</shortDescription>
+        <value>Case Assignment for Claims Application Case</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Milestone_Name_For_Compensation_To_Relatives</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Milestone_Name_For_Compensation_To_Relatives</shortDescription>
+        <value>Compensation to Relatives</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Milestone_Name_For_Feedback</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Milestone Name For Feedback</shortDescription>
+        <value>Case Assignment</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Milestone_name_3</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Milestone name 3</shortDescription>
+        <value>CTP Milestone 3 Non-Damages Entitlement</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Milestone_name_4</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Milestone name 4</shortDescription>
+        <value>CTP Milestone 4 Non-Damages Entitlement</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Milestone_name_5</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Milestone_name_5</shortDescription>
+        <value>CTP Milestone 5 Non-Damages Entitlement</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Milestone_name_6</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Milestone_name_6</shortDescription>
+        <value>CTP Milestone 6 Non-Damages Entitlement</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Minutes</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Minutes</shortDescription>
+        <value>1440</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Misc_Claim_Assessment</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Misc Claim Assessment</shortDescription>
+        <value>CTP_Misc_Claims_Assessment</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Misc_claims_assessment</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Misc claims assessment</shortDescription>
+        <value>Misc claims assessment</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Must_Call</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Must Call Case Status</shortDescription>
+        <value>Must Call</value>
+    </labels>
+    <labels>
+        <fullName>CTP_NSWLatLong</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_NSWLatLong</shortDescription>
+        <value>-31.498831,147.523932</value>
+    </labels>
+    <labels>
+        <fullName>CTP_NSWRadius</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_NSWRadius</shortDescription>
+        <value>708</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Need_Help</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Need_Help</shortDescription>
+        <value>Need help?</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Need_Help_Call</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Need_Help_Call</shortDescription>
+        <value>Call Dispute Resolution Service on</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Need_Help_Email</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Need_Help_Email</shortDescription>
+        <value>drsenquiries@sira.gov.au</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Need_Help_Email_Heading</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Need_Help_Email_Heading</shortDescription>
+        <value>or email</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Need_Help_No</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Need_Help_No</shortDescription>
+        <value>1800 347 788</value>
+    </labels>
+    <labels>
+        <fullName>CTP_NewArticleHeader</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_NewArticleHeader</shortDescription>
+        <value>New Article</value>
+    </labels>
+    <labels>
+        <fullName>CTP_New_evidence_provided</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>New evidence provided</shortDescription>
+        <value>New evidence provided</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Next</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Next</shortDescription>
+        <value>Next</value>
+    </labels>
+    <labels>
+        <fullName>CTP_No_Dispute_Records_Selected</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP No Dispute Records Selected</shortDescription>
+        <value>Please select at least one dispute record</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Other_Evidence</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Other Evidence</shortDescription>
+        <value>Please specify what is the other evidence</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Panel_Review_of_a_single_merit_review</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Panel Review of a single merit review</shortDescription>
+        <value>Panel Review of a single merit review</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Panel_Review_of_single_medical_assessment</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Panel Review of single medical assessment</shortDescription>
+        <value>Panel Review of single medical assessment</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Phone_Number</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Phone_Number</shortDescription>
+        <value>Phone number</value>
+    </labels>
+    <labels>
+        <fullName>CTP_PreviousInjuryRecordTypeId</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_PreviousInjuryRecordTypeId</shortDescription>
+        <value>0125D0000008vF9</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Proceed</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Proceed</shortDescription>
+        <value>Find the claim</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Public_Portal_File_Attachment_Message</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Public Portal File Attachment Message</shortDescription>
+        <value>Please list documents that support your application. If you haven’t provided any of these documents to the insurer previously please attach them below. You are able to attach files of different types (images, video, documents) to the application. The size limit for upload is 2GB per file.</value>
+    </labels>
+    <labels>
+        <fullName>CTP_ReCptchaSiteKey</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_ReCptchaSiteKey</shortDescription>
+        <value>6Len_FIUAAAAADIcRTj0xqyKX0TfJtKs4pCWeLkW</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Reason_for_further_assessment</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Reason for further assessment</shortDescription>
+        <value>Reason for further assessment</value>
+    </labels>
+    <labels>
+        <fullName>CTP_RecordType</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_RecordType</shortDescription>
+        <value>Select a Record Type</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Rejected</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Rejected</shortDescription>
+        <value>Rejected</value>
+    </labels>
+    <labels>
+        <fullName>CTP_RelatedDisputetypes</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>RelatedDisputetypes</shortDescription>
+        <value>Related Dispute type(s)</value>
+    </labels>
+    <labels>
+        <fullName>CTP_RelatedtoApplication</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>RelatedtoApplication</shortDescription>
+        <value>Related to Application</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Remove_DRS_Group_Error</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Remove DRS Group Error</shortDescription>
+        <value>You are not Eligible to Remove this member from a DRS Group</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Remove_OCS_Group_Error</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Remove OCS Group Error</shortDescription>
+        <value>You are not Eligible to Remove this member from a OCS Group</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Reply_Received_Milestone</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Reply Received Milestone</shortDescription>
+        <value>CTP Reply received Milestone</value>
+    </labels>
+    <labels>
+        <fullName>CTP_RequestAdditionalInfo</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_RequestAdditionalInfo</shortDescription>
+        <value>0125D00000008Lh</value>
+    </labels>
+    <labels>
+        <fullName>CTP_ResponseRequired</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_ResponseRequired</shortDescription>
+        <value>Would you like to be contacted in relation to this?</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Review_Application_Task</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Review Application Task</shortDescription>
+        <value>0127F000000hj8H</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Review_Parent_Assessment</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Review Parent Assessment</shortDescription>
+        <value>Reviews_Parent_Assessment</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Review_of_single_medical_assessment</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Review of single medical assessment</shortDescription>
+        <value>Review of single medical assessment</value>
+    </labels>
+    <labels>
+        <fullName>CTP_ReviewsLabelComp</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ReviewsLabelComp</shortDescription>
+        <value>Reviews</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Reviews_Medical_Assessment</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Reviews Medical Assessment</shortDescription>
+        <value>Reviews_Medical_Assessment</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Reviews_Merit_review</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Reviews Merit review</shortDescription>
+        <value>Reviews_Merit_review</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Screening_Milestone</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Screening Milestone</shortDescription>
+        <value>CTP Screening Milestone</value>
+    </labels>
+    <labels>
+        <fullName>CTP_SelectAccess</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_SelectAccess</shortDescription>
+        <value>Select Access</value>
+    </labels>
+    <labels>
+        <fullName>CTP_SelectUser</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_SelectUser</shortDescription>
+        <value>Select User</value>
+    </labels>
+    <labels>
+        <fullName>CTP_StartClaim</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_StartClaim</shortDescription>
+        <value>Lodge an application</value>
+    </labels>
+    <labels>
+        <fullName>CTP_StartClaimApplication</fullName>
+        <categories>Home Page</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_StartClaimApplication</shortDescription>
+        <value>Lodge a Claims Application</value>
+    </labels>
+    <labels>
+        <fullName>CTP_StartDisputeClaim</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_StartDisputeClaim</shortDescription>
+        <value>Lodge a new application</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Submit</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Submit</shortDescription>
+        <value>Next</value>
+    </labels>
+    <labels>
+        <fullName>CTP_SubmitForApproval</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_SubmitForApproval</shortDescription>
+        <value>Submit For Approval</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Submit_Claim_Description</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Submit_Claim_Description</shortDescription>
+        <value>Submit a CTP motor accident claim form to the most at fault insurer.
+The insurer (not SIRA) will be responsible for managing your CTP claim.
+Time limits apply.</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Task_Completed_Case_Action_Outcome</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Task Completed Case Action Outcome</shortDescription>
+        <value>Task Completed</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Task_Record_type</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Task Record type</shortDescription>
+        <value>0127F000000gVZv</value>
+    </labels>
+    <labels>
+        <fullName>CTP_TeamHeading</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_TeamHeading</shortDescription>
+        <value>Case Contacts</value>
+    </labels>
+    <labels>
+        <fullName>CTP_ThankYou</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThankYou</shortDescription>
+        <value>Thank you for submitting your application. Your case number is</value>
+    </labels>
+    <labels>
+        <fullName>CTP_ThankYouMsg</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThankYou</shortDescription>
+        <value>An email has been sent to</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Traige_Outcome_Task_Record_Type</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Traige Outcome Task Record Type</shortDescription>
+        <value>0127F000000gVZwQAM</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Treatment_RecordType_Name</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Treatment RecordType Name</shortDescription>
+        <value>CTP_Treatment</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Treatment_Record_Type_Id</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Treatment_Record_Type_Id</shortDescription>
+        <value>0127F000000hj82</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Unable_To_Contact_Case_Action_Outcome</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP Unable To Contact Case Action Outcome</shortDescription>
+        <value>Unable to Contact</value>
+    </labels>
+    <labels>
+        <fullName>CTP_User</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_User</shortDescription>
+        <value>REMOVE</value>
+    </labels>
+    <labels>
+        <fullName>CTP_UserName</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_UserName</shortDescription>
+        <value>User Name</value>
+    </labels>
+    <labels>
+        <fullName>CTP_UserNameSuffix</fullName>
+        <categories>USER_NAME_SUFFIX_SSO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_UserNameSuffix</shortDescription>
+        <value>.sira</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Welcome</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Welcome</shortDescription>
+        <value>Welcome</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Welcome_To_DRS</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Welcome_To_DRS</shortDescription>
+        <value>Welcome to your SIRA portal</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Welcome_To_Sira_For_Insurer</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Welcome_To_Sira_For_Insurer</shortDescription>
+        <value>Welcome to the NSW State Insurance Regulatory Authority (SIRA) portal for insurers.</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Welcome_To_Sira_For_Legal</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Welcome_To_Sira_For_Legal</shortDescription>
+        <value>Welcome to SIRA's electronic disputes management system for injured people and insurers in the motor accidents scheme, the lifetime care and support scheme, and the worker's compensation scheme.</value>
+    </labels>
+    <labels>
+        <fullName>CTP_Welcome_To_Sira_Portal</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_Welcome_To_Sira_Portal</shortDescription>
+        <value>Welcome to your personal SIRA portal</value>
+    </labels>
+    <labels>
+        <fullName>CTP_continueDraft</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CTP_continueDraft</shortDescription>
+        <value>Continue with the application</value>
+    </labels>
+    <labels>
+        <fullName>Claim_Insurers_AAMI_GIO</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>OCS Public Group</shortDescription>
+        <value>Claim_Insurers_AAMI_GIO</value>
+    </labels>
+    <labels>
+        <fullName>Claim_Insurers_CIC_Allianz</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>OCS Public Group</shortDescription>
+        <value>Claim_Insurers_CIC_Allianz</value>
+    </labels>
+    <labels>
+        <fullName>Claim_Insurers_NRMA</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>OCS Public Group</shortDescription>
+        <value>Claim_Insurers_NRMA</value>
+    </labels>
+    <labels>
+        <fullName>Claim_Insurers_QBE</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>OCS Public Group</shortDescription>
+        <value>Claim_Insurers_QBE</value>
+    </labels>
+    <labels>
+        <fullName>CommunityBaseURL</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CommunityBaseURL</shortDescription>
+        <value>https://sirauat-sira.cs58.force.com</value>
+    </labels>
+    <labels>
+        <fullName>Dispute_Resolution_Insurer_AAMI_GIO</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>DRS PublicGroup</shortDescription>
+        <value>Dispute_Resolution_Insurer_AAMI_GIO</value>
+    </labels>
+    <labels>
+        <fullName>Dispute_Resolution_Insurer_CIC_Allianz</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>DRS PublicGroup</shortDescription>
+        <value>Dispute_Resolution_Insurer_CIC_Allianz</value>
+    </labels>
+    <labels>
+        <fullName>Dispute_Resolution_Insurer_Insurers</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>DRS PublicGroup</shortDescription>
+        <value>Dispute_Resolution_Insurer_Insurers</value>
+    </labels>
+    <labels>
+        <fullName>Dispute_Resolution_Insurer_NRMA</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>DRS PublicGroup</shortDescription>
+        <value>Dispute_Resolution_Insurer_NRMA</value>
+    </labels>
+    <labels>
+        <fullName>Dispute_Resolution_Insurer_QBE</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>DRS PublicGroup</shortDescription>
+        <value>Dispute_Resolution_Insurer_QBE</value>
+    </labels>
+    <labels>
+        <fullName>GoogleAPIRetriveAddress</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>GoogleAPIRetriveAddress</shortDescription>
+        <value>https://maps.googleapis.com/maps/api/geocode/json?latlng=</value>
+    </labels>
+    <labels>
+        <fullName>Google_API_AutoComplete_URL</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Google API AutoComplete URL</shortDescription>
+        <value>https://maps.googleapis.com/maps/api/place/autocomplete/json?input=</value>
+    </labels>
+    <labels>
+        <fullName>Google_API_Details_URL</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Google API Details URL</shortDescription>
+        <value>https://maps.googleapis.com/maps/api/place/details/json?placeid=</value>
+    </labels>
+    <labels>
+        <fullName>Google_API_Key</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Google API Key</shortDescription>
+        <value>AIzaSyBNMoyHTxr_f4p-4rGN6UJCY0wNzOYZTp4</value>
+    </labels>
+    <labels>
+        <fullName>OLCN_ANFNotAllowedMessage</fullName>
+        <categories>OLCN_Redirect_ANF</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>DCR-2750,DCR-2751</shortDescription>
+        <value>The form cannot be downloaded as the Date of Accident was on/after the 1st of December 2017</value>
+    </labels>
+    <labels>
+        <fullName>OLCN_ANFNotAllowedTitle</fullName>
+        <categories>OLCN_Redirect_ANF</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>DCR-2750,DCR-2751</shortDescription>
+        <value>You cannot download the ANF and PICF form</value>
+    </labels>
+    <labels>
+        <fullName>OLCN_DatePicfAnfNotAllowed</fullName>
+        <categories>OLCN_Redirect_ANF</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>DCR-2750,DCR-2751</shortDescription>
+        <value>2017-12-01</value>
+    </labels>
+    <labels>
+        <fullName>OLCN_PICFNotAllowedMessage</fullName>
+        <categories>OLCN_Redirect_ANF</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>DCR-2750,DCR-2751</shortDescription>
+        <value>The form cannot be downloaded as the Date of Accident was on/after the 1st of December 2017</value>
+    </labels>
+    <labels>
+        <fullName>OLCN_PICFNotAllowedTitle</fullName>
+        <categories>OLCN_Redirect_ANF</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>DCR-2750,DCR-2751</shortDescription>
+        <value>You cannot download the ANF and PICF form</value>
+    </labels>
+    <labels>
+        <fullName>Review_Application_Task_Record_Type_Id</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Review Application Task Record Type Id</shortDescription>
+        <value>0127F000000hj8HQAQ</value>
+    </labels>
+    <labels>
+        <fullName>portalRoleName</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>portalRoleName</shortDescription>
+        <value>SallyBurnsCustomerUser</value>
+    </labels>
+</CustomLabels>

@@ -1,0 +1,58 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "CTP_OLCSAttachmentCategoryMapping__c",
+                "referenceId": "CTP_OLCSAttachmentCategoryMapping__cRef1"
+            },
+            "Name": "5",
+            "CTP_Category__c": "Consent form,Accident,Medical,Employment,Other",
+            "CTP_Section__c": "CTPAssistUser"
+        },
+        {
+            "attributes": {
+                "type": "CTP_OLCSAttachmentCategoryMapping__c",
+                "referenceId": "CTP_OLCSAttachmentCategoryMapping__cRef2"
+            },
+            "Name": "4",
+            "CTP_Category__c": "Other,Consent form,Accident,Medical,Employment",
+            "CTP_Section__c": "Other"
+        },
+        {
+            "attributes": {
+                "type": "CTP_OLCSAttachmentCategoryMapping__c",
+                "referenceId": "CTP_OLCSAttachmentCategoryMapping__cRef3"
+            },
+            "Name": "3",
+            "CTP_Category__c": "Employment,Consent form,Accident,Medical,Other",
+            "CTP_Section__c": "EmploymentSection"
+        },
+        {
+            "attributes": {
+                "type": "CTP_OLCSAttachmentCategoryMapping__c",
+                "referenceId": "CTP_OLCSAttachmentCategoryMapping__cRef4"
+            },
+            "Name": "2",
+            "CTP_Category__c": "Medical,Consent form,Accident,Employment,Other",
+            "CTP_Section__c": "HealthSection"
+        },
+        {
+            "attributes": {
+                "type": "CTP_OLCSAttachmentCategoryMapping__c",
+                "referenceId": "CTP_OLCSAttachmentCategoryMapping__cRef5"
+            },
+            "Name": "1",
+            "CTP_Category__c": "Accident,Consent form,Medical,Employment,Other",
+            "CTP_Section__c": "AccidentSection"
+        },
+        {
+            "attributes": {
+                "type": "CTP_OLCSAttachmentCategoryMapping__c",
+                "referenceId": "CTP_OLCSAttachmentCategoryMapping__cRef6"
+            },
+            "Name": "6",
+            "CTP_Category__c": "Consent form,Accident,Medical,Employment,Other",
+            "CTP_Section__c": "ConsentformSection"
+        }
+    ]
+}

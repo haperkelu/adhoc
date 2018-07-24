@@ -1,0 +1,211 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "CaseTeamRole",
+                "referenceId": "CaseTeamRoleRef1"
+            },
+            "AccessLevel": "Edit",
+            "Name": "Claims Assessor",
+            "PreferencesVisibleInCSP": false
+        },
+        {
+            "attributes": {
+                "type": "CaseTeamRole",
+                "referenceId": "CaseTeamRoleRef2"
+            },
+            "AccessLevel": "Edit",
+            "Name": "DRO",
+            "PreferencesVisibleInCSP": true
+        },
+        {
+            "attributes": {
+                "type": "CaseTeamRole",
+                "referenceId": "CaseTeamRoleRef3"
+            },
+            "AccessLevel": "Edit",
+            "Name": "External Assessor",
+            "PreferencesVisibleInCSP": true
+        },
+        {
+            "attributes": {
+                "type": "CaseTeamRole",
+                "referenceId": "CaseTeamRoleRef4"
+            },
+            "AccessLevel": "Edit",
+            "Name": "Insurer Primary Contact",
+            "PreferencesVisibleInCSP": false
+        },
+        {
+            "attributes": {
+                "type": "CaseTeamRole",
+                "referenceId": "CaseTeamRoleRef5"
+            },
+            "AccessLevel": "Edit",
+            "Name": "Medical Assessor",
+            "PreferencesVisibleInCSP": false
+        },
+        {
+            "attributes": {
+                "type": "CaseTeamRole",
+                "referenceId": "CaseTeamRoleRef6"
+            },
+            "AccessLevel": "Edit",
+            "Name": "Misc claims assessment",
+            "PreferencesVisibleInCSP": false
+        },
+        {
+            "attributes": {
+                "type": "CaseTeamRole",
+                "referenceId": "CaseTeamRoleRef7"
+            },
+            "AccessLevel": "Edit",
+            "Name": "Misc claims assessor",
+            "PreferencesVisibleInCSP": true
+        },
+        {
+            "attributes": {
+                "type": "CaseTeamRole",
+                "referenceId": "CaseTeamRoleRef8"
+            },
+            "AccessLevel": "Edit",
+            "Name": "Officer of DRS",
+            "PreferencesVisibleInCSP": true
+        },
+        {
+            "attributes": {
+                "type": "CaseTeamRole",
+                "referenceId": "CaseTeamRoleRef9"
+            },
+            "AccessLevel": "Read",
+            "Name": "Claimant",
+            "PreferencesVisibleInCSP": false
+        },
+        {
+            "attributes": {
+                "type": "CaseTeamRole",
+                "referenceId": "CaseTeamRoleRef10"
+            },
+            "AccessLevel": "Edit",
+            "Name": "Proper Officer",
+            "PreferencesVisibleInCSP": false
+        },
+        {
+            "attributes": {
+                "type": "CaseTeamRole",
+                "referenceId": "CaseTeamRoleRef11"
+            },
+            "AccessLevel": "Edit",
+            "Name": "Case Management Officer",
+            "PreferencesVisibleInCSP": false
+        },
+        {
+            "attributes": {
+                "type": "CaseTeamRole",
+                "referenceId": "CaseTeamRoleRef12"
+            },
+            "AccessLevel": "Edit",
+            "Name": "Case Manager",
+            "PreferencesVisibleInCSP": false
+        },
+        {
+            "attributes": {
+                "type": "CaseTeamRole",
+                "referenceId": "CaseTeamRoleRef13"
+            },
+            "AccessLevel": "Edit",
+            "Name": "Insurer Claims Manager",
+            "PreferencesVisibleInCSP": true
+        },
+        {
+            "attributes": {
+                "type": "CaseTeamRole",
+                "referenceId": "CaseTeamRoleRef14"
+            },
+            "AccessLevel": "Edit",
+            "Name": "Insurer Legal Rep",
+            "PreferencesVisibleInCSP": true
+        },
+        {
+            "attributes": {
+                "type": "CaseTeamRole",
+                "referenceId": "CaseTeamRoleRef15"
+            },
+            "AccessLevel": "Edit",
+            "Name": "Insurer Triager",
+            "PreferencesVisibleInCSP": true
+        },
+        {
+            "attributes": {
+                "type": "CaseTeamRole",
+                "referenceId": "CaseTeamRoleRef16"
+            },
+            "AccessLevel": "Edit",
+            "Name": "Team Leader",
+            "PreferencesVisibleInCSP": false
+        },
+        {
+            "attributes": {
+                "type": "CaseTeamRole",
+                "referenceId": "CaseTeamRoleRef17"
+            },
+            "AccessLevel": "Edit",
+            "Name": "Legal Representative",
+            "PreferencesVisibleInCSP": true
+        },
+        {
+            "attributes": {
+                "type": "CaseTeamRole",
+                "referenceId": "CaseTeamRoleRef18"
+            },
+            "AccessLevel": "Edit",
+            "Name": "Merit Review Officer",
+            "PreferencesVisibleInCSP": false
+        },
+        {
+            "attributes": {
+                "type": "CaseTeamRole",
+                "referenceId": "CaseTeamRoleRef19"
+            },
+            "AccessLevel": "Edit",
+            "Name": "Merit Reviewer",
+            "PreferencesVisibleInCSP": false
+        },
+        {
+            "attributes": {
+                "type": "CaseTeamRole",
+                "referenceId": "CaseTeamRoleRef20"
+            },
+            "AccessLevel": "Edit",
+            "Name": "Worker",
+            "PreferencesVisibleInCSP": true
+        },
+        {
+            "attributes": {
+                "type": "CaseTeamRole",
+                "referenceId": "CaseTeamRoleRef21"
+            },
+            "AccessLevel": "Edit",
+            "Name": "Worker Representative",
+            "PreferencesVisibleInCSP": true
+        },
+        {
+            "attributes": {
+                "type": "CaseTeamRole",
+                "referenceId": "CaseTeamRoleRef22"
+            },
+            "AccessLevel": "Read",
+            "Name": "Previous Reviewer",
+            "PreferencesVisibleInCSP": false
+        },
+        {
+            "attributes": {
+                "type": "CaseTeamRole",
+                "referenceId": "CaseTeamRoleRef23"
+            },
+            "AccessLevel": "Read",
+            "Name": "Peer Reviewer",
+            "PreferencesVisibleInCSP": false
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "orgName": "Cap Demo",
+    "country": "AU",
+    "edition": "Developer",
+    "description": "Cap demo",
+    "hasSampleData": "true",
+    "features": ["Communities",
+        "LightningSalesConsole",
+        "LightningServiceConsole",
+        "ServiceCloud", 
+        "AuthorApex",
+        "CustomApps",
+        "CustomTabs",
+        "DebugApex",
+        "DefaultWorkflowUser",
+        "ExternalSharing",
+        "Sites",
+        "ForceComPlatform",
+        "API"
+    ],
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled", 
+            "NetworksEnabled", 
+            "ChatterEnabled",
+            "IsAccountTeamsEnabled", 
+            "ShowViewHierarchyLink", 
+            "IsOpportunityTeamEnabled", 
+            "IsActivityRemindersEnabled", 
+            "IsEntitlementsEnabled", 
+            "DocumentContentSearchEnabled", 
+            "IsKnowledgeEnabled", 
+            "IsLiveAgentEnabled", 
+            "EnhancedEmailEnabled"],
+        "disabled": ["IsNameSuffixEnabled"]
+    }
+}

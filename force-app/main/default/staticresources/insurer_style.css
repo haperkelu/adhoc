@@ -1,0 +1,1699 @@
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Roboto Light'), local('Roboto-Light'), url(https://fonts.gstatic.com/s/roboto/v16/Hgo13k-tfSpn0qi1SFdUfVtXRa8TVwTICgirnJhmVJw.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 300;
+    src: local('Roboto Light Italic'), local('Roboto-LightItalic'), url(https://fonts.gstatic.com/s/roboto/v16/7m8l7TlFO-S3VkhHuR0at44P5ICox8Kq3LLUNMylGO4.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Roboto Italic'), local('Roboto-Italic'), url(https://fonts.gstatic.com/s/roboto/v16/vPcynSL0qHq_6dX7lKVByfesZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Roboto Medium'), local('Roboto-Medium'), url(https://fonts.gstatic.com/s/roboto/v16/RxZJdnzeo3R5zSexge8UUVtXRa8TVwTICgirnJhmVJw.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 500;
+    src: local('Roboto Medium Italic'), local('Roboto-MediumItalic'), url(https://fonts.gstatic.com/s/roboto/v16/OLffGBTaF0XFOW1gnuHF0Y4P5ICox8Kq3LLUNMylGO4.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+@font-face {
+    font-family: 'RobotoSlab';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Roboto Slab Light'), local('RobotoSlab-Light'), url(https://fonts.gstatic.com/s/robotoslab/v6/dazS1PrQQuCxC3iOAJFEJUo2lTMeWA_kmIyWrkNCwPc.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+@font-face {
+    font-family: 'RobotoSlab';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Roboto Slab Regular'), local('RobotoSlab-Regular'), url(https://fonts.gstatic.com/s/robotoslab/v6/y7lebkjgREBJK96VQi37Zo4P5ICox8Kq3LLUNMylGO4.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+
+/* === TEMPLATE OVERRIDE ============================================= */
+
+.comm-page-home, [class*=comm-page-custom-], body .slds-form-element__help {
+    font-size: 1rem;
+}
+
+.comm-page-home .siteforceContentArea .comm-layout-column:not(:empty),
+[class*=comm-page-custom-] .siteforceContentArea .comm-layout-column:not(:empty) {
+    padding: 0;
+}
+
+.comm-page-home .siteforceServiceBody .cCenterPanel, 
+[class*=comm-page-custom-] .siteforceServiceBody .cCenterPanel {
+    max-width: none;
+}
+
+/* --- Home --- */
+
+.comm-page-home .siteforceServiceBody .cCenterPanel .slds-col--padded {
+    padding: 0;
+}
+
+.comm-page-home .slds-col--padded .ui-widget {
+    margin-top: 0;
+}
+/* --- Footer --- */
+body .cFooterPanel {
+    background: #354378;
+}
+body .cCTP_Public_Home_Footer a, body .cCTP_Public_Home_Footer div{
+    color:#ffffff;
+}
+/* --- Header --- */
+body .siteforcePrmBody .cHeaderWrapper.cHeaderWrapper--fixed {
+    position: relative!important;
+    left: 0;
+    top: 0;
+    right: 0;
+    z-index: 100;
+    background-color: #ffffff;
+    float: left;
+    width: 100%;
+}
+
+@media only screen and (min-width: 48em) {
+    body .siteforceServiceBody .cHeaderLine {
+        padding: 1rem 1rem 3rem 1rem;
+    }
+}
+
+body .siteforceServiceBody .cHeaderOverlay {
+    background: none;
+}
+
+body .forceCommunityGlobalNavigation {
+    background-color: #f4f4f4;
+    box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.1);
+}
+
+.forcecommunity-global-navigation-list {
+    padding: 0px 19px;
+}
+
+@media only screen and (min-width: 48em) {
+    body .siteforceServiceBody .cBrandingProfile {
+        width: 25%;
+    }
+}
+
+body .siteforceServiceBody .cSearchPublisher {
+    display: none;
+}
+
+body .siteforceServiceBody .cNotifications .unsNotificationsCounter {
+    color: #54698d;
+}
+
+body .selfServiceProfileMenuTrigger a span, body .selfServiceProfileMenuTrigger .profileName {
+    font-size: 16px;
+    color: #354378;
+    text-shadow: none;
+    font-weight: normal;
+}
+
+body .forceCommunityGlobalNavigation .slds-list__item {
+    margin: 0 24px;
+    position: relative;
+}
+
+body .forceCommunityGlobalNavigation .slds-list__item:first-child {
+    margin-left: 0;
+}
+
+body .forceCommunityGlobalNavigation .slds-list__item a, body .forceCommunityGlobalNavigation .slds-list__item button {
+    font-weight: normal;
+    padding: 7px 0;
+}
+
+body .forceCommunityGlobalNavigation .slds-list_horizontal>.slds-list__item>a:hover, 
+body .forceCommunityGlobalNavigation .slds-list_horizontal>.slds-list__item>a.slds-is-active:not([data-type="home"]), 
+body .forceCommunityGlobalNavigation .slds-list_horizontal>.slds-list__item>button:hover, 
+body .forceCommunityGlobalNavigation .slds-list_horizontal>.slds-list__item>button.slds-is-active:not([data-type="home"]) {
+    background: none;
+}
+
+body .forceCommunityGlobalNavigation .slds-list_horizontal>.slds-list__item>a:hover:before, 
+body .forceCommunityGlobalNavigation .slds-list_horizontal>.slds-list__item>a.slds-is-active:not([data-type="home"]):before, 
+body .forceCommunityGlobalNavigation .slds-list_horizontal>.slds-list__item>button:hover:before, 
+body .forceCommunityGlobalNavigation .slds-list_horizontal>.slds-list__item>button.slds-is-active:not([data-type="home"]):before {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 3px;
+    background: #cb1488;
+    bottom: 0;
+    left: 0;
+}
+
+/* --- Home --- */
+
+.comm-page-home .slds-col--padded.comm-content-header.comm-layout-column {
+    padding: 0;
+}
+
+.comm-page-home .comm-content-header + div, .comm-content-footer {
+    max-width: 1440px;
+    margin: auto;
+}
+
+.comm-page-home .siteforcePrmBody .cCenterPanel {
+    max-width: unset;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.comm-page-home .siteforcePrmBody .cCenterPanel>*>.slds-grid>.slds-medium-size--8-of-12.slds-large-size--8-of-12.comm-layout-column {
+    padding: 30px;
+    border-right: solid 1px #e9ecf0;
+}
+
+.comm-page-home .slds-medium-size--4-of-12.slds-large-size--4-of-12 .slds-col--padded.comm-layout-column {
+    padding: 30px 30px 0;
+}
+
+.comm-page-home .forceCommunityDashboard .desktopDashboardsDashboard.dashboardTopLevelContainer.standalone {
+    width: calc(100% + 32px);
+    height: calc(100% + 16px);
+    margin: -16px 0 0 -16px;
+}
+
+body .siteforcePrmBody .cHeader .cBrandingLogo{
+    width:300px;
+    height:3rem;
+}
+
+/* === STANDARD COMPONENT OVERRIDE ============================================= */
+
+/* --- Record List --- */
+
+.sfaTaskList, .forceListViewManager {
+    border: solid 1px #dfe3eb;
+    border-radius: 4px;
+}
+
+.slds-table_header-fixed_container, .slds-table--header-fixed_container {
+    border-radius: 4px;
+}
+
+.slds-page-header.slds-page-header_joined.slds-page-header--object-home {
+    background-color: #f0f4fa;
+    padding: .65rem;
+    border: none;
+}
+
+/* --- Tabs --- */
+body .uiTabset--default .tabs__nav {
+    border: none;
+    max-width: 1140px;
+    margin: auto;
+}
+.forceCommunityTabset .uiTabBar .uiTabItem .tabHeader {
+    padding: 14px 0;
+}
+
+.uiTabset--base .tabs__item {
+    font-size: 1rem;
+}
+
+.uiTabset--default .tabs__item > a {
+    color: #16325c !important;
+}
+
+.uiTabset--default .tabs__item.active > a, .uiTabset--default .tabs__item>a:hover, .uiTabset--default .tabs__item>a:focus {
+    border-color: #177ed6 !important;
+    color: #4d9ce0 !important;
+}
+
+.uiTabset--default .tabs__item>a:focus {
+    box-shadow: #177ed6 0 -1px 0 inset !important;
+}
+
+.uiTabBar .tabs__nav {
+    margin-bottom: 33px;
+}
+
+/* === TEXT ============================================= */
+
+.pink {
+    color: #cb1488;
+}
+
+.thin {
+    font-weight: 300;
+}
+
+.slds-text-body_large {
+    font-size: 1.142857142857143em;
+}
+
+[class*=slds-text-heading_] {
+    font-weight: bold;
+}
+
+.slds-text-title_xx-large {
+    color: #354378;
+    font-size: 32px;
+}
+
+/* === BUTTONS ============================================= */
+
+.slds-button_neutral, .slds-button--neutral {
+    border-radius: 4px;
+    font-size: 13px;
+    background-color: #ffffff;
+    border: solid 1px #d8dde6;
+    height: 33px;
+    line-height: inherit;
+}
+
+.slds-button_brand {
+    border-radius: 3px;
+    min-width: 263px;
+    font-size: 16px;
+    height: 44px;
+}
+
+.slds-button_brand, .slds-button--brand,
+.slds-button--neutral.uiButton--brand {
+    background-color: #e8007f;
+    border: solid 1px #e8007f;
+}
+
+/* === CONTROLS ============================================= */
+
+.form-element__label:not(.uiLabel-hidden) {
+    display: inline-block;
+    color: rgb(84, 105, 141);
+    font-size: .75rem;
+    line-height: 1.5;
+    margin-right: .75rem;
+    margin-bottom: .125rem;
+}
+
+.slds-form-element__static {
+    color: #1b436f;
+    font-size: 1.142857142857143em;
+    font-weight: 300;
+}
+
+textarea, .uiInput--textarea .textarea, .uiInput--textarea.textarea {
+    border-radius: 4px;
+    border: solid 1px #a8b7c7;
+}
+
+/* --- Custom Radio --- */
+
+.radio-special {
+    display: flex;
+}
+
+.radio-special .slds-form-element, .radio-special .uiInputRadio {
+    width: 100%;
+    margin-right: 5px;
+}
+
+.radio-special .slds-form-element:last-child, .radio-special .uiInputRadio:last-child {
+    margin-right: 0;
+}
+
+.radio-special label {
+    display: inline-flex;
+    width: 100%;
+    height: 100%;
+    padding: 9px;
+    border-radius: 4px;
+    background-color: #ffffff;
+    border: solid 2px #c1c6d0;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.cCTP_Dispute_New .radio-special label {
+    display: inline-flex;
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    background-color: transparent;
+    border: 0;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+body .cCTP_Dispute_New .unsure.uiInput--radio label:before{
+    position: relative;
+    top: 0;
+}
+
+.radio-special .form-element__label {
+    margin-bottom: 0;
+}
+
+.radio-special input:checked + label {
+    border-color: #1589ee;
+}
+
+.radio-special .slds-form-element__control, .radio-special .slds-radio {
+    height: 100%;
+}
+
+.radio-special input, 
+.radio-special .slds-radio .slds-radio_faux, .radio-special .slds-radio .slds-radio--faux {
+    display: none;
+}
+
+.radio-special label span {
+    line-height: 1;
+    margin: 0;
+    display: inline-block;
+}
+
+/* === MISC ============================================= */
+
+hr {
+    margin: 20px 0;
+    border-top: solid 2px #c1c6d0;
+}
+
+/* === ACCORDIONS ============================================= */
+
+.slds-accordion__section {
+    border-radius: 4px;
+    overflow: hidden;
+    padding: 0;
+    margin-bottom: 10px;
+}
+
+.slds-accordion__summary {
+    background-color: #1589ee;
+    color: #ffffff;
+    padding: 0.75em;
+}
+
+.slds-accordion__summary .count {
+    height: 27px;
+    width: 27px;
+    background: #ffffff;
+    color: #1589ee;
+    display: inline-flex;
+    justify-content: center;
+    align-content: center;
+    border-radius: 50%;
+    font-size: 16px;
+    line-height: 1.75;
+    margin-right: 10px;
+}
+
+.slds-accordion__summary-heading {
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.slds-accordion__summary .slds-button_icon-bare, .slds-accordion__summary .slds-button--icon-bare {
+    color: inherit;
+    height: auto;
+}
+
+.slds-accordion__content {
+    display: none;
+    border: solid 0.5px #c1c6d0;
+    border-top: none;
+    border-bottom-left-radius: inherit;
+    border-bottom-right-radius: inherit;
+}
+
+.slds-is-open .slds-accordion__summary {
+    margin-bottom: 0;
+}
+
+.slds-is-open .slds-accordion__content {
+    display: block;
+}
+
+/*Header start*/
+.navigationMenuWrapper{
+    background-color:#f4f4f4;
+}
+body .forceCommunityNavigationMenu .menuItemLink,body .forceCommunityNavigationMenu .menuItemLink.triggerLink{
+    color: #1b436f;
+    text-decoration: none;
+    border-bottom: 3px solid transparent;
+}
+body .siteforceNapiliBody .cHeaderPanel{
+    height: 125px;
+    background-color:#fff;
+    
+}
+body .siteforceNapiliBody .selfServiceSearchWrapper .no-assigned-image {
+    height: 0px;
+}
+body .selfServiceProfileMenuTrigger a{
+    color: #354378;  
+    text-shadow: 0 0 0px #354378;
+}
+body .forceCommunityNavigationMenu .menuItemLink:hover,body .forceCommunityNavigationMenu .menuItemLink:focus,body .forceCommunityNavigationMenu .menuItemLink.triggerLink:hover,body .forceCommunityNavigationMenu .menuItemLink.triggerLink:focus,body .forceCommunityNavigationMenu .menuItem.current .menuItemLink,body .forceCommunityNavigationMenu .menuItem.current .menuItemLink.triggerLink {
+    color: #006db2;
+    border-bottom: 3px solid #cb1488;
+    background-color: #f4f4f4;
+}
+body .slds-global-header__button_icon,body .slds-global-header__button--icon, body .slds-global-header__button_icon:hover:not(:disabled), .slds-global-header__button_icon:focus, .slds-global-header__button--icon:hover:not(:disabled), .slds-global-header__button--icon:focus {
+    margin: 0 .25rem;
+    color: #1b436f;
+}
+body .forceCommunityNavigationMenu .homeButton.menuItemLink:hover, .forceCommunityNavigationMenu .homeButton.menuItemLink:focus {
+    color: #1b436f;
+    background-color: transparent;
+    border: 0;
+}
+body .siteforcePrmBody .cHeader .forceCommunityNavigationMenu .menuItemLink, .siteforcePrmBody .cHeader .forceCommunityNavigationMenu .menuItemLink.triggerLink {
+    padding: 7px 14px;
+    color: #1b436f;
+}
+body .siteforcePrmBody .cHeader .forceCommunityNavigationMenu .menuItem.current .menuItemLink{
+    color: #1b436f;
+}
+@media only screen and (min-width: 48em)
+    {
+    body .siteforceNapiliBody .cHeaderLine {
+        padding:20px 0px;
+    }
+}
+/*Header end*/
+
+
+/*Nikunj*/
+
+
+/* === TEXT ============================================= */
+
+.thin {
+    font-weight: 300;
+}
+
+body b {
+    font-weight: 500;
+}
+
+body [class*=slds-text-heading] {
+    font-weight: 500;
+}
+
+.slds-text-body_x-small {
+    font-size: 0.75rem;
+    font-weight: 300;
+    color: #1b436f;
+}
+
+.slds-text-body_x-small a {
+    text-decoration: underline;
+}
+
+.slds-text-body_medium {
+    font-size: 16px;
+}
+
+.slds-text-body_large {
+    font-size: 18px;
+}
+
+.slds-text-body_x-large {
+    font-size: 32px;
+}
+
+.slds-text-body_xx-large {
+    font-size: 24px;
+}
+
+.slds-text-heading_x-small {
+    font-size: 18px;
+}
+
+/* --- Global messages --- */
+
+body .uiMessage {
+    font-size: 20px;
+    line-height: 1.4;
+    margin: 0 0 26px 0;
+    padding: 0;
+}
+
+body .uiMessage.error {
+    color: #e8007f;
+    border: none;
+    background: none;
+}
+
+.uiMessage.error .bLeft:before {
+    content: '\00d7';
+    border: 2px solid #e8007f;
+    display: inline-block;
+    width: 24px;
+    text-align: center;
+    line-height: 19px;
+    height: 24px;
+    border-radius: 50%;
+    margin-right: 8px;
+}
+
+/* --- Theming --- */
+
+.action-description {
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 1.25;
+    color: #e8007f;
+}
+
+.action-due-date {
+    font-weight: 300;
+    color: #1b436f;
+}
+
+/* === BUTTONS ============================================= */
+
+body .slds-button_neutral,
+body .slds-button_success,
+body .slds-button_brand,
+body .slds-button_inverse,
+body .slds-button_destructive,
+body .slds-button--neutral,
+body .slds-button--success,
+body .slds-button--brand,
+body .slds-button--inverse,
+body .slds-button--destructive {
+    min-height: 44px;
+    border-radius: 3px;
+}
+
+body .slds-button_success, body .slds-button--success {
+    min-width: 175px;
+    background-color: #1c7b40;
+    border-color: #1c7b40;
+    color: #ffffff;
+    float: right;
+}
+
+body .slds-button_brand, body .slds-button--brand {
+    padding-left: 24px;
+    padding-right: 24px;
+    min-width: 200px;
+    color:#FFFFFF;
+    background-color: #DA0178;
+}
+
+body .uiButton--brand{
+    background-color: #DA0178;
+}
+
+body .slds-datepicker td.slds-is-selected>.slds-day{
+  background: #DA0178;
+}
+
+body .slds-button_neutral, 
+body .slds-button--neutral,
+body .slds-button.slds-button--neutral{
+    border-color: #106EA3;
+    color: #106EA3 !important;
+    font-weight: 500;
+}
+body .slds-button.slds-button--neutral.uiButton--brand, 
+body .slds-button.slds-button--neutral.uiButton--brand:hover, 
+body .slds-button.slds-button--neutral.uiButton--brand:focus{
+    color:#ffffff !important;
+}
+
+.slds-button .slds-button__icon {
+    vertical-align: baseline;
+}
+
+body .slds-button[disabled], .slds-button.disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
+    pointer-events: none;
+}
+
+.slds-button .lightningPrimitiveIcon {
+    vertical-align: middle;
+}
+
+/* === FORMS =================================================*/
+
+body .slds-form_horizontal .slds-form-element__label {
+    font-weight: 300;
+}
+
+body .slds-form_horizontal .slds-form-element__static {
+    text-align: left;
+    display: flex;
+    font-size: 1em;
+    padding: 0 0 0 22px;
+}
+
+/* === CONTROLS ============================================= */
+
+.slds-form-element {
+    margin-bottom: 18px;
+}
+
+.slds-has-error .slds-form-element__help, .slds-form-element__help.error {
+    color: #DA0178;
+}
+
+.label-large {
+    font-size: 24px;
+    font-weight: 500;
+    display: block;
+    margin-bottom: 14px;
+}
+
+body .slds-form-element__label, body .slds-checkbox .slds-form-element__label {
+    font-size: 14px;
+    color: #54698d;
+    margin-bottom: 5px;
+    width: 100%;
+}
+
+.required:after {
+    content: '*';
+    display: inline-block;
+    margin-left: 5px;
+    font-weight: bold;
+    color: #e8007f;
+}
+
+.optional {
+    font-weight: 300;
+    font-style: italic;
+   	color: #1F8245;
+    float: right;
+}
+
+body .uiInput--input .input, body .uiInput--input.input {
+    line-height: 42px;
+    color: #3b435b;
+    border: 1px solid #a8b7c7;
+    border-radius: 4px;
+    font-size: 1rem;
+}
+
+input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
+    color: #a1a7b1;
+    font-size: 1em;
+}
+input::-moz-placeholder, textarea::-moz-placeholder {
+    color: #a1a7b1;
+    font-size: 1em;
+}
+input:-ms-input-placeholder, textarea:-ms-input-placeholder {
+    color: #a1a7b1;
+    font-size: 1em;
+}
+input:-moz-placeholder, textarea:-moz-placeholder {
+    color: #a1a7b1;
+    font-size: 1em;
+}
+
+body .slds-form-element__help {
+    margin-top: 5px;
+    font-size: 1em;
+}
+
+body .uiInput--input.input[disabled], body .uiInput--input .input[disabled] {
+    background-color: #f3f5f9;
+}
+
+/* --- Icon input fields --- */
+
+.slds-form-element__control.icon-prefix, .slds-form-element__control.icon-postfix {
+    position: relative;
+}
+
+.slds-form-element__control.icon-prefix .slds-icon_container, .slds-form-element__control.icon-postfix .slds-icon_container {
+    display: block;
+}
+
+.slds-form-element__control.icon-prefix .slds-icon, .slds-form-element__control.icon-postfix .slds-icon {
+    width: 18px;
+    position: absolute;
+    top: 6px;
+    right: 12px;
+    fill: #3b435b;
+    z-index: 1;
+}
+
+.slds-form-element__control.icon-prefix > .slds-icon_container:first-child .slds-icon {
+    left: 12px;
+    right: initial; 
+    fill: #0086db;
+}
+
+.slds-form-element__control.icon-prefix input, .slds-form-element__control.icon-prefix .uiInput--select.select:not([multiple]) {
+    padding-left: 40px;
+}
+
+.slds-form-element__control.icon-postfix input {
+    padding-right: 40px;
+}
+
+/* --- Select --- */
+
+body .uiInput--select.select, body .uiInput--select .select, body .uiInput--select .uiPopupTrigger a {
+    color: #3b435b;
+    border: 1px solid #a8b7c7;
+    border-radius: 4px;
+}
+
+body .uiInput--select.select:not([multiple]), .uiInput--select .select:not([multiple]), .uiInput--select .uiPopupTrigger a {
+    height: 44px;
+    line-height: 42px;
+}
+
+/* --- Checkbox --- */
+
+.slds-checkbox .slds-checkbox__label {
+    display: -webkit-flex;
+    display: flex;
+}
+
+body .slds-form-element .slds-checkbox [type=checkbox]+.slds-checkbox_faux, 
+body .slds-form-element .slds-checkbox [type=checkbox]+.slds-checkbox--faux, 
+body .slds-form-element .slds-checkbox [type=checkbox]~.slds-checkbox_faux, 
+body .slds-form-element .slds-checkbox [type=checkbox]~.slds-checkbox--faux, 
+body .slds-form-element .slds-checkbox [type=checkbox]+.slds-checkbox__label .slds-checkbox_faux, 
+body .slds-form-element .slds-checkbox [type=checkbox]+.slds-checkbox__label .slds-checkbox--faux {
+    margin: 0;
+    width: 25px;
+    height: 25px;
+    border-radius: 2px;
+    border: solid 1px #1ea4f4;
+}
+
+body .slds-form-element .slds-checkbox [type=checkbox]:checked+.slds-checkbox_faux, 
+body .slds-form-element .slds-checkbox [type=checkbox]:checked+.slds-checkbox--faux, 
+body .slds-form-element .slds-checkbox [type=checkbox]:checked~.slds-checkbox_faux, 
+body .slds-form-element .slds-checkbox [type=checkbox]:checked~.slds-checkbox--faux, 
+body .slds-form-element .slds-checkbox [type=checkbox]:checked+.slds-checkbox__label .slds-checkbox_faux, 
+body .slds-form-element .slds-checkbox [type=checkbox]:checked+.slds-checkbox__label .slds-checkbox--faux {
+    background-color: #0086db;
+    border-color: #106ea3;
+}
+
+body .slds-checkbox [type="checkbox"]:checked + .slds-checkbox_faux::after, 
+body .slds-checkbox [type="checkbox"]:checked + .slds-checkbox--faux::after, 
+body .slds-checkbox [type="checkbox"]:checked ~ .slds-checkbox_faux::after, 
+body .slds-checkbox [type="checkbox"]:checked ~ .slds-checkbox--faux::after, 
+body .slds-checkbox [type="checkbox"]:checked + .slds-checkbox__label .slds-checkbox_faux::after, 
+body .slds-checkbox [type="checkbox"]:checked + .slds-checkbox__label .slds-checkbox--faux::after {
+    height: 0.5rem;
+    width: 0.75rem;
+    top: 45%;
+    border-color: #ffffff;
+}
+
+.slds-checkbox .slds-checkbox__label .slds-form-element__label {
+    padding: 0 0 0 1rem;
+    margin-right: 0;
+}
+
+/* --- Radio --- */
+
+.uiInput--default.uiInput--radio {
+    display: inline-block;
+    position: relative;
+}
+
+.uiInput--default.uiInput--radio label {
+    position: relative;
+    left: 2.75em;
+    margin-right: 5.5625em;
+    color: #3B435B;
+}
+
+.uiInput--default.uiInput--radio label:before {
+    content: '';
+    position: absolute;
+    height: 1.572em;
+    width: 1.572em;
+    border-radius: 50%;
+    border: solid 1px #a8b7c7;
+    top: -0.1em;
+    left: -2.75em;
+}
+.uiInput--default.uiInput--radio label:hover:before{
+    border: solid 1px #1589ee;
+}
+.uiInput--default.uiInput--radio input {
+    -webkit-appearance: none;
+    width:0px;
+}
+
+.uiInput--default.uiInput--radio input:checked:before {
+    content: '';
+    position: absolute;    
+    width: 0.65em;
+    height: 0.4em;
+    transform: rotate(-45deg);
+    top: 0.475em;
+    left: 0.45em;
+    border-bottom: 2px solid #1589ee;
+    border-left: 2px solid #1589ee;
+}
+
+/* --- Date picker --- */
+
+.uiInput--datetime .datePicker-openIcon {
+    top: 11px;
+    height: 22px;
+}
+
+.uiInput--datetime .datePicker-openIcon::before {
+    color: #3b435b;
+    font-size: 22px;
+    line-height: 1em;
+}
+
+/* --- Custom radio --- */
+
+.radio-special {
+    display: flex;
+}
+
+.radio-special .slds-form-element, .radio-special .uiInputRadio {
+    width: 100%;
+    margin-right: 5px;
+}
+
+.radio-special .slds-form-element:last-child, .radio-special .uiInputRadio:last-child {
+    margin-right: 0;
+}
+
+.radio-special .uiInput--default.uiInput--radio label {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    padding: 9px;
+    border-radius: 4px;
+    background-color: #ffffff;
+    border: solid 2px #c1c6d0;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    left: 0;
+    margin-right: 0;
+    font-size: 14px;
+    font-weight: 300;
+}
+.radio-special .uiInput--default.uiInput--radio input:checked + label,
+.radio-special .uiInput--default.uiInput--radio input:hover + label,
+.radio-special .uiInput--default.uiInput--radio input:focus + label{
+    border-color: #1589ee;
+}
+.radio-special .uiInput--default.uiInput--radio label:before {
+    display: none;
+}
+
+.radio-special .uiInput--default.uiInput--radio input:checked + label {
+    border-color: #1589ee;
+}
+
+.radio-special .uiInput--default.uiInput--radio input:checked ~ .slds-icon_container {
+    display: block;
+    visibility: visible;
+    background-color: #0086db;
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    padding: 0;
+    text-align: center;
+    height: 24px;
+    width: 24px;
+    z-index: 1;	
+}
+
+.radio-special .slds-icon-action-check .slds-icon {
+    width: 15px;
+    height: 15px;
+}
+
+.radio-special .form-element__label {
+    margin-bottom: 0;
+}
+
+.radio-special input:checked + label {
+    border-color: #1589ee;
+}
+
+.radio-special .slds-form-element__control, .radio-special .slds-radio {
+    height: 100%;
+}
+
+.radio-special input, 
+.radio-special .slds-radio .slds-radio_faux, .radio-special .slds-radio .slds-radio--faux {
+    display: none;
+}
+
+.radio-special label span {
+    line-height: 1;
+    margin: 0;
+    display: inline-block;
+}
+
+/* --- Dropzone --- */
+
+body .dropzone {
+    border: 1px dashed #a8b7c7;
+    width: 100%;
+    min-height: 70px;
+    color: #abb9c9;
+}
+
+
+/* === MISC ============================================= */
+
+body .slds-wrap {
+    -webkit-align-items: stretch;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+}
+
+body hr {
+    margin: 42px 0 20px;
+}
+
+body .slds-hidden {
+    display: none;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.container, .banner-container {
+    max-width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body .slds-progress-bar {
+    height: 0.375em;
+    background: #c1c6d0;
+}
+
+body .slds-progress-bar__value {
+    background: #1589ee;
+}
+
+/* === ACCORDIONS ============================================= */
+
+body .slds-accordion__list-item {
+    border: none;
+}
+
+body .slds-accordion__section {
+    border-radius: 4px;
+    overflow: hidden;
+    padding: 0;
+    margin-bottom: 10px;
+}
+
+.slds-accordion__summary {
+    background-color: #1589ee;
+    color: #ffffff;
+    padding: 0.5em 1.5em 0.5em 0.75em;
+}
+
+.slds-accordion__summary .count {
+    height: 27px;
+    width: 27px;
+    background: #ffffff;
+    color: #1589ee;
+    display: inline-flex;
+    justify-content: center;
+    align-content: center;
+    border-radius: 50%;
+    font-size: 16px;
+    line-height: 1.75;
+    margin-right: 10px;
+}
+
+.slds-accordion__summary-heading {
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.slds-accordion__summary .slds-button_icon-bare, .slds-accordion__summary .slds-button--icon-bare {
+    color: inherit;
+    height: auto;
+}
+
+.slds-accordion__content {
+    display: none;
+    border: solid 0.5px #c1c6d0;
+    border-top: none;
+    border-bottom-left-radius: inherit;
+    border-bottom-right-radius: inherit;
+    background: #ffffff;
+   /* padding: 30px;*/
+}
+
+body .slds-is-open .slds-accordion__summary {
+    margin-bottom: 0;
+}
+
+.slds-is-open .slds-accordion__content {
+    display: block;
+}
+
+/* === BANNER ============================================= */
+
+.banner {
+    /*background-color: #106ea3;*/
+    background-color:#354378!important;
+    color: #ffffff;
+}
+
+.banner h1 {
+    font-size: 54px;
+    line-height: 1.19;
+    font-family: RobotoSlab;
+    font-weight: 300;
+    max-width: 700px;
+    margin-top:0px;
+}
+
+.banner p {
+    margin-bottom: 86px; 
+    font-size: 22px;
+    font-weight: 300;
+}
+
+.banner p a {
+    color: #ffffff;
+    text-decoration: underline;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+/* === TABS ============================================= */
+
+.uiTabBar {
+    border-bottom: 2px solid rgba(151, 151, 151, 0.5);
+}
+
+body .uiTabset--default .tabs__nav {
+    border: none;
+    /*max-width: 1140px;*/
+    margin: auto;
+}
+
+body .forceCommunityTabset .uiTabBar .uiTabItem .tabHeader {
+    padding: 10px 0;
+    overflow: visible;
+}
+
+body .uiTabset--default .tabs__item+.tabs__item {
+    margin-left: 3rem;
+}
+
+body .uiTabset--base .tabs__item a {
+    font-size: 20px;
+    line-height: 1.4;
+    color: #c6c8d0;
+    letter-spacing: 0;
+}
+
+body .uiTabset--default .tabs__item.active>a {
+    color: #DA0178 !important;
+    border: none;
+    position: relative;
+}
+body .tabs__nav .uiTabset--default .tabs__item.active>a{
+    color: #DA0178;
+}
+
+body .uiTabset--default .tabs__item.active>a:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -4px;
+    width: 100%;
+    height: 5px;
+    background: #e8007f;
+}
+/* banner style*/
+.container, .banner-container {
+    max-width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body .bannerContainer{
+    margin: auto;
+    padding: 80px 0;
+}
+/*File Upload start*/
+.cCTP_FileAttachment.uploadFile {
+    border: solid 1px #c1c6d0;
+    padding: 20px 15px;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+/*File Upload end*/
+/*Nikunj end*/
+
+/*Contact*/
+.comm-page-detail-500 .cCTP_ContactCard.droContainer{
+    float:none;
+}
+.comm-page-detail-500 .cCTP_ContactCard{
+    box-shadow: 0 0px 4px 0 rgba(0, 0, 0, 0.24);
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    margin-top: 246px;
+}
+
+.comm-page-detail-500 .cCTP_ContactCard.droContainer:after {
+    top: 100%;
+    left: 50%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+    border-color: rgba(136, 183, 213, 0);
+    border-top-color: #e9ebee;
+    border-left: 0;
+    border-width: 45px;
+    margin-left: 80px;
+}
+.comm-page-detail-500 .cCTP_ContactCard.withdrawApp
+{
+    margin-right: 80px;
+    margin-top: 30px;
+}
+.comm-page-detail-500 .cCTP_ContactCard.withdrawApp a {
+    color: #1589ee;
+}
+.comm-page-detail-500 .cCTP_ContactCard.withdrawApp a:hover {
+    color: #1589ee!important;
+}
+.comm-page-detail-500 .cCTP_ContactCard.withdrawApp .slds-icon {
+    fill: #1589ee;
+}
+/* input hoverand active style */
+body .uiInput--input.input:focus, body .uiInput--input .input:focus, body .uiInput--input.input:active, body .uiInput--input .input:active,
+body .uiInput--input.input:hover, body .uiInput--input .input:hover, body .uiInput--select.select:hover, body .uiInput--select .select:hover,
+body .uiInput--textarea .textarea:hover, body .uiInput--textarea.textarea:hover
+{
+    outline: 0;
+    border-color: rgb(21, 137, 238);
+    box-shadow: 0 0 3px #0070d2; 
+}
+/* button disable style */
+body .slds-button_brand[disabled], body .slds-button--brand[disabled]{
+    background-color: rgba(232, 0, 127, 0.25);
+    color: #ffffff;
+}
+
+/* button hover style */
+body .slds-button_brand:hover, body .slds-button_brand:focus, body .slds-button--brand:hover, body .slds-button--brand:focus{
+    background-color: #DA0178;
+    border-color: #DA0178;
+    color: #ffffff;
+}
+body .slds-button_brand:active, body .slds-button--brand:active{
+    background-color:#960052;
+}
+/*My Cases align cente */
+.comm-page-custom-my-cases .forceCommunityRecordListDesktop.forceListViewManager, .forceCommunityRecordListDesktop.forceListViewManager{
+    margin:auto;
+}
+/*Progressbar style*/
+body .cCTP_StatusProgressBar .stage.previous, body .cCTP_StatusProgressBar .stage.current,
+{
+    background-color: #177ed6;
+}
+body .cCTP_StatusProgressBar .stage:hover .stage__step, body .cCTP_StatusProgressBar .stage:focus .stage__step{
+    background-color: transparent;
+    color:#fff;
+}
+body .cCTP_StatusProgressBar .stage.current:before{
+    border-left:10px solid #177ed6;
+}
+body .cCTP_StatusProgressBar .stage.current .stage__step{
+    background-color: #ffffff;
+    color: #177ed6;
+}
+body .cCTP_StatusProgressBar .tooltip-special, body .cCTP_StatusProgressBar .hover-arrow,
+body .cCTP_StatusProgressBar .stage:hover .hover-arrow{
+  /*  display:none;*/
+}
+body .siteforcePrmBody .cCenterPanel{
+    padding-left:0;
+    padding-right:0;
+}
+body .siteforceSldsOneColLayout.siteforceContentArea{
+    overflow:hidden;
+}
+body .cLogin_Layout .siteforceSldsOneColLayout.siteforceContentArea{
+    overflow: initial;
+}
+/*Release 1.5 start*/
+
+body .siteforcePrmBody .cHeaderTopInternalWrapper {
+    max-width: 1140px;
+    padding: 0 1.5rem;
+    margin: auto;
+}
+
+body .siteforcePrmBody .forceCommunityGlobalNavigation>* {
+    max-width: 1140px;
+}
+
+body .banner-container {
+    max-width: 1100px;
+    margin: auto;
+    padding: 80px 0;
+}
+
+.cCTP_Insurer_Home_Banner h1 {
+    margin-top:0px;
+}
+
+.forceCommunityDashboard {
+    margin-top: 80px;
+}
+
+.uiTabBar{
+/*    margin-bottom: 40px; */
+}
+
+body .forceCommunityDashboard {
+    display:none;
+}
+body .forceCommunityRecordListDesktop.forceListViewManager {
+    max-width: 1100px!important;
+    position: relative;
+}
+body .contentRegion{
+    max-width: none!important;
+}
+/*Release 1.5 end*/
+/* warningPopUp Style */
+
+body .warningPopUp {
+    width: 100%;
+    /*min-height: 500px;*/
+    height:auto;
+    border-radius: 4px;
+    border: solid 1px #c1c6d0;
+    position: relative;
+    margin-bottom:100px;
+}
+body .warningPopUp:after {
+    bottom: 100%;
+    left: 8.5625em;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+    border-bottom-color: #e8007f;
+    border-width: 15px;
+    margin-left: -15px;
+}
+
+body .warningPopUp h1{
+    background-color: #e8007f;
+    padding: 10px;
+    color:#fff;
+    font-size:18px;
+    
+    border-radius: 4px 4px 0 0;
+}
+
+body .warningPopUp h1 .text{
+    padding-left:10px;
+}
+
+body .warningPopUp .heading, 
+body .warningPopUp .subText{
+    padding-bottom:10px;
+    font-size:16px;
+}
+
+body .warningPopUp .panel{
+    padding:20px;
+}
+
+body .warningPopUp .quickLinks a{
+    display:block;
+    padding:5px 0;
+}
+body .warningPopUp .footer{
+    padding:10px 0;
+}
+/* attentionPopUp Style */
+body .warningPopUp.attentionPopUp{
+    min-height: 400px;
+    height:auto;
+}
+body .warningPopUp.attentionPopUp h1{
+    background-color: #0086db;
+}
+body .attentionPopUp:after {
+    border-bottom-color: #0086db;
+    left:4%;
+}
+body .attentionPopUp .slds-form-element__label {
+    font-weight:400;
+    font-size:1rem;
+}
+body .attentionPopUp p.pinkColorText{
+    color: #e8007f;
+    padding-bottom:10px;
+}
+body .attentionPopUp p.pinkColorText{
+    color: #e8007f;
+    padding:15px 0;
+}
+
+/*DCR-7542:Nikunj*/
+
+.uiBlock, .uiBlock .bBody {
+    overflow: hidden;
+    vertical-align: top;
+    word-break: break-word;
+}
+
+/*Lightning radio button: Start*/
+
+body .slds-radio .slds-radio_faux, 
+body .slds-radio .slds-radio--faux {
+    width:1.572em;
+    height:1.572em;
+}
+
+body .slds-form-element__control .slds-radio {
+    display:inline-block;
+    margin-right:2.5625em;
+}
+
+body .ambulanceOptions .slds-form-element__control .slds-radio {
+   display:block;
+   padding:5px 0;
+}
+
+body .accident-address-error{
+  margin-top: 50px    
+}
+
+body .slds-radio [type="radio"]:checked + .slds-radio_faux::after,
+body .slds-radio [type="radio"]:checked + .slds-radio--faux::after, 
+body .slds-radio [type="radio"]:checked ~ .slds-radio_faux::after, 
+body .slds-radio [type="radio"]:checked ~ .slds-radio--faux::after, 
+body .slds-radio [type="radio"]:checked + .slds-radio__label .slds-radio_faux::after, 
+body .slds-radio [type="radio"]:checked + .slds-radio__label .slds-radio--faux::after{
+    background:#1589ee;
+    width:0.75em;
+    height:0.75em;
+}
+
+/*Lightning radio button: End*/
+body .cNotifications .unsNotificationsCounter {
+    display:none
+}
+
+body .uiInput--textarea .textarea, body .uiInput--textarea.textarea {
+    background-color: rgb(255, 255, 255);
+    color: rgb(84, 105, 141);
+    width: 100%;
+    resize: vertical;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(193, 198, 208);
+    border-image: initial;
+    border-radius: 0.25rem;
+    transition: border 0.1s linear, background-color 0.1s linear;
+    padding: 0.75rem;
+}
+
+/** Marco: Remove all hyperlinks in text areas from Portal SIRABAU-100 **/
+.cCenterPanel .uiOutputTextArea a{
+   pointer-events: none;
+   cursor: default;
+   color: inherit;
+}
+
+/* Responsive Mobile css */
+@media only screen and (max-width: 1189px) {
+    .banner h1, body .cCTP_Insurer_Home_Banner h1 {
+        /*padding:0 3%;*/
+        font-size: 4vw;
+    }
+    .bannerContainer, body .cCTP_Insurer_Home_Banner{
+        padding-top: 14px;
+        padding-bottom: 14px;
+    }
+    .banner p {  
+        margin-top: 8px;
+        margin-bottom: 68px;
+        font-size: 16px;
+    }
+}
+
+@media only screen and (max-width: 1366px) {
+    .banner h1, body .cCTP_Insurer_Home_Banner h1 {
+        font-size: 26px;
+        margin-top: 0px;
+        font-family: RobotoSlab;
+        font-weight: 300;
+        line-height: 1.3;
+    }
+    body .bannerContainer, body .banner-container{
+        padding: 14px 3%;
+    }
+    .banner p {  
+        margin-top: 8px;
+        margin-bottom: 68px;
+        font-size: 16px;
+    }
+    .cCTP_Public_MyApplications_Banner .select-special__selected span {
+        font-size: 1em;
+    }
+    .cCTP_Public_MyApplications_Banner .select-special__selected label {
+        font-size: 1em;
+    }
+    body .siteforceServiceBody .cBrandingProfile{
+        width:100%;
+    }
+    
+    body .forceCommunityTabset .uiTabBar {
+        padding: 0 16px;
+    }
+    .label-large {
+        font-size: 16px;
+    }
+    .comm-page-home, [class*=comm-page-custom-], body .slds-form-element__help {
+        font-size: 14px;
+    }
+    .confirmation-details .dispute {
+        text-align:left;
+    }
+    .forceCommunityDashboard {
+        margin-top: 20px;
+    }
+    body .slds-icon-utility-search{
+        display:none;
+    }
+}
+@media only screen and (max-width: 480px) {
+    body .uiTabset--default .tabs__item.active>a{
+        width: 125px;
+        /* overflow: hidden!important;*/
+        display: inline-block;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+}
+@media only screen and (max-width: 320px) {
+    .banner h1, body .cCTP_Insurer_Home_Banner h1  {
+        font-size: 8vw;
+    }
+    .cCTP_Public_MyApplications_Banner .select-special__selected span {
+        font-size: 0.7em;
+    }
+    .cCTP_Public_MyApplications_Banner .select-special__selected label {
+        font-size: 0.7em;
+    }
+    body .uiTabset--default .tabs__item.active>a{
+        width: 125px;
+        /* overflow: hidden;*/
+        display: inline-block;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+}
+@media only screen and (max-width: 767px) {
+    body .forceCommunityActionsContainerMobile .slds-button--brand{
+        padding:.5rem;
+        min-width:auto;
+    }
+    body .forceCommunityGlobalNavigation .slds-is-fixed>.slds-list_vertical>.slds-list__item>button:not(.slds-is-open),
+    body .forceCommunityGlobalNavigation .slds-is-fixed>.slds-list_vertical>.slds-list__item>a
+    {
+        border:0;
+        font-size:20px;
+    }
+    body .siteforceServiceBody .cHeaderPanel{
+        width:91vw;
+    }
+    body .forceCommunityGlobalNavigation .slds-list__item{
+        margin:0;
+    }
+    .home-banner .banner-container .slds-m-vertical_large{
+        margin-bottom:0;
+    }
+    body .forceCommunityTabset.uiTabset .uiTabBar .uiTabItem{
+        max-width:90%;
+    }
+    body .siteforcePrmBody .cHeader .cBrandingLogo{
+        width:150px;
+        height:3rem;
+    }
+    body .cHeaderTopInternalWrapper .cAltToggleNav .slds-icon_x-small,
+    body .cHeaderTopInternalWrapper .cAltToggleNav .slds-icon--x-small{
+        width: 1.5rem;
+        height: 1.5rem;
+    }
+    body .forceCommunityGlobalNavigation .slds-list_vertical{
+        background-color:#fff;
+    }
+    body .siteforcePrmBody .cHeader .cLogo{
+        left:38%;
+    }
+    body .forceSearchSearch .resultsWrapper {
+        height: auto;
+    }
+    body .siteforcePrmBody .cHeader .cAltToggleNav .slds-icon{
+        fill:#354378;
+    }
+    body .cSearchContainer .slds-button_brand, 
+    body .cSearchContainer .slds-button--brand{
+        min-width:125px;
+    }
+    body .cLogin_Layout.header {
+        padding: 0;
+    }
+    /*My cases start*/
+    .cCTP_Public_ReplyRequest .replyRequestBody {
+        width:100%
+    }    
+    
+    .cCTP_Public_ReplyRequest .disputeSection{
+        font-size:20px;
+        margin-top: 0px;
+    }
+    body hr {
+        margin: 0px 0 20px;
+    }
+    /*My cases end*/
+}
+@media only screen and (min-width: 768px) and (max-width: 1366px){
+    body .slds-form_horizontal .slds-form-element>.slds-form-element__label{
+        width:22vw;
+    }
+    
+}
+
+/*DCR-4114 fix*/
+/*body .forceVirtualActionMarker.forceVirtualAction {
+    display: none;
+}
+*/
+body ul.slds-button-group.slds-m-left--xx-small.oneActionsRibbon.forceActionsContainer{
+    display: inline!important;
+}
+/*DCR-4114 fix*/
+body .cCTP_ContactCard.withdrawApp a, body .cCTP_ContactCard.withdrawApp a:hover, body .cCTP_ContactCard.withdrawApp a:focus{
+    color:#ffffff;
+}
+
+body .cCTP_ContactCard .slds-icon {
+    fill: #ffffff;
+}
+
+body .cCTP_Public_MyApplications_Banner .select-special>div{
+    background: transparent;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+}
+body .cCTP_Public_MyApplications_Banner .select-special__selected .slds-icon-text-default{
+    fill: #ffffff;
+}
+body .cCTP_Public_MyApplications_Banner .select-special a, body .cCTP_Public_MyApplications_Banner .select-special a:hover, body .cCTP_Public_MyApplications_Banner .select-special a:focus{
+    color: #fff;  
+}
+
+body .cCTP_Public_MyApplications_Banner .select-special__selected:before{
+    display:none;
+}
+
+body .cCTP_Public_MyApplications_Banner .select-special.open .select-special__list{
+    display:none;
+}
+body .cCTP_Public_MyApplications_Banner .bannerHead p div:first-child{
+    display:none;
+}
+
+body .cCTP_StatusProgressBar .stage.previous, .cCTP_StatusProgressBar .stage.current {
+    background-color: #177ed6!important;
+    color: #ffffff;
+}
+body .cCTP_StatusProgressBar .desk{
+    box-shadow: none;
+}
+
+body .cCTP_StatusProgressBar .desk .container{
+    width: 100%;
+}
+body .cCTP_ContactCard.droContainer:after {
+    top: 100%;
+    left: 50%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+    border-color: rgba(136, 183, 213, 0);
+    border-top-color: #e9ebee;
+    border-left: 0;
+    border-width: 45px;
+    margin-left: 80px;
+}

@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <!-- Custom Objects -->
+        <members>CTP_Accident__c</members>
+        <members>ApplicationLog__c</members>
+        <members>CTP_Injury_Treatment__c</members>
+        <members>CTP_DisputeToInjury__c</members>
+        <members>Attachment__c</members>
+        <members>User</members>
+        <members>Activity</members>
+        <members>Task</members>
+        <members>Event</members>
+        <members>TaskTemplate__c</members>
+        <members>CTP_Invoice__c</members>
+        <members>CTP_Claim__c</members>
+        <members>CaseItem__c</members>
+        <members>Contact</members>
+        <members>Account</members>
+        <members>Case</members>
+        <members>CTP_Vehicle__c</members>
+        <members>Comments__c</members>
+        <members>Configuration__c</members>
+        <members>Application_and_Disputes_Report__c</members>
+        <members>GLS_Licence__c</members>
+        <members>GLS_LicenceCondition__c</members>
+        <members>IPM_Account_WIC_Code__c</members>
+        <members>IPM_Assessment__c</members>
+        <members>Custom_Authorisation__c</members>
+        <members>IPM_Director_s_Brief__c</members>
+        <members>DocumentAnnotation__c</members>
+        <members>IPM_Escalated_Complaint__c</members>
+        <members>CTP_ExcludeInsurer_LegalFirm__c</members>
+        <members>IPM_Financial_Analysis__c</members>
+        <members>IPM_Follow_Up_Activity__c</members>
+        <members>IPM_Insurer_Review_Process__c</members>
+        <members>Litigation__c</members>
+        <members>IPM_Measure__c</members>
+        <members>OLCN_OutboundCalls__c</members>
+        <members>IPM_Risk_Issue__c</members>
+        <members>IPM_Risk_Indicator__c</members>
+        <members>IPM_Risk_Indicator_Reference__c</members>
+        <members>IPM_Significant_Matter__c</members>
+        <members>Snippet__c</members>
+        <members>VerificationCode__c</members>
+        <members>IPM_WIC_Code__c</members>    
+        <members>LiveChatTranscript</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>EmailMessage-Email Message Layout - Email-to-Case</members>
+        <members>Account-Account Layout</members>
+        <members>Account-IPM_Insurer Account Layout</members>
+        <members>Account-IPM_Insurer Internal Account Layout</members>
+        <members>Account-IPM_Insurer Subsidiary Layout</members>
+        <members>Account-OLCN Individual Layout</members>
+        <members>Account-OLCN Insurer Layout</members>
+        <members>Account-OLCN Insurer Layout Sys Admin</members>
+        <members>Account-Public</members>
+        <members>Account-SIRA Insurer Account Feed Layout</members>
+        <members>Account-SIRA Worker%2FWorker Rep Account Feed Layout</members>
+        <members>AccountContactRelation-Account Contact Relationship Layout</members>
+        <members>ApplicationLog__c-Application Log Layout</members>
+        <members>Application_and_Disputes_Report__c-Lodgement and Finalisation of App%2FDisp Layout</members>
+        <members>Attachment__c-Attachment Layout</members>
+        <members>Attachment__c-CTP_DRS_Attachment</members>
+        <members>Case-Case Layout</members>
+        <members>Case-CSE CAS Insurer Layout</members>
+        <members>Case-CSE CAS Insurer Layout SYSADMIN</members>
+        <members>Case-CSE CAS Team Layout</members>
+        <members>Case-CSE CAS Team Layout SYSADMIN</members>
+        <members>Case-CTP Claimant Support Page Layout</members>
+        <members>Case-CTP Claiment Support Page Layout2</members>
+        <members>Case-CTP Claims Case Page Layout</members>
+        <members>Case-CTP Compensation to Relatives Page Layout</members>
+        <members>Case-CTP Connect</members>
+        <members>Case-CTP Dispute Page Layout</members>
+        <members>Case-CTP Dispute Page Layout for Portal</members>
+        <members>Case-CTP Feedback Case Page Layout</members>
+        <members>Case-CTP Inquiry Layout</members>
+        <members>Case-CTP Legal Registration</members>
+        <members>Case-CTP New Application Insurer Page Layout</members>
+        <members>Case-CTP New Application Layout for Portals</members>
+        <members>Case-CTP New Application Page Layout</members>
+        <members>Case-CTP OLCSCasePageLayout</members>
+        <members>Case-CTP_ClaimCasePageLayout</members>
+        <members>Case-CTP_Claims_Application_Insurer</members>
+        <members>Case-MRS Applicant Case Layout</members>
+        <members>Case-Portal Case Layout</members>
+        <members>Case-SIRA Internal Case Feed Layout</members>
+        <members>CaseClose-Close Case Layout</members>
+        <members>CaseClose-CSE CAS team layout Close</members>
+        <members>CaseItem__c-Case Item Layout</members>
+        <members>CaseItem__c-CTP Claims Assessment External Layout</members>
+        <members>CaseItem__c-CTP Contact DRO Page layout</members>
+        <members>CaseItem__c-CTP External Assessor</members>
+        <members>CaseItem__c-CTP External Assessor Dispute Task Layout</members>
+        <members>CaseItem__c-CTP Medical Injury External Layout</members>
+        <members>CaseItem__c-CTP Medical Treatment External Layout</members>
+        <members>CaseItem__c-CTP Merit Review External Layout</members>
+        <members>CaseItem__c-CTP Misc%2E Claims Assessment External Layout</members>
+        <members>CaseItem__c-CTP_Additional_Information</members>
+        <members>CaseItem__c-CTP_Assessment_Dispute_Task_Layout</members>
+        <members>CaseItem__c-CTP_Claims_Assessment_Dispute_Task_Layout</members>
+        <members>CaseItem__c-CTP_Dispute_Task</members>
+        <members>CaseItem__c-CTP_Furthers_Dispute_Task_Layout</members>
+        <members>CaseItem__c-CTP_Medical_Injury_Dispute_Task_Layout</members>
+        <members>CaseItem__c-CTP_Medical_Treatment_Dispute_Task_Layout</members>
+        <members>CaseItem__c-CTP_Merit_Review_Dispute_Task_Layout</members>
+        <members>CaseItem__c-CTP_Misc_Claims_Dispute_Task_Layout</members>
+        <members>CaseItem__c-CTP_Parent Additional Information</members>
+        <members>CaseItem__c-CTP_Read Only</members>
+        <members>CaseItem__c-CTP_ReadOnly_Portal</members>
+        <members>CaseItem__c-CTP_Reviews_Medical_Assessment_Dispute_Task_Layout</members>
+        <members>CaseItem__c-CTP_Reviews_Merit_Review_Dispute_Task_layout</members>
+        <members>CaseItem__c-CTP_Reviews_Parent_Dispute_Task_layout</members>
+        <members>Comments__c-Comments Layout</members>
+        <members>Configuration__c-Configuration Layout</members>
+        <members>Contact-Contact Layout</members>
+        <members>Contact-CTP Public Page Layout</members>
+        <members>Contact-DRS Contact Page Layout</members>
+        <members>Contact-IPM_Insurer Contact Layout</members>
+        <members>Contact-OLCN Contact Layout</members>
+        <members>Contact-SIRA Contact Feed Layout</members>
+        <members>CTP_Accident__c-Accident Layout</members>
+        <members>CTP_Claim__c-Claim Layout</members>
+        <members>CTP_Claim__c-CTP_ClaimDetailPagelayout</members>
+        <members>CTP_Claim__c-CTP_OLCSClaimsPageLayout</members>
+        <members>CTP_Claim__c-CTP_UCDClaimPageLayout</members>
+        <members>CTP_DisputeToInjury__c-DisputeToInjury Layout</members>
+        <members>CTP_ExcludeInsurer_LegalFirm__c-Exclude Insurer%2FLegal Firm Layout</members>
+        <members>CTP_Injury_Treatment__c-CTP_OLCS_Injury Layout</members>
+        <members>CTP_Injury_Treatment__c-CTP_OLCS_Treatments Layout</members>
+        <members>CTP_Injury_Treatment__c-CTP_Treatment_Layout</members>
+        <members>CTP_Injury_Treatment__c-Injury Layout</members>
+        <members>CTP_Invoice__c-Invoice Layout</members>
+        <members>CTP_Vehicle__c-CTP_Claim_Application Vehicle_Layout</members>
+        <members>Custom_Authorisation__c-Custom Authorisation Layout</members>
+        <members>DocumentAnnotation__c-Document Annotation Layout</members>
+        <members>EmailMessage-Email Message Layout - Email-to-Case</members>
+        <members>Entitlement-Entitlement Layout</members>
+        <members>Event-CTP Set Reminders</members>
+        <members>Event-CTP_MultipleHearing_PageLayout</members>
+        <members>Event-Event Layout</members>
+        <members>FeedItem-Feed Item Layout</members>
+        <members>Global-IPM_Insurer Portfolio Manager Publisher Layout</members>
+        <members>Global-MRS Global Layout</members>
+        <members>GLS_LicenceCondition__c-IPM Licence Condition</members>
+        <members>GLS_LicenceCondition__c-Licence Condition Layout</members>
+        <members>GLS_Licence__c-Entity Layout</members>
+        <members>GLS_Licence__c-IPM_Licence Page Layout</members>
+        <members>IPM_Account_WIC_Code__c-Account WIC Code Layout</members>
+        <members>IPM_Assessment__c-Assessment Layout</members>
+        <members>IPM_Director_s_Brief__c-Director%27s Brief Layout</members>
+        <members>IPM_Escalated_Complaint__c-Escalated Complaint Layout</members>
+        <members>IPM_Financial_Analysis__c-Financial Analysis Layout</members>
+        <members>IPM_Follow_Up_Activity__c-Follow Up Activity Layout</members>
+        <members>IPM_Insurer_Review_Process__c-Insurer Review Process Layout</members>
+        <members>IPM_Insurer_Review_Process__c-IPM_Annual Review Layout</members>
+        <members>IPM_Insurer_Review_Process__c-IPM_Claims Management Self Audit Layout</members>
+        <members>IPM_Insurer_Review_Process__c-IPM_LIBPG Business Plan Layout</members>
+        <members>IPM_Insurer_Review_Process__c-IPM_Licence Renewal Layout</members>
+        <members>IPM_Insurer_Review_Process__c-IPM_MPPG Review Layout</members>
+        <members>IPM_Insurer_Review_Process__c-IPM_New Licence Application Layout</members>
+        <members>IPM_Insurer_Review_Process__c-IPM_Review of Subsidiaries Layout</members>
+        <members>IPM_Insurer_Review_Process__c-IPM_Wage Declaration %2F Non Levy Notes Layout</members>
+        <members>IPM_Insurer_Review_Process__c-IPM_WHS Audit Layout</members>
+        <members>IPM_Measure__c-Measure Layout</members>
+        <members>IPM_Risk_Indicator_Reference__c-Risk Indicator Reference Layout</members>
+        <members>IPM_Risk_Indicator__c-Risk Indicator Layout</members>
+        <members>IPM_Risk_Issue__c-Risk %2F Issue Layout</members>
+        <members>IPM_Significant_Matter__c-Significant Matter Layout</members>
+        <members>IPM_Test_Measure_Set__mdt-Test Measure Set Layout</members>
+        <members>IPM_WIC_Code__c-WIC Code Layout</members>
+        <members>Litigation__c-Litigation Layout</members>
+        <members>Task-CTP_ADR_Outcome</members>
+        <members>Task-CTP_Assist _Task</members>
+        <members>Task-CTP_Contact DRO Task</members>
+        <members>Task-CTP_Dispute_Notification_Task</members>
+        <members>Task-CTP_LogActivity</members>
+        <members>Task-CTP_Reallocate_Dispute_Task</members>
+        <members>Task-CTP_Request_Additional_Information</members>
+        <members>Task-CTP_Triage_Outcome</members>
+        <members>Task-MRS Information Requests Layout</members>
+        <members>Task-Review Application Task</members>
+        <members>Task-Task Layout</members>
+        <members>Task-TSK CAS Team Layout</members>
+        <members>TaskTemplate__c-Task Template Layout</members>
+        <members>User-User Layout</members>
+        <members>VerificationCode__c-Verification Code Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>*</members>
+        <!--<members>Case.CTP_Request_Insurer_Reply</members>
+        <members>Case.POC_Case_ACK</members>
+        <members>Case.Close_Case</members>
+        <members>Case.Download_Claim_Summary</members>
+        <members>Case.CTP_ADR_Outcome</members>
+        <members>Case.CTP_Additional_Information_Request</members>
+        <members>Case.NewChildCase</members>
+        <members>Case.CTP_LogActivity</members>
+        <members>Case.CTP_Triage_Outcome</members>
+        <members>Case.SendEmail</members>
+        <members>Case.Log_a_Call</members>
+        <members>Case.CTP_Assist_Task</members>
+        <members>Case.CTP_Case_Details</members>
+        <members>Case.CTP_Assist_SendEmail</members>
+        <members>Case.CTP_Assist_LogACall</members>
+        <members>Case.CTP_Assign_Dispute_to_Assessor</members>
+        <members>Case.Download_CTP_Connect</members>
+        <members>CaseItem__c.Upload_Attachment</members>
+        <members>CaseItem__c.CTP_Communicate_with_DRS</members>
+        <members>CaseItem__c.Additional_Information</members>
+        <members>Contact.CTP_Update_Injured</members>
+        <members>Contact.CTP_Update_Rep</members>
+        <members>CTP_Claim__c.New_Case</members>
+        <members>CTP_Feedback</members>
+        <members>CTP_Public</members>
+        <members>Event.CTP_CreateMultipleEvents</members>
+        <members>FeedItem.NewTaskFromFeedItem</members>
+        <members>GLS_Licence__c.NewFollowUpActivity</members>
+        <members>IPM_Escalated_Complaint__c.NewFollowUpActivity</members>
+        <members>IPM_Insurer_Review_Process__c.IPM_New_Director_s_Brief</members>
+        <members>IPM_Insurer_Review_Process__c.IPM_New_Follow_Up_Activity</members>
+        <members>IPM_New_Licence_Application</members>
+        <members>IPM_Risk_Indicator__c.IPM_Rerate_Risk_Indicator</members>
+        <members>IPM_Risk_Indicator__c.New_Issue</members>
+        <members>IPM_Risk_Indicator__c.New_Risk</members>
+        <members>IPM_Risk_Issue__c.New_Follow_Up_Activity</members>
+        <members>IPM_SendEmail</members>
+        <members>IPM_Significant_Matter__c.IPM_New_Follow_Up_Activity</members>
+        <members>Task.Defer</members>
+        <members>Task.EditDescription</members>
+        <members>Task.UpdateStatus</members>
+        <members>Task.UpdatePriority</members>
+        <members>Snapins_Contact_QuickAction_08h7F000000Cak9</members>
+        <members>Snapins_Case_QuickAction_08h7F000000Cak9</members>-->
+        <name>QuickAction</name>
+    </types>
+    <types>
+        <!--<members>CommunitiesLanding</members>
+        <members>OLCN_CommunitiesLanding</members>-->
+        <members>*</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
+        <!--<members>CommunitiesLandingController</members>
+        <members>CommunitiesLandingControllerTest</members>
+        <members>OLCN_CommunitiesLogin_CC</members>
+        <members>OLCN_CommunitiesLogin_CC_Test</members>
+        <members>OLCN_MetaUtility</members>
+        <members>TestDataUtility</members>
+        <members>CTP_SetUpUtility</members>-->
+        <members>*</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <!--<members>Admin</members>
+        <members>CTP Assist</members>
+        <members>CTP Dispute Resolution User</members>
+        <members>CTP External Assessor</members>
+        <members>External Accessor Community Profile</members>
+        <members>CTP Insurer Admin</members>
+        <members>CTP Internal Decision Maker</members>
+        <members>CTP Insurer Claim Manager</members>
+        <members>CTP Applicant Public Community User</members>
+        <members>CTP Legal Profile</members>
+        <members>MRS Legal Rep Community User</members>
+        <members>MRS Applicant Community User</members>
+        <members>MRS Insurer Community User</members>
+        <members>DRS Executive Office</members>
+        <members>%7ECTP Insurer</members>-->
+        <members>*</members>
+        <name>Profile</name>
+    </types>
+    <types>
+        <!-- Cannot modify manage package permission set
+        <members>AFSC__F_Secure_Cloud_Protection_Admin</members>
+        <members>AFSC__F_Secure_Cloud_Protection_User</members>
+        <members>Loop__DDP_Admin</members>
+        <members>Loop__DDP_User</members>
+        <members>Loop__DDP_User_All</members>-->
+        <members>Case_Feed</members>
+        <members>CAS_Manager_general_rights</members>
+        <members>Create_Risk_Indicator</members>
+        <members>CTP_Assist_Bulk_cases</members>
+        <members>CTP_Assist_contact_read_only</members>
+        <members>CTP_Assist_Manager</members>
+        <members>CTP_Delegated_Admin_for_Insurer</members>
+        <members>CTP_Email_Template_Administration</members>
+        <members>CTP_Knowledge_User</members>
+        <members>CTP_Live_Agent_Supervisor</members>
+        <members>F_Secure_Cloud_Protection_User_External_Assessors_Community</members>
+        <members>F_Secure_Cloud_Protection_User_Insurer_Community</members>
+        <members>F_Secure_Cloud_Protection_User_Legal_Community</members>
+        <members>F_Secure_Cloud_Protection_User_MRS_Insurer_Legal_Firm_Community</members>
+        <members>F_Secure_Cloud_Protection_User_MRS_Worker_Sole_Practitioner_Community</members>
+        <members>F_Secure_Cloud_Protection_User_OnlineClaimNotification_Community</members>
+        <members>F_Secure_Cloud_Protection_User_Public_Community</members>
+        <members>IPM_Object_Delete_Access</members>
+        <members>Knowledge_Manager</members>
+        <members>Manage_External_User_Access</members>
+        <members>MRS_DelegatedInsurerLegalRepAdmin</members>
+        <members>MRS_InsureLegalRep</members>
+        <members>MRS_InternalUser</members>
+        <members>MRS_Remove_Case_Items</members>
+        <members>MRS_Remove_Tasks</members>
+        <members>MRS_SolePractitioner</members>
+        <members>MRS_Worker</members>
+        <members>Omni_Setup_Flow</members>
+        <members>Permission_Transfer_Records</members>
+        <members>Pin_post_test</members>
+        <members>Share_Report_and_Dashboard</members>
+        <members>SIRA_2FA_Logins</members>
+        <name>PermissionSet</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>AppMenu</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomObjectTranslation</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>IPM_IPMG_Annual_Review</members>
+        <members>Merit_Review_Service</members>
+        <members>OLCN_Email_Templates</members>
+        <members>CTP_Dispute_Resolution</members>
+        <members>CTP_Assist</members>
+        <members>IPM_IPMG_Business_Plan_Review</members>
+        <members>IPM_Workplace_Insurer_Auto_Emails</members>
+        <members>IPM_IPMG_Director_s_Brief</members>
+        <members>IPM_IPMG_Licence</members>
+        <members>IPM_IPMG_MPPG_Review</members>
+        <members>IPM_IPMG_Claims_Management_Self_Audit</members>
+        <members>IPM_IPMG_Subsidiary_Review</members>
+        <members>IPM_IPMG_Wage_Declaration</members>
+        <members>IPM_Insurer_Portfolio_Management</members>
+        <members>IPM_Workplace_Insurer_Auto_Emails</members>
+        <members>IPM_IPMG_Annual_Review/IPM_Annual_Review_Request_Stage_Template</members>
+        <members>IPM_IPMG_Business_Plan_Review/IPM_Business_Plan_Request_Email</members>
+        <members>IPM_IPMG_Claims_Management_Self_Audit/IPM_Claims_Management_Self_Audit_Report_Review_over_80</members>
+        <members>IPM_IPMG_Claims_Management_Self_Audit/IPM_Claims_Management_Self_Audit_Report_Review_under_80</members>
+        <members>IPM_IPMG_Claims_Management_Self_Audit/IPM_Request_for_Claims_Management_Self_Audit_Report</members>
+        <members>IPM_IPMG_Director_s_Brief/Director_s_Brief_Review_Outcome</members>
+        <members>IPM_IPMG_Director_s_Brief/IPM_Director_s_Brief_Approval_Review_Template</members>
+        <members>IPM_IPMG_Licence/IPM_Licence_Renewal_Request_Stage_Template</members>
+        <members>IPM_IPMG_Licence/IPM_New_Licence_Application_Request_Stage_Template</members>
+        <members>IPM_IPMG_MPPG_Review/IPM_MPPG_Review_Assess_Stage_Template</members>
+        <members>IPM_IPMG_MPPG_Review/IPM_MPPG_Review_Gather_Stage_Template</members>
+        <members>IPM_IPMG_MPPG_Review/IPM_MPPG_Review_Request_Stage_Template</members>
+        <members>IPM_IPMG_Subsidiary_Review/IPM_Subsidiary_Approval_Review_Template</members>
+        <members>IPM_IPMG_Wage_Declaration/IPM_Invoice_1_issue_date_and_due_date</members>
+        <members>IPM_IPMG_Wage_Declaration/IPM_Invoice_2_issue_date_and_due_date</members>
+        <members>IPM_IPMG_Wage_Declaration/IPM_Wages_Declaration_Acceptance</members>
+        <members>IPM_IPMG_Wage_Declaration/IPM_Wage_Declaration_Payment_Not_Received</members>
+        <members>IPM_IPMG_Wage_Declaration/IPM_Wage_Declaration_Request</members>
+        <members>IPM_IPMG_Wage_Declaration/IPM_Wage_Declaration_Request_Specialised</members>
+        <members>IPM_Insurer_Portfolio_Management/IPM_Approval_Response</members>
+        <members>IPM_Insurer_Portfolio_Management/IPM_Generic_Template</members>
+        <members>IPM_Insurer_Portfolio_Management/IPM_Risk_Indicator_Approval_Review_Template</members>
+        <members>IPM_Insurer_Portfolio_Management/IPM_Risk_Indicator_Review_Outcome</members>
+        <members>Merit_Review_Service/Additional_Information_has_been_requested</members>
+        <members>Merit_Review_Service/Additional_Information_has_been_requested_Insurer</members>
+        <members>Merit_Review_Service/Additional_Information_has_been_requested_InsurerFYI</members>
+        <members>Merit_Review_Service/Additional_Information_has_been_requested_Worker</members>
+        <members>Merit_Review_Service/Additional_Information_has_been_requested_WorkerFYI</members>
+        <members>Merit_Review_Service/Additional_Information_has_been_submitted</members>
+        <members>Merit_Review_Service/Case_Team_Member_Added_Email</members>
+        <members>Merit_Review_Service/DRS_AccountVerificationEmail</members>
+        <members>Merit_Review_Service/DRS_WorkerApplicationPending</members>
+        <members>Merit_Review_Service/DRS_WorkerApplicationPendingFinal</members>
+        <members>Merit_Review_Service/Insurer_Application_Submitted_Email</members>
+        <members>Merit_Review_Service/Worker_Application_Saved_for_Later</members>
+        <members>Merit_Review_Service/Worker_Application_Submitted_Email</members>
+        <members>Merit_Review_Service/Worker_Application_Submitted_Worker_Email</members>
+        <members>OLCN_Email_Templates/OLCNConfirmationOfSubmissionToInjuredPerson</members>
+        <members>OLCN_Email_Templates/OLCNConfirmationOfSubmissionToRepresentative</members>
+        <members>OLCN_Email_Templates/OLCNFollowUpEmailToTheCustomer</members>
+        <members>OLCN_Email_Templates/OLCNFollowUpEmailToTheRepresentative</members>
+        <members>OLCN_Email_Templates/OLCNInitialNotificationToCASTeam</members>
+        <members>OLCN_Email_Templates/OLCNInsurerDetailsNotOptedInToInjuredPerson</members>
+        <members>OLCN_Email_Templates/OLCNInsurerDetailsNotOptedInToRepresentative</members>
+        <members>OLCN_Email_Templates/OLCNInsurerDetailsOptedInToInjuredPerson</members>
+        <members>OLCN_Email_Templates/OLCNInsurerDetailsOptedInToRepresentative</members>
+        <members>OLCN_Email_Templates/OLCNInsurerDigestEmail</members>
+        <members>OLCN_Email_Templates/OLCNUnableToContactCustomer</members>
+        <members>OLCN_Email_Templates/OLCNUnableToContactRepresentative</members>
+        <members>OLCN_Email_Templates/OLCNUpdateNotificationToTheInsurer</members>
+        <members>CTP_Dispute_Resolution/CTP_Acknowledgement_Email</members>
+        <members>CTP_Dispute_Resolution/CTP_Additional_information_required</members>
+        <members>CTP_Dispute_Resolution/CTP_Decision_maker_receives_notification_of_assigned_task_Template</members>
+        <members>CTP_Dispute_Resolution/CTP_Email_to_claimant_application_withdrawal</members>
+        <members>CTP_Dispute_Resolution/CTP_Email_to_Claimant_Request_for_Additional_Information</members>
+        <members>CTP_Dispute_Resolution/CTP_Email_to_Claimant_template_confirmation_email_for_email_to_case</members>
+        <members>CTP_Dispute_Resolution/CTP_Email_to_claimant_template_Notification_of_Insurers_reply_submission</members>
+        <members>CTP_Dispute_Resolution/CTP_Email_to_claimant_template_Your_Application_has_been_received</members>
+        <members>CTP_Dispute_Resolution/CTP_Email_to_claimant_template_Your_Application_has_been_received_DRO</members>
+        <members>CTP_Dispute_Resolution/CTP_Email_to_DRO_Request_for_Additional_Information_Submitted_Claimant</members>
+        <members>CTP_Dispute_Resolution/CTP_Email_to_DRO_Request_for_Additional_Information_Submitted_Insurer</members>
+        <members>CTP_Dispute_Resolution/CTP_Email_to_DRO_Request_Reply_Submitted_Claimant</members>
+        <members>CTP_Dispute_Resolution/CTP_Email_to_DRO_Request_Reply_Submitted_Insurer</members>
+        <members>CTP_Dispute_Resolution/CTP_Email_to_Insurer_Request_for_Additional_Information</members>
+        <members>CTP_Dispute_Resolution/CTP_Email_to_Insurer_template_Notification_on_Reply_submission</members>
+        <members>CTP_Dispute_Resolution/CTP_Email_to_Legal_Rep_Application_successful</members>
+        <members>CTP_Dispute_Resolution/CTP_Email_to_Parties_Dispute_decision_outcome</members>
+        <members>CTP_Dispute_Resolution/CTP_Email_to_Parties_Dispute_decision_outcome_v1</members>
+        <members>CTP_Dispute_Resolution/CTP_Email_to_parties_External_assesor_shares_report_of_hearing_teleconf_fin</members>
+        <members>CTP_Dispute_Resolution/CTP_Email_to_Parties_Notify_of_ADR</members>
+        <members>CTP_Dispute_Resolution/CTP_Email_to_parties_Outcome_of_the_withdrawal_request</members>
+        <members>CTP_Dispute_Resolution/CTP_End_of_Successful_Screening</members>
+        <members>CTP_Dispute_Resolution/CTP_Insurer_OCS_Email_Reminder</members>
+        <members>CTP_Dispute_Resolution/CTP_Notification_of_request_for_reply</members>
+        <members>CTP_Dispute_Resolution/CTP_Notify_Decision_Maker</members>
+        <members>CTP_Dispute_Resolution/CTP_Registration_to_SIRA</members>
+        <members>CTP_Dispute_Resolution/CTP_Report_of_Hearing</members>
+        <members>CTP_Dispute_Resolution/CTP_Test</members>
+        <members>CTP_Dispute_Resolution/CTP_WithdrawalacceptedClaimant</members>
+        <members>CTP_Dispute_Resolution/CTP_WithdrawalacceptedInsurer</members>
+        <members>CTP_Dispute_Resolution/DRS_BLANK_TEMPLATE</members>
+        <members>CTP_Dispute_Resolution/Email_to_Claimant_Additional_Info_Reply_Notification</members>
+        <members>CTP_Dispute_Resolution/Email_to_claimant_template_email_of_acknowledgement_of_the_reply_submission</members>
+        <members>CTP_Dispute_Resolution/Email_to_claimant_template_Request_for_reply_notification_from_an_insurers_app</members>
+        <members>CTP_Dispute_Resolution/Email_to_Insurer_Additional_Info_Reply_Notification</members>
+        <members>CTP_Dispute_Resolution/Email_to_Insurer_Contact_DRO_Externally_Visible</members>
+        <members>CTP_Dispute_Resolution/Email_to_insurer_template_Notification_of_claimant_s_reply_submission</members>
+        <members>CTP_Dispute_Resolution/Email_to_legal_rep_request_for_additional_information</members>
+        <members>CTP_Dispute_Resolution/Email_to_legal_rep_Request_to_reply_email_template</members>
+        <members>CTP_Dispute_Resolution/Email_to_Parties_Contact_DRO_Externally_Visible</members>
+        <members>CTP_Dispute_Resolution/Email_To_Parties_on_Review_Decision</members>
+        <members>CTP_Dispute_Resolution/External_assessor_shares_report_of_hearing_teleconference</members>
+        <members>CTP_Dispute_Resolution/Invoice_Approval</members>
+        <members>CTP_Dispute_Resolution/X42_Your_application_has_been_considered</members>
+        <members>CTP_Assist/CTP_AdditionalInformationClaimant</members>
+        <members>CTP_Assist/CTP_AdditionalInformationInsurer</members>
+        <members>CTP_Assist/CTP_AdditionalInformationResponseToClaimant</members>
+        <members>CTP_Assist/CTP_AdditionalInformationResponseToDRO</members>
+        <members>CTP_Assist/CTP_AdditionalInformationResponseToInsurer</members>
+        <members>CTP_Assist/CTP_ASSIST_CLASSIC_Entitlement_3_weeks_email_when_unavailable</members>
+        <members>CTP_Assist/CTP_ASSIST_CLASSIC_Entitlement_3_weeks_follow_up_email</members>
+        <members>CTP_Assist/CTP_ASSIST_CLASSIC_General_Claims_Enquiry_for_insurer</members>
+        <members>CTP_Assist/CTP_DRS_Successful_Screening_Communication_to_Claimant</members>
+        <members>CTP_Assist/CTP_EmailTemplateForApproverForApproval_External</members>
+        <members>CTP_Assist/CTP_EmailTemplateForSubmitterAfterApproved_External</members>
+        <members>CTP_Assist/CTP_EmailTemplateForSubmitterAfterRejection_External</members>
+        <members>CTP_Assist/CTP_EmailTemplateForSubmitterAfterSubmittingForApproval_External</members>
+        <members>CTP_Assist/CTP_EmailTemplatForApproverForApproval_External</members>
+        <members>CTP_Assist/CTP_EmailTemplatForSubmitterAfterApproved_External</members>
+        <members>CTP_Assist/CTP_EmailTemplatForSubmitterAfterRejection_External</members>
+        <members>CTP_Assist/CTP_EmailTemplatForSubmitterAfterSubmittingForApproval_External</members>
+        <members>CTP_Assist/CTP_Email_Template_for_Feedback_Case_Escalation</members>
+        <members>CTP_Assist/CTP_Email_Template_for_Knowledge_Article_Rejection</members>
+        <members>CTP_Assist/CTP_Email_Template_for_Knowledge_Published</members>
+        <members>CTP_Assist/CTP_Email_Template_for_Knowledge_Review</members>
+        <members>CTP_Assist/CTP_Email_Template_for_Knowledge_Submitted</members>
+        <members>CTP_Assist/CTP_Email_Template_for_submitting_feedback_via_email</members>
+        <members>CTP_Assist/CTP_Email_Template_for_submitting_feedback_via_email_web</members>
+        <members>CTP_Assist/CTP_Email_Template_for_submitting_feedback_via_web</members>
+        <members>CTP_Assist/CTP_Insurer_Application_Submission</members>
+        <members>CTP_Assist/CTP_OCSHappyPathForInjuredPerson</members>
+        <members>CTP_Assist/CTP_OCS_Exception_path_for_injured_person</members>
+        <members>CTP_Assist/CTP_OCS_Exception_path_for_rep</members>
+        <members>CTP_Assist/CTP_OCS_Happy_path_for_rep_person</members>
+        <members>IPM_Workplace_Insurer_Auto_Emails/IPM_Workplace_Insurer_Licence_Status_Updated</members>
+        <name>EmailTemplate</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>MilestoneType</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>FieldSet</name>
+    </types>
+    <!--<types>
+        <members>CTP_Assist</members>
+        <members>CTP_LiveAgent</members>
+        <name>LiveChatAgentConfig</name>
+    </types>
+    <types>
+        <members>CTP_LiveChatButton</members>
+        <name>LiveChatButton</name>
+    </types>
+    -->
+    <types>
+        <members>SIRA_Public_Website</members>
+        <name>LiveChatDeployment</name>
+    </types>
+    <types>
+        <members>CTP_Assist</members>
+        <name>Skill</name>
+    </types>
+    <version>42.0</version>
+</Package>

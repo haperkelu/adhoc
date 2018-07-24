@@ -1,0 +1,112 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "CTP_UCDInsurerMapping__c",
+                "referenceId": "CTP_UCDInsurerMapping__cRef1"
+            },
+            "Name": "26",
+            "CTP_InsurerCode__c": "26",
+            "CTP_InsurerName__c": "AAMI"
+        },
+        {
+            "attributes": {
+                "type": "CTP_UCDInsurerMapping__c",
+                "referenceId": "CTP_UCDInsurerMapping__cRef2"
+            },
+            "Name": "31",
+            "CTP_InsurerCode__c": "31",
+            "CTP_InsurerName__c": "GIO"
+        },
+        {
+            "attributes": {
+                "type": "CTP_UCDInsurerMapping__c",
+                "referenceId": "CTP_UCDInsurerMapping__cRef3"
+            },
+            "Name": "32",
+            "CTP_InsurerCode__c": "32",
+            "CTP_InsurerName__c": "Allianz"
+        },
+        {
+            "attributes": {
+                "type": "CTP_UCDInsurerMapping__c",
+                "referenceId": "CTP_UCDInsurerMapping__cRef4"
+            },
+            "Name": "34",
+            "CTP_InsurerCode__c": "34",
+            "CTP_InsurerName__c": "NRMA"
+        },
+        {
+            "attributes": {
+                "type": "CTP_UCDInsurerMapping__c",
+                "referenceId": "CTP_UCDInsurerMapping__cRef5"
+            },
+            "Name": "36",
+            "CTP_InsurerCode__c": "36",
+            "CTP_InsurerName__c": "QBE"
+        },
+        {
+            "attributes": {
+                "type": "CTP_UCDInsurerMapping__c",
+                "referenceId": "CTP_UCDInsurerMapping__cRef6"
+            },
+            "Name": "39",
+            "CTP_InsurerCode__c": "39",
+            "CTP_InsurerName__c": "CIC-Allianz"
+        },
+        {
+            "attributes": {
+                "type": "CTP_UCDInsurerMapping__c",
+                "referenceId": "CTP_UCDInsurerMapping__cRef7"
+            },
+            "Name": "AAMI",
+            "CTP_InsurerCode__c": "26",
+            "CTP_InsurerName__c": "AAMI"
+        },
+        {
+            "attributes": {
+                "type": "CTP_UCDInsurerMapping__c",
+                "referenceId": "CTP_UCDInsurerMapping__cRef8"
+            },
+            "Name": "Allianz",
+            "CTP_InsurerCode__c": "32",
+            "CTP_InsurerName__c": "Allianz"
+        },
+        {
+            "attributes": {
+                "type": "CTP_UCDInsurerMapping__c",
+                "referenceId": "CTP_UCDInsurerMapping__cRef9"
+            },
+            "Name": "CIC-Allianz",
+            "CTP_InsurerCode__c": "39",
+            "CTP_InsurerName__c": "CIC-Allianz"
+        },
+        {
+            "attributes": {
+                "type": "CTP_UCDInsurerMapping__c",
+                "referenceId": "CTP_UCDInsurerMapping__cRef10"
+            },
+            "Name": "GIO",
+            "CTP_InsurerCode__c": "31",
+            "CTP_InsurerName__c": "GIO"
+        },
+        {
+            "attributes": {
+                "type": "CTP_UCDInsurerMapping__c",
+                "referenceId": "CTP_UCDInsurerMapping__cRef11"
+            },
+            "Name": "NRMA",
+            "CTP_InsurerCode__c": "34",
+            "CTP_InsurerName__c": "NRMA"
+        },
+        {
+            "attributes": {
+                "type": "CTP_UCDInsurerMapping__c",
+                "referenceId": "CTP_UCDInsurerMapping__cRef12"
+            },
+            "Name": "QBE",
+            "CTP_InsurerCode__c": "36",
+            "CTP_InsurerName__c": "QBE"
+        }
+    ]
+}

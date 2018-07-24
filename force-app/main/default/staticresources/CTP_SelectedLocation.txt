@@ -1,0 +1,216 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Block B",
+            "short_name" : "Block B",
+            "types" : [ "sublocality_level_3", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Acharya Puri",
+            "short_name" : "Acharya Puri",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Sector 12",
+            "short_name" : "Sector 12",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Gurugram",
+            "short_name" : "Gurugram",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Gurgaon",
+            "short_name" : "Gurgaon",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Haryana",
+            "short_name" : "HR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "122006",
+            "short_name" : "122006",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"extended-address\"\u003eBlock B, Acharya Puri, Sector 12\u003c/span\u003e, \u003cspan class=\"locality\"\u003eGurugram\u003c/span\u003e, \u003cspan class=\"region\"\u003eHaryana\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e122006\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Block B, Acharya Puri, Sector 12, Gurugram, Haryana 122006, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.4662196,
+            "lng" : 77.0329665
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 28.4668975302915,
+               "lng" : 77.0345365802915
+            },
+            "southwest" : {
+               "lat" : 28.4641995697085,
+               "lng" : 77.03183861970849
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+      "id" : "8ef590152546237aea8dda7a1baa1983cc844008",
+      "name" : "Gurgaon Bus Stand",
+      "photos" : [
+         {
+            "height" : 3120,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111815724341282673972/photos\"\u003eprashant gupta\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAcYL55SXu039D6NWnsIelix3b-RRed2Cztpfnn5JqTWO3uJ7B6xCl1IFPC-eiXeerAPdUodO5YXZyvTtmwoen6JFoHdX5d-cpghBymiW--q7YVeuyzltUh2rUH3aQ_LmCEhD_Hdmn9CPyVpP1om1zRfcsGhSP5Cg9jaECkEPYB8iir6H9BJuWVA",
+            "width" : 4160
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105893867853994044268/photos\"\u003eSonu Sing\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAoDyt_XPgq4K4_SqZ1jnO4kjmp0mP3sTIThJtQUuzFS0Apxcih3rE7skh6RM3sr-06qgcduK4h-pOj6Cf56LLKjKmRZGMCy969Gyv7cSsGMg3FHobuV23gUNMfRPCYZ7wEhAzqgmPgwDkgUdqQYsOJWbuGhReFpjscXISiX6UExOSSbLR057JPg",
+            "width" : 2448
+         },
+         {
+            "height" : 3120,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105918033967946771200/photos\"\u003eAman Kushwaha\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAACjpFKrAHMX7ayUkxYhNmHW6k6GB7e6Y84eSPTo2oWekBsbPkAzvn8hGQIZO5fMzOFFfvDuqkbBvXVMn664iD9JHABWTZAH7biUFjivT-JuoaEs5zYUReYGqtWlA1O4GDEhBJoTwsLkfZaxixf2gZ5SciGhRPW95EHY-9KH1htdfPxTchno92CA",
+            "width" : 4160
+         },
+         {
+            "height" : 2340,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/118168679704667498040/photos\"\u003eRashmi Anand\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAA9nt-PXJX080L6-NgXe_YcDPCvsp0g5gotqL3kyLdQhg1FjEMkuAWrYP2Xd6Ee4IVXz4MwGJ_XgfcDPqtoBAQKMZGHTAFKGpqvZdSHoOWDiY0DzfmZ0vw1FnbkXSR6bbrEhCLh74s8hoT0kjFwWrb1v3eGhRCea2jjHLUvZIcTI4LqOl5tXAl2w",
+            "width" : 4160
+         },
+         {
+            "height" : 3120,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112531505807361013228/photos\"\u003eAnil Duhan\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAR3Zf3dpAHXl5Ydz1ndZda_7isJmL6aO6y1Tao-R-pT08XTJo3TgujfDLKBOZ55fem3ASEx37ULNioEzKLvbkXDCuSAqR_NFoWyMeEh4rSQstWF3EUKWHtIH2RktfrENfEhCF5YhMyl9FHhhVMVg1jvkhGhTTYWU4H1xPQsJOO2kwNxNrh3FWUQ",
+            "width" : 4160
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103965229406849452763/photos\"\u003eVicky Kumar\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAA_xXQbI9mLM5e-5MJsAmalO4wA6kJBG0s_5-yiZ8SM-n-mRUG8Wo3_lV7SlnYC9yemhINUFoihR6Ab_itoOD8l2GRJrIgO1hKL3hal-O5X4M_2wugyDNbM5JIxbB-kJ9sEhB22c-70c9jpPa752zdZxq8GhTX_nw1WvPQUCdZuhJqueSVCaHzAA",
+            "width" : 2560
+         },
+         {
+            "height" : 3120,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103629419379978562094/photos\"\u003eGarima Yadav\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAZ47oGXDPDCa4JzYfhiVbfsEf76S1qwwwBnccg806QFE-HqBDNmFgXjZffmzs-eE5eVBrWniLU0cJ-b8ycKxQuurPKS35wvkv_FmNvE4LuweOtd4_TVVzh65w5w_LIVYNEhDecnMgotgbHUbS9uYKDVsCGhR0Z-s8tE5l3_iiXOxeUmhv94wzHw",
+            "width" : 4160
+         },
+         {
+            "height" : 2560,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117786778070340682168/photos\"\u003eBaburam Ram\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAA4-bAuWG63xj75E1z18sRlwAwI3peESVkfhynm0_KPzys86wdobRu3wuUro3RCnjxXXPAX8MWZ3duBbSZoYIVVeHh1BaxVAR87xbQ8aiF8Z4bk6u8CeYftU0XZpnnn79DEhDUfCL8cfyJc7fA_n3f4zEwGhQqVyo9775QiCLfWEAIm_ehzwlPCw",
+            "width" : 1440
+         },
+         {
+            "height" : 3120,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103629419379978562094/photos\"\u003eGarima Yadav\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAoxY_6EcpfeDJkaCFf9LL6U9FdpLSD891fOdUKzHYBtttlcs-Sg2m8WJNRew4GZGGlUyM80tcoBAJcoiNsuRFAMir9AGM1QkpDF-63DNWYt9UVeuwMc-d5x6Z7S7d2diFEhCgTXZ9PD-nxaxY7U5GbmSRGhQQ1Bdpm7dO4G1BcZ2qGHcWV9Id5A",
+            "width" : 4160
+         },
+         {
+            "height" : 2340,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114828216134114562705/photos\"\u003ePuneet\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAARcEmZ4slxBZhzsTsNM8DZP9vPWJVTfyToYsQdyK8eFhhkNqmrvIMebhJ7olNGb4oc2oM3FLsH44-9nGMfWn06xC2wsJ3xZk_LnLk4vyEQurBaI5TRJasjc1xlm8KI2WPEhBCLRDTxg9GiDu_vqvVul63GhSSEBkq057B9gsGghydUTDNfy5lfA",
+            "width" : 4160
+         }
+      ],
+      "place_id" : "ChIJlZC0bjUYDTkR8svqIYA5qMQ",
+      "rating" : 3.2,
+      "reference" : "CmRSAAAA0mmQC75GkoYUoY2wV3NGOXm2dv1VQLXQgMF_ra9YDXfku4jeeedAuKKQD6IQqwqt7kjh_Vfea0_7IncTnp1afbAxtccQ0wmq08DDv2uBGAW70YZPdJUC-DeUFH8OgxWMEhDVKAOiv3IDUXUSM3xZTZABGhRMkenu8ja16V5z-tKs4yNXQdVrrQ",
+      "reviews" : [
+         {
+            "author_name" : "Rohit Kumar Gupta",
+            "author_url" : "https://www.google.com/maps/contrib/103063030036802169701/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh5.googleusercontent.com/-pdCmCbIjTDs/AAAAAAAAAAI/AAAAAAAAVl4/D0odp58t3mk/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating" : 1,
+            "relative_time_description" : "a month ago",
+            "text" : "Very crowded place in peak hours. Not well maintained by authorities. You can get local bus services and for some other part of Haryana. Even a b grade city's bus stand is better than this.",
+            "time" : 1513941361
+         },
+         {
+            "author_name" : "Rahul Yadav",
+            "author_url" : "https://www.google.com/maps/contrib/102063290304519872613/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-J2VrrTPQlV4/AAAAAAAAAAI/AAAAAAAAAAA/ACSILjWwq4EpfSP8txz3_b0CbypIBLibVw/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating" : 3,
+            "relative_time_description" : "a month ago",
+            "text" : "Only local buses come here . All superfast buses passed through by pass. In my opinion it should be near National highway.Need of cleanliness mainly in toilet.",
+            "time" : 1514366748
+         },
+         {
+            "author_name" : "Sahil Kathuria",
+            "author_url" : "https://www.google.com/maps/contrib/100981303030002872418/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-9Hh0aCFnBK4/AAAAAAAAAAI/AAAAAAAAAAA/ACSILjW0PCHjgpTBLo0dMOXYm_LWYB7rUg/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating" : 2,
+            "relative_time_description" : "a month ago",
+            "text" : "Bus stand need to maintain properly. Buses service for other district is few but for local is available. Urine smell comes in bus stand premises. Outside area is overcrowded by vehicles. Instead of making metro city you need to provide bus service for other district.",
+            "time" : 1512979298
+         },
+         {
+            "author_name" : "vaibhav varshney",
+            "author_url" : "https://www.google.com/maps/contrib/105537154600312081976/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh5.googleusercontent.com/-Fx37A-jPJl4/AAAAAAAAAAI/AAAAAAAAAAA/ACSILjU0ty0woK21OHn4aEISoP7ulVdhwA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 1,
+            "relative_time_description" : "3 months ago",
+            "text" : "Nobody picks phone on inquiry. Dirty place. Ministers should visit it once and see how the main bus stand of richest city of Haryana looks like and how staff members are taking salary without doing any work. They can even not pick the phone.",
+            "time" : 1509635080
+         },
+         {
+            "author_name" : "vikrant sharma",
+            "author_url" : "https://www.google.com/maps/contrib/100799659261471622559/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/-wGDQUMHMDN8/AAAAAAAAAAI/AAAAAAAAAK0/J--Y6PiQsV8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 1,
+            "relative_time_description" : "in the last week",
+            "text" : "One of the worst bus stand I have been to. Not maintained at all. Very dirty waiting area.",
+            "time" : 1517684112
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [
+         "bus_station",
+         "transit_station",
+         "point_of_interest",
+         "establishment"
+      ],
+      "url" : "https://maps.google.com/?cid=14170639450008898546",
+      "utc_offset" : 330,
+      "vicinity" : "Block B, Acharya Puri, Sector 12, Gurugram"
+   },
+   "status" : "OK"
+}

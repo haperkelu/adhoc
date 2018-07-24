@@ -1,0 +1,238 @@
+{
+   "predictions" : [
+      {
+         "description" : "Gurgaon, Haryana, India",
+         "id" : "861aab89810cb05be1507009de15ab247d0a596e",
+         "matched_substrings" : [
+            {
+               "length" : 7,
+               "offset" : 0
+            }
+         ],
+         "place_id" : "ChIJWYjjgtUZDTkRHkvG5ehfzwI",
+         "reference" : "CjQvAAAAOwR0HzAbpWczy7XoZAZgd8xAJ-n-riUTKpiWM3KTbKpqQeMKmvFQ2qpDYi1FeB5JEhAT6jxrPr1rrfxH94JO2b1PGhS0eQ79MshNUwtDXrXXR7fR8HAWAQ",
+         "structured_formatting" : {
+            "main_text" : "Gurgaon",
+            "main_text_matched_substrings" : [
+               {
+                  "length" : 7,
+                  "offset" : 0
+               }
+            ],
+            "secondary_text" : "Haryana, India"
+         },
+         "terms" : [
+            {
+               "offset" : 0,
+               "value" : "Gurgaon"
+            },
+            {
+               "offset" : 9,
+               "value" : "Haryana"
+            },
+            {
+               "offset" : 18,
+               "value" : "India"
+            }
+         ],
+         "types" : [ "locality", "political", "geocode" ]
+      },
+      {
+         "description" : "Gurgaon Bus Stand, Block B, Acharya Puri, Sector 12, Gurugram, Haryana, India",
+         "id" : "8ef590152546237aea8dda7a1baa1983cc844008",
+         "matched_substrings" : [
+            {
+               "length" : 7,
+               "offset" : 0
+            }
+         ],
+         "place_id" : "ChIJlZC0bjUYDTkR8svqIYA5qMQ",
+         "reference" : "CmRcAAAApmAJnJoqHdSZRfqfYmVnGAespxpzFS7KyQtbh3dIlwjO6RXzhdXqooOGuyToawB_OVYzO0RF8ZgF--5izlVd--aqqc5zv-XtFqCrtYY-TBxYyTzCgtwItXCERLQLz5ZKEhBufbARduB5fs9NFLQ_wND9GhRO736ZcwPQxsje-W5clptyxUUugg",
+         "structured_formatting" : {
+            "main_text" : "Gurgaon Bus Stand",
+            "main_text_matched_substrings" : [
+               {
+                  "length" : 7,
+                  "offset" : 0
+               }
+            ],
+            "secondary_text" : "Block B, Acharya Puri, Sector 12, Gurugram, Haryana, India"
+         },
+         "terms" : [
+            {
+               "offset" : 0,
+               "value" : "Gurgaon Bus Stand"
+            },
+            {
+               "offset" : 19,
+               "value" : "Block B"
+            },
+            {
+               "offset" : 28,
+               "value" : "Acharya Puri"
+            },
+            {
+               "offset" : 42,
+               "value" : "Sector 12"
+            },
+            {
+               "offset" : 53,
+               "value" : "Gurugram"
+            },
+            {
+               "offset" : 63,
+               "value" : "Haryana"
+            },
+            {
+               "offset" : 72,
+               "value" : "India"
+            }
+         ],
+         "types" : [ "transit_station", "point_of_interest", "establishment", "geocode" ]
+      },
+      {
+         "description" : "Gurgaon Rural, Haryana, India",
+         "id" : "78d68687c3db4bcc9a38aea95dad8277ba90fd5b",
+         "matched_substrings" : [
+            {
+               "length" : 7,
+               "offset" : 0
+            }
+         ],
+         "place_id" : "ChIJfY3y29sZDTkRnN18iAEmDEs",
+         "reference" : "CkQ1AAAA6BNjpZGlXG5FJR2TJuj5SRJrL58rNmfWCj1iOPLlDpZ68GTBmlc4tCYruGzXOxOqNN_JN44J24X22BpkBrQt1RIQzagkcyb42CJdjGP7V-oU4RoUooMSaZdX8LFDkh5tJhFag5HRWLY",
+         "structured_formatting" : {
+            "main_text" : "Gurgaon Rural",
+            "main_text_matched_substrings" : [
+               {
+                  "length" : 7,
+                  "offset" : 0
+               }
+            ],
+            "secondary_text" : "Haryana, India"
+         },
+         "terms" : [
+            {
+               "offset" : 0,
+               "value" : "Gurgaon Rural"
+            },
+            {
+               "offset" : 15,
+               "value" : "Haryana"
+            },
+            {
+               "offset" : 24,
+               "value" : "India"
+            }
+         ],
+         "types" : [ "locality", "political", "geocode" ]
+      },
+      {
+         "description" : "Gurgaon Railway Station, Old Railway Road, Laxman Garden, Sector 105, Gurugram, Haryana, India",
+         "id" : "d38e4f31ad7ec53b564d345d25644684dbb4429f",
+         "matched_substrings" : [
+            {
+               "length" : 7,
+               "offset" : 0
+            }
+         ],
+         "place_id" : "ChIJWzUAEOAZDTkR1wJwaxHAI4A",
+         "reference" : "CnRtAAAAlfW9AmNVS274VyXSpIdxhKNc-CZ1aR9yOzZxsOeYwhn61mPB445HzTqOGEtQRoRuqizlj5vwyiZ_eTs9RzdWZBTr_vp817L3TXrGCCGgF-2GMLl9-pbKWM4L8sX84gNYkUdp90Gc4MT7ajfrn40fphIQIhdYuR_QftZzhQiNSs-PCBoUjSxwfjlRzAF1Y5-MUZHbhNukF84",
+         "structured_formatting" : {
+            "main_text" : "Gurgaon Railway Station",
+            "main_text_matched_substrings" : [
+               {
+                  "length" : 7,
+                  "offset" : 0
+               }
+            ],
+            "secondary_text" : "Old Railway Road, Laxman Garden, Sector 105, Gurugram, Haryana, India"
+         },
+         "terms" : [
+            {
+               "offset" : 0,
+               "value" : "Gurgaon Railway Station"
+            },
+            {
+               "offset" : 25,
+               "value" : "Old Railway Road"
+            },
+            {
+               "offset" : 43,
+               "value" : "Laxman Garden"
+            },
+            {
+               "offset" : 58,
+               "value" : "Sector 105"
+            },
+            {
+               "offset" : 70,
+               "value" : "Gurugram"
+            },
+            {
+               "offset" : 80,
+               "value" : "Haryana"
+            },
+            {
+               "offset" : 89,
+               "value" : "India"
+            }
+         ],
+         "types" : [ "transit_station", "point_of_interest", "establishment", "geocode" ]
+      },
+      {
+         "description" : "Gurgaon - Faridabad Road, G Block, DLF Phase 1, Sector 26, Gurugram, Haryana, India",
+         "id" : "37fa59bd335af410a1dbcf6d6490828c7a4fba0b",
+         "matched_substrings" : [
+            {
+               "length" : 7,
+               "offset" : 0
+            }
+         ],
+         "place_id" : "ElNHdXJnYW9uIC0gRmFyaWRhYmFkIFJvYWQsIEcgQmxvY2ssIERMRiBQaGFzZSAxLCBTZWN0b3IgMjYsIEd1cnVncmFtLCBIYXJ5YW5hLCBJbmRpYQ",
+         "reference" : "CmRXAAAAyqlVD7PUjIVJf-wVj--QWzHjb6aGwVruKpSbQpNFAFg3MOziwMmb6h2Lfedg2ykO2RrVN6wqY-GYE8E-oktQXVxyTaEjE4nFiRaXVb9QTRlBiFqHErjDt5FVpCr6epnYEhCO6he7mFBM63UHGgaAbJfYGhSStJBCdipV83DrukVOtMxmNsikzQ",
+         "structured_formatting" : {
+            "main_text" : "Gurgaon - Faridabad Road",
+            "main_text_matched_substrings" : [
+               {
+                  "length" : 7,
+                  "offset" : 0
+               }
+            ],
+            "secondary_text" : "G Block, DLF Phase 1, Sector 26, Gurugram, Haryana, India"
+         },
+         "terms" : [
+            {
+               "offset" : 0,
+               "value" : "Gurgaon - Faridabad Road"
+            },
+            {
+               "offset" : 26,
+               "value" : "G Block"
+            },
+            {
+               "offset" : 35,
+               "value" : "DLF Phase 1"
+            },
+            {
+               "offset" : 48,
+               "value" : "Sector 26"
+            },
+            {
+               "offset" : 59,
+               "value" : "Gurugram"
+            },
+            {
+               "offset" : 69,
+               "value" : "Haryana"
+            },
+            {
+               "offset" : 78,
+               "value" : "India"
+            }
+         ],
+         "types" : [ "route", "geocode" ]
+      }
+   ],
+   "status" : "OK"
+}

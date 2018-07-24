@@ -1,0 +1,562 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef1"
+            },
+            "Name": "Merit review-34",
+            "CTP_DisputeCategory__c": "Merit review",
+            "CTP_DisputeTypes__c": "Weekly benefits outside Australia"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef2"
+            },
+            "Name": "Merit review-28",
+            "CTP_DisputeCategory__c": "Merit review",
+            "CTP_DisputeTypes__c": "Treatment & care compensated"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef3"
+            },
+            "Name": "Merit review-7",
+            "CTP_DisputeCategory__c": "Merit review",
+            "CTP_DisputeTypes__c": "Cost of treatment and care"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef4"
+            },
+            "Name": "Merit review-15",
+            "CTP_DisputeCategory__c": "Merit review",
+            "CTP_DisputeTypes__c": "Legal costs"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef5"
+            },
+            "Name": "Merit review-19",
+            "CTP_DisputeCategory__c": "Merit review",
+            "CTP_DisputeTypes__c": "Recoverable statutory benefits"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef6"
+            },
+            "Name": "Merit review-33",
+            "CTP_DisputeCategory__c": "Merit review",
+            "CTP_DisputeTypes__c": "Verification of expenses"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef7"
+            },
+            "Name": "Merit review-27",
+            "CTP_DisputeCategory__c": "Merit review",
+            "CTP_DisputeTypes__c": "Treatment & care authorised"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef8"
+            },
+            "Name": "Misc Claims dispute-2",
+            "CTP_DisputeCategory__c": "Misc claims assessment",
+            "CTP_DisputeTypes__c": "Due inquiry & search"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef9"
+            },
+            "Name": "Misc Claims dispute-5",
+            "CTP_DisputeCategory__c": "Misc claims assessment",
+            "CTP_DisputeTypes__c": "Is death or injury from a NSW accident"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef10"
+            },
+            "Name": "Merit review-21",
+            "CTP_DisputeCategory__c": "Merit review",
+            "CTP_DisputeTypes__c": "Retirement age termination"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef11"
+            },
+            "Name": "Merit review-9",
+            "CTP_DisputeCategory__c": "Merit review",
+            "CTP_DisputeTypes__c": "Funeral expenses"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef12"
+            },
+            "Name": "Claims assessment-5",
+            "CTP_DisputeCategory__c": "Claims assessment",
+            "CTP_DisputeTypes__c": "Costs assessment"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef13"
+            },
+            "Name": "Medical assessment-8",
+            "CTP_DisputeCategory__c": "Medical assessment",
+            "CTP_DisputeTypes__c": "Permanent impairment"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef14"
+            },
+            "Name": "Merit review-2",
+            "CTP_DisputeCategory__c": "Merit review",
+            "CTP_DisputeTypes__c": "Benefits reduced re Death"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef15"
+            },
+            "Name": "Merit review-31",
+            "CTP_DisputeCategory__c": "Merit review",
+            "CTP_DisputeTypes__c": "Treatment & care within time"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef16"
+            },
+            "Name": "Merit review-23",
+            "CTP_DisputeCategory__c": "Merit review",
+            "CTP_DisputeTypes__c": "Suspension re claimant not minimising loss"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef17"
+            },
+            "Name": "Medical assessment-3",
+            "CTP_DisputeCategory__c": "Medical assessment",
+            "CTP_DisputeTypes__c": "Earning capacity impairment"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef18"
+            },
+            "Name": "Merit review-14",
+            "CTP_DisputeCategory__c": "Merit review",
+            "CTP_DisputeTypes__c": "Insurer notice periods"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef19"
+            },
+            "Name": "Merit review-32",
+            "CTP_DisputeCategory__c": "Merit review",
+            "CTP_DisputeTypes__c": "Variation of weekly payments"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef20"
+            },
+            "Name": "Claims assessment-2",
+            "CTP_DisputeCategory__c": "Claims assessment",
+            "CTP_DisputeTypes__c": "Damages Assessment"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef21"
+            },
+            "Name": "Misc Claims dispute-15",
+            "CTP_DisputeCategory__c": "Misc claims assessment",
+            "CTP_DisputeTypes__c": "Damages claim time limits"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef22"
+            },
+            "Name": "Claims assessment-6",
+            "CTP_DisputeCategory__c": "Claims assessment",
+            "CTP_DisputeTypes__c": "Damages and liability assessment"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef23"
+            },
+            "Name": "Medical assessment-4",
+            "CTP_DisputeCategory__c": "Medical assessment",
+            "CTP_DisputeTypes__c": "Minor injury"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef24"
+            },
+            "Name": "Misc Claims dispute-11",
+            "CTP_DisputeCategory__c": "Misc claims assessment",
+            "CTP_DisputeTypes__c": "Reduction for contributory negligence"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef25"
+            },
+            "Name": "Merit review-6",
+            "CTP_DisputeCategory__c": "Merit review",
+            "CTP_DisputeTypes__c": "Claimant's duty to cooperate"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef26"
+            },
+            "Name": "Misc Claims dispute-3",
+            "CTP_DisputeCategory__c": "Misc claims assessment",
+            "CTP_DisputeTypes__c": "Giving notice of claim"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef27"
+            },
+            "Name": "Merit review-11",
+            "CTP_DisputeCategory__c": "Merit review",
+            "CTP_DisputeTypes__c": "Insurer's reasonable requests"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef28"
+            },
+            "Name": "Merit review-30",
+            "CTP_DisputeCategory__c": "Merit review",
+            "CTP_DisputeTypes__c": "Treatment & care outside Australia"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef29"
+            },
+            "Name": "Merit review-18",
+            "CTP_DisputeCategory__c": "Merit review",
+            "CTP_DisputeTypes__c": "No benefits if Workers Compensation payable"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef30"
+            },
+            "Name": "Misc Claims dispute-4",
+            "CTP_DisputeCategory__c": "Misc claims assessment",
+            "CTP_DisputeTypes__c": "Has the Nominal Defendant lost the right to reject a claim"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef31"
+            },
+            "Name": "Medical assessment-2",
+            "CTP_DisputeCategory__c": "Medical assessment",
+            "CTP_DisputeTypes__c": "Treatment & care related"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef32"
+            },
+            "Name": "Medical assessment-6",
+            "CTP_DisputeCategory__c": "Medical assessment",
+            "CTP_DisputeTypes__c": "Non binding opinions"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef33"
+            },
+            "Name": "Merit review-1",
+            "CTP_DisputeCategory__c": "Merit review",
+            "CTP_DisputeTypes__c": "Amount of weekly payments"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef34"
+            },
+            "Name": "Misc Claims dispute-12",
+            "CTP_DisputeCategory__c": "Misc claims assessment",
+            "CTP_DisputeTypes__c": "Serious driving offence exclusion"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef35"
+            },
+            "Name": "Medical assessment-7",
+            "CTP_DisputeCategory__c": "Medical assessment",
+            "CTP_DisputeTypes__c": "Treatment improving recovering"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef36"
+            },
+            "Name": "Misc Claims dispute-10",
+            "CTP_DisputeCategory__c": "Misc claims assessment",
+            "CTP_DisputeTypes__c": "Recovery from at fault vehicle insurer"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef37"
+            },
+            "Name": "Merit review-8",
+            "CTP_DisputeCategory__c": "Merit review",
+            "CTP_DisputeTypes__c": "Excluded treatment & care"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef38"
+            },
+            "Name": "Misc Claims dispute-1",
+            "CTP_DisputeCategory__c": "Misc claims assessment",
+            "CTP_DisputeTypes__c": "Accident verification"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef39"
+            },
+            "Name": "Merit review-20",
+            "CTP_DisputeCategory__c": "Merit review",
+            "CTP_DisputeTypes__c": "Refund of weekly payments"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef40"
+            },
+            "Name": "Merit review-25",
+            "CTP_DisputeCategory__c": "Merit review",
+            "CTP_DisputeTypes__c": "Suspension re rehabilitation"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef41"
+            },
+            "Name": "Medical assessment-1",
+            "CTP_DisputeCategory__c": "Medical assessment",
+            "CTP_DisputeTypes__c": "Treatment and care reasonable and necessary"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef42"
+            },
+            "Name": "Misc Claims dispute-14",
+            "CTP_DisputeCategory__c": "Misc claims assessment",
+            "CTP_DisputeTypes__c": "Was accident the fault of another"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef43"
+            },
+            "Name": "Merit review-26",
+            "CTP_DisputeCategory__c": "Merit review",
+            "CTP_DisputeTypes__c": "Suspension re work fitness evidence"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef44"
+            },
+            "Name": "Misc Claims dispute-13",
+            "CTP_DisputeCategory__c": "Misc claims assessment",
+            "CTP_DisputeTypes__c": "Statutory benefits claim time limits"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef45"
+            },
+            "Name": "Claims assessment-3",
+            "CTP_DisputeCategory__c": "Claims assessment",
+            "CTP_DisputeTypes__c": "Exemption from Damages Assessment"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef46"
+            },
+            "Name": "Misc Claims dispute-7",
+            "CTP_DisputeCategory__c": "Misc claims assessment",
+            "CTP_DisputeTypes__c": "Non compliance with duties"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef47"
+            },
+            "Name": "Claims assessment-1",
+            "CTP_DisputeCategory__c": "Claims assessment",
+            "CTP_DisputeTypes__c": "Damages Settlement Approval"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef48"
+            },
+            "Name": "Merit review-3",
+            "CTP_DisputeCategory__c": "Merit review",
+            "CTP_DisputeTypes__c": "Ceasing statutory benefits re damages claim"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef49"
+            },
+            "Name": "Merit review-35",
+            "CTP_DisputeCategory__c": "Merit review",
+            "CTP_DisputeTypes__c": "Panel Review of a single merit review"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef50"
+            },
+            "Name": "Merit review-13",
+            "CTP_DisputeCategory__c": "Merit review",
+            "CTP_DisputeTypes__c": "Insurer direction re particulars"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef51"
+            },
+            "Name": "Merit review-24",
+            "CTP_DisputeCategory__c": "Merit review",
+            "CTP_DisputeTypes__c": "Suspension re medical evidence"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef52"
+            },
+            "Name": "Merit review-17",
+            "CTP_DisputeCategory__c": "Merit review",
+            "CTP_DisputeTypes__c": "No benefits if vehicle uninsured"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef53"
+            },
+            "Name": "Misc Claims dispute-6",
+            "CTP_DisputeCategory__c": "Misc claims assessment",
+            "CTP_DisputeTypes__c": "Is injured person mostly at fault"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef54"
+            },
+            "Name": "Claims assessment-4",
+            "CTP_DisputeCategory__c": "Claims assessment",
+            "CTP_DisputeTypes__c": "Further Damages Assessment"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef55"
+            },
+            "Name": "Merit review-12",
+            "CTP_DisputeCategory__c": "Merit review",
+            "CTP_DisputeTypes__c": "Insurer delaying offer"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef56"
+            },
+            "Name": "Merit review-16",
+            "CTP_DisputeCategory__c": "Merit review",
+            "CTP_DisputeTypes__c": "Mental harm limits on benefits"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef57"
+            },
+            "Name": "Medical assessment-9",
+            "CTP_DisputeCategory__c": "Medical assessment",
+            "CTP_DisputeTypes__c": "Further medical assessment"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef58"
+            },
+            "Name": "Medical assessment-10",
+            "CTP_DisputeCategory__c": "Medical assessment",
+            "CTP_DisputeTypes__c": "Panel Review of single medical assessment"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef59"
+            },
+            "Name": "Merit review-10",
+            "CTP_DisputeCategory__c": "Merit review",
+            "CTP_DisputeTypes__c": "Gratuitous services"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef60"
+            },
+            "Name": "Misc Claims dispute-8",
+            "CTP_DisputeCategory__c": "Misc claims assessment",
+            "CTP_DisputeTypes__c": "Notice of claim format"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef61"
+            },
+            "Name": "Merit review-29",
+            "CTP_DisputeCategory__c": "Merit review",
+            "CTP_DisputeTypes__c": "Treatment & care limits"
+        },
+        {
+            "attributes": {
+                "type": "CTP_DisputeCategoryDisputeTypeMapping__c",
+                "referenceId": "CTP_DisputeCategoryDisputeTypeMapping__cRef62"
+            },
+            "Name": "Merit review-5",
+            "CTP_DisputeCategory__c": "Merit review",
+            "CTP_DisputeTypes__c": "Claimant providing particulars"
+        }
+    ]
+}

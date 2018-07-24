@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="71" height="63" viewBox="0 0 71 63">
+    <g fill="none" fill-rule="evenodd">
+        <g fill="#FFF" fill-rule="nonzero" stroke="#00629B" stroke-width="1.3" transform="translate(12 12)">
+            <path d="M52.174 46.377H17.18a5.072 5.072 0 0 1 0 2.898h34.993a1.45 1.45 0 1 0 0-2.898zM7.246 47.826c.003-.49.073-.978.21-1.45H5.798a1.45 1.45 0 0 0 0 2.9h1.66a5.268 5.268 0 0 1-.21-1.45z"/>
+            <circle cx="12.319" cy="47.826" r="2.174"/>
+            <path d="M53.623 41.304H4.348A4.348 4.348 0 0 1 0 36.957V4.347A4.348 4.348 0 0 1 4.348 0h49.275a4.348 4.348 0 0 1 4.348 4.348v32.609a4.348 4.348 0 0 1-4.348 4.347zM4.348 2.9c-.8 0-1.45.648-1.45 1.449v32.609c0 .8.65 1.449 1.45 1.449h49.275c.8 0 1.45-.65 1.45-1.45V4.349c0-.8-.65-1.45-1.45-1.45H4.348z"/>
+            <path d="M23.34 14.283v12.659a2.174 2.174 0 0 0 3.508 1.71l8.094-6.326a2.174 2.174 0 0 0 0-3.427l-8.094-6.327a2.174 2.174 0 0 0-3.507 1.71z"/>
+        </g>
+        <g transform="translate(1 1)">
+            <circle cx="12" cy="12" r="12" fill="#E8007F" stroke="#FFF" stroke-width="2"/>
+            <text fill="#FFF" font-family="Roboto-Bold, Roboto" font-size="16" font-weight="bold">
+                <tspan x="7" y="17">2</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

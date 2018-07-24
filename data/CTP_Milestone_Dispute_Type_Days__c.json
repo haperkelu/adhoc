@@ -1,0 +1,132 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "CTP_Milestone_Dispute_Type_Days__c",
+                "referenceId": "CTP_Milestone_Dispute_Type_Days__cRef1"
+            },
+            "Name": "Damages claim",
+            "Reply_Period__c": 14
+        },
+        {
+            "attributes": {
+                "type": "CTP_Milestone_Dispute_Type_Days__c",
+                "referenceId": "CTP_Milestone_Dispute_Type_Days__cRef2"
+            },
+            "Name": "Fault & contributory negligence",
+            "Reply_Period__c": 21
+        },
+        {
+            "attributes": {
+                "type": "CTP_Milestone_Dispute_Type_Days__c",
+                "referenceId": "CTP_Milestone_Dispute_Type_Days__cRef3"
+            },
+            "Name": "Statutory benefits payments matters",
+            "Reply_Period__c": 7
+        },
+        {
+            "attributes": {
+                "type": "CTP_Milestone_Dispute_Type_Days__c",
+                "referenceId": "CTP_Milestone_Dispute_Type_Days__cRef4"
+            },
+            "Name": "Procedural claims matters",
+            "Reply_Period__c": 14
+        },
+        {
+            "attributes": {
+                "type": "CTP_Milestone_Dispute_Type_Days__c",
+                "referenceId": "CTP_Milestone_Dispute_Type_Days__cRef5"
+            },
+            "Name": "Funeral expenses",
+            "Reply_Period__c": 7
+        },
+        {
+            "attributes": {
+                "type": "CTP_Milestone_Dispute_Type_Days__c",
+                "referenceId": "CTP_Milestone_Dispute_Type_Days__cRef6"
+            },
+            "Name": "Minor Injury",
+            "Reply_Period__c": 14
+        },
+        {
+            "attributes": {
+                "type": "CTP_Milestone_Dispute_Type_Days__c",
+                "referenceId": "CTP_Milestone_Dispute_Type_Days__cRef7"
+            },
+            "Name": "Treatment and care benefits",
+            "Reply_Period__c": 7
+        },
+        {
+            "attributes": {
+                "type": "CTP_Milestone_Dispute_Type_Days__c",
+                "referenceId": "CTP_Milestone_Dispute_Type_Days__cRef8"
+            },
+            "Name": "Weekly payments",
+            "Reply_Period__c": 7
+        },
+        {
+            "attributes": {
+                "type": "CTP_Milestone_Dispute_Type_Days__c",
+                "referenceId": "CTP_Milestone_Dispute_Type_Days__cRef9"
+            },
+            "Name": "Further",
+            "Reply_Period__c": 14
+        },
+        {
+            "attributes": {
+                "type": "CTP_Milestone_Dispute_Type_Days__c",
+                "referenceId": "CTP_Milestone_Dispute_Type_Days__cRef10"
+            },
+            "Name": "Return to work support",
+            "Reply_Period__c": 7
+        },
+        {
+            "attributes": {
+                "type": "CTP_Milestone_Dispute_Type_Days__c",
+                "referenceId": "CTP_Milestone_Dispute_Type_Days__cRef11"
+            },
+            "Name": "Permanent impairment",
+            "Reply_Period__c": 14
+        },
+        {
+            "attributes": {
+                "type": "CTP_Milestone_Dispute_Type_Days__c",
+                "referenceId": "CTP_Milestone_Dispute_Type_Days__cRef12"
+            },
+            "Name": "Review",
+            "Reply_Period__c": 14
+        },
+        {
+            "attributes": {
+                "type": "CTP_Milestone_Dispute_Type_Days__c",
+                "referenceId": "CTP_Milestone_Dispute_Type_Days__cRef13"
+            },
+            "Name": "Treatment and care",
+            "Reply_Period__c": 14
+        },
+        {
+            "attributes": {
+                "type": "CTP_Milestone_Dispute_Type_Days__c",
+                "referenceId": "CTP_Milestone_Dispute_Type_Days__cRef14"
+            },
+            "Name": "Non - Binding",
+            "Reply_Period__c": 7
+        },
+        {
+            "attributes": {
+                "type": "CTP_Milestone_Dispute_Type_Days__c",
+                "referenceId": "CTP_Milestone_Dispute_Type_Days__cRef15"
+            },
+            "Name": "Other",
+            "Reply_Period__c": 7
+        },
+        {
+            "attributes": {
+                "type": "CTP_Milestone_Dispute_Type_Days__c",
+                "referenceId": "CTP_Milestone_Dispute_Type_Days__cRef16"
+            },
+            "Name": "Earning capacity impairment",
+            "Reply_Period__c": 14
+        }
+    ]
+}

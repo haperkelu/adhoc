@@ -1,0 +1,30 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "QueueRoutingConfig",
+                "referenceId": "QueueRoutingConfigRef1"
+            },
+            "CapacityPercentage": 25,
+            "DeveloperName": "DRS_Screening",
+            "Language": "en_US",
+            "MasterLabel": "DRS Screening",
+            "PushTimeout": 60,
+            "RoutingModel": "MostAvailable",
+            "RoutingPriority": 1
+        },
+        {
+            "attributes": {
+                "type": "QueueRoutingConfig",
+                "referenceId": "QueueRoutingConfigRef2"
+            },
+            "CapacityPercentage": 25,
+            "DeveloperName": "CTP_Assist_Feedback_Cases",
+            "Language": "en_US",
+            "MasterLabel": "CTP Assist Feedback Cases",
+            "PushTimeout": 60,
+            "RoutingModel": "MostAvailable",
+            "RoutingPriority": 1
+        }
+    ]
+}

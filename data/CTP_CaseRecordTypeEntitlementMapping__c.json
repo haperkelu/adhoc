@@ -1,0 +1,58 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "CTP_CaseRecordTypeEntitlementMapping__c",
+                "referenceId": "CTP_CaseRecordTypeEntitlementMapping__cRef1"
+            },
+            "Name": "5",
+            "CTP_Case_Record_Type__c": "Application",
+            "CTP_Entitlement_Process_Name__c": "5507F000000gABD"
+        },
+        {
+            "attributes": {
+                "type": "CTP_CaseRecordTypeEntitlementMapping__c",
+                "referenceId": "CTP_CaseRecordTypeEntitlementMapping__cRef2"
+            },
+            "Name": "1",
+            "CTP_Case_Record_Type__c": "Feedback",
+            "CTP_Entitlement_Process_Name__c": "5507F000000HBV1"
+        },
+        {
+            "attributes": {
+                "type": "CTP_CaseRecordTypeEntitlementMapping__c",
+                "referenceId": "CTP_CaseRecordTypeEntitlementMapping__cRef3"
+            },
+            "Name": "2",
+            "CTP_Case_Record_Type__c": "CTP Assist - Non-damages",
+            "CTP_Entitlement_Process_Name__c": "5507F000000HBVB"
+        },
+        {
+            "attributes": {
+                "type": "CTP_CaseRecordTypeEntitlementMapping__c",
+                "referenceId": "CTP_CaseRecordTypeEntitlementMapping__cRef4"
+            },
+            "Name": "4",
+            "CTP_Case_Record_Type__c": "Compensation to Relatives",
+            "CTP_Entitlement_Process_Name__c": "5507F000000HBVG"
+        },
+        {
+            "attributes": {
+                "type": "CTP_CaseRecordTypeEntitlementMapping__c",
+                "referenceId": "CTP_CaseRecordTypeEntitlementMapping__cRef5"
+            },
+            "Name": "3",
+            "CTP_Case_Record_Type__c": "CTP Assist - Damages",
+            "CTP_Entitlement_Process_Name__c": "5507F000000HBV6"
+        },
+        {
+            "attributes": {
+                "type": "CTP_CaseRecordTypeEntitlementMapping__c",
+                "referenceId": "CTP_CaseRecordTypeEntitlementMapping__cRef6"
+            },
+            "Name": "6",
+            "CTP_Case_Record_Type__c": "Claims Application",
+            "CTP_Entitlement_Process_Name__c": "5507F000000gSHt"
+        }
+    ]
+}

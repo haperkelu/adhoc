@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StaticResource xmlns="http://soap.sforce.com/2006/04/metadata">
+    <cacheControl>Public</cacheControl>
+    <contentType>application/x-zip-compressed</contentType>
+    <description>DCR-3651
+Sprint 9
+Release:1.5
+To show the accident location of accident screen on public portal</description>
+</StaticResource>

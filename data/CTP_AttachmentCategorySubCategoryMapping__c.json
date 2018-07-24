@@ -1,0 +1,1188 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef1"
+            },
+            "Name": "Claims6",
+            "CTP_Category__c": "Claims",
+            "CTP_Sub_Category__c": "Certificate has been replaced"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef2"
+            },
+            "Name": "SIRA documents 3",
+            "CTP_Category__c": "SIRA documents",
+            "CTP_Sub_Category__c": "Assessment Conference Report"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef3"
+            },
+            "Name": "Medical information 9",
+            "CTP_Category__c": "Medical information",
+            "CTP_Sub_Category__c": "Independent medical examination report"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef4"
+            },
+            "Name": "Medical8",
+            "CTP_Category__c": "Medical",
+            "CTP_Sub_Category__c": "Diagnostic radiology"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef5"
+            },
+            "Name": "Correspondence6",
+            "CTP_Category__c": "Correspondence",
+            "CTP_Sub_Category__c": "File notes"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef6"
+            },
+            "Name": "Legal7",
+            "CTP_Category__c": "Legal",
+            "CTP_Sub_Category__c": "Irrevocable authority"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef7"
+            },
+            "Name": "Merit Review4",
+            "CTP_Category__c": "Merit Review",
+            "CTP_Sub_Category__c": "PIAWE information (payslips/contract of employment/EBA/Award)"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef8"
+            },
+            "Name": "Claims12",
+            "CTP_Category__c": "Claims",
+            "CTP_Sub_Category__c": "Travel Expense Claim Form"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef9"
+            },
+            "Name": "Medical1",
+            "CTP_Category__c": "Medical",
+            "CTP_Sub_Category__c": "Decision - certificate and reasons"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef10"
+            },
+            "Name": "Claims2",
+            "CTP_Category__c": "Claims",
+            "CTP_Sub_Category__c": "Assessment Conference Report with further direction"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef11"
+            },
+            "Name": "Claims1",
+            "CTP_Category__c": "Claims",
+            "CTP_Sub_Category__c": "Preliminary Conference Report"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef12"
+            },
+            "Name": "SIRA documents 9",
+            "CTP_Category__c": "SIRA documents",
+            "CTP_Sub_Category__c": "Further combined certificate"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef13"
+            },
+            "Name": "Medical information 15",
+            "CTP_Category__c": "Medical information",
+            "CTP_Sub_Category__c": "Certificate has been replaced"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef14"
+            },
+            "Name": "Medical5",
+            "CTP_Category__c": "Medical",
+            "CTP_Sub_Category__c": "Assessment investigations"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef15"
+            },
+            "Name": "Medical information 6",
+            "CTP_Category__c": "Medical information",
+            "CTP_Sub_Category__c": "Medical imaging reports"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef16"
+            },
+            "Name": "Legal15",
+            "CTP_Category__c": "Legal"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef17"
+            },
+            "Name": "Employment 1",
+            "CTP_Category__c": "Employment",
+            "CTP_Sub_Category__c": "Work capacity decision notice"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef18"
+            },
+            "Name": "Employment 2",
+            "CTP_Category__c": "Employment",
+            "CTP_Sub_Category__c": "Fair notice"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef19"
+            },
+            "Name": "Employment 3",
+            "CTP_Category__c": "Employment",
+            "CTP_Sub_Category__c": "PIAWE form"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef20"
+            },
+            "Name": "Employment 4",
+            "CTP_Category__c": "Employment",
+            "CTP_Sub_Category__c": "Employment contract"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef21"
+            },
+            "Name": "Employment 5",
+            "CTP_Category__c": "Employment",
+            "CTP_Sub_Category__c": "Employment offer/letter of employment"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef22"
+            },
+            "Name": "Employment 6",
+            "CTP_Category__c": "Employment",
+            "CTP_Sub_Category__c": "Employment Fair Work Instrument"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef23"
+            },
+            "Name": "Employment 7",
+            "CTP_Category__c": "Employment",
+            "CTP_Sub_Category__c": "Payslips/Payroll advice"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef24"
+            },
+            "Name": "Employment 8",
+            "CTP_Category__c": "Employment",
+            "CTP_Sub_Category__c": "Position description"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef25"
+            },
+            "Name": "Employment 9",
+            "CTP_Category__c": "Employment",
+            "CTP_Sub_Category__c": "Offer/ withdrawal of suitable duties"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef26"
+            },
+            "Name": "Employment 10",
+            "CTP_Category__c": "Employment",
+            "CTP_Sub_Category__c": "Termination letter"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef27"
+            },
+            "Name": "Employment 11",
+            "CTP_Category__c": "Employment",
+            "CTP_Sub_Category__c": "PAYG summary"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef28"
+            },
+            "Name": "Employment 12",
+            "CTP_Category__c": "Employment",
+            "CTP_Sub_Category__c": "Tax return"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef29"
+            },
+            "Name": "Employment 13",
+            "CTP_Category__c": "Employment",
+            "CTP_Sub_Category__c": "Bank statements"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef30"
+            },
+            "Name": "Employment 14",
+            "CTP_Category__c": "Employment",
+            "CTP_Sub_Category__c": "Business activity statement"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef31"
+            },
+            "Name": "Employment 15",
+            "CTP_Category__c": "Employment",
+            "CTP_Sub_Category__c": "Business profit/loss statement"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef32"
+            },
+            "Name": "Employment 16",
+            "CTP_Category__c": "Employment",
+            "CTP_Sub_Category__c": "Log book/ work orders"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef33"
+            },
+            "Name": "Legal11",
+            "CTP_Category__c": "Legal",
+            "CTP_Sub_Category__c": "Australian citizenship or permanent residency"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef34"
+            },
+            "Name": "Legal13",
+            "CTP_Category__c": "Legal",
+            "CTP_Sub_Category__c": "Guardianship order or similar"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef35"
+            },
+            "Name": "Legal8",
+            "CTP_Category__c": "Legal",
+            "CTP_Sub_Category__c": "Subpoena"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef36"
+            },
+            "Name": "Legal9",
+            "CTP_Category__c": "Legal",
+            "CTP_Sub_Category__c": "Court/Tribunal Orders"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef37"
+            },
+            "Name": "Medical information 11",
+            "CTP_Category__c": "Medical information",
+            "CTP_Sub_Category__c": "Functional assessment/Occupational Therapist report"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef38"
+            },
+            "Name": "Application Documents 5",
+            "CTP_Category__c": "Application Documents",
+            "CTP_Sub_Category__c": "Internal review decision notice"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef39"
+            },
+            "Name": "Medical information 14",
+            "CTP_Category__c": "Medical information",
+            "CTP_Sub_Category__c": "Incomplete"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef40"
+            },
+            "Name": "Application Documents 1",
+            "CTP_Category__c": "Application Documents",
+            "CTP_Sub_Category__c": "Claim form/documents"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef41"
+            },
+            "Name": "Medical10",
+            "CTP_Category__c": "Medical",
+            "CTP_Sub_Category__c": "Neuropsychological assessment"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef42"
+            },
+            "Name": "Surveillance1",
+            "CTP_Category__c": "Surveillance",
+            "CTP_Sub_Category__c": "Surveillance footage"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef43"
+            },
+            "Name": "Legal1",
+            "CTP_Category__c": "Legal",
+            "CTP_Sub_Category__c": "Police report"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef44"
+            },
+            "Name": "Medical9",
+            "CTP_Category__c": "Medical",
+            "CTP_Sub_Category__c": "Travel expenses"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef45"
+            },
+            "Name": "SIRA documents 10",
+            "CTP_Category__c": "SIRA documents",
+            "CTP_Sub_Category__c": "Non-binding opinion"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef46"
+            },
+            "Name": "Merit Review2",
+            "CTP_Category__c": "Merit Review",
+            "CTP_Sub_Category__c": "Medical information (specialist reports/medical certificates/allied health reports/treatment plans)"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef47"
+            },
+            "Name": "Medical12",
+            "CTP_Category__c": "Medical",
+            "CTP_Sub_Category__c": "Invoice"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef48"
+            },
+            "Name": "Legal3",
+            "CTP_Category__c": "Legal",
+            "CTP_Sub_Category__c": "Sworn statement/affidavit"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef49"
+            },
+            "Name": "Application Documents 6",
+            "CTP_Category__c": "Application Documents",
+            "CTP_Sub_Category__c": "Stay letter"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef50"
+            },
+            "Name": "Merit Review1",
+            "CTP_Category__c": "Merit Review",
+            "CTP_Sub_Category__c": "Certificate/Decision with reasons"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef51"
+            },
+            "Name": "Claims4",
+            "CTP_Category__c": "Claims",
+            "CTP_Sub_Category__c": "Draft certificate and reasons"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef52"
+            },
+            "Name": "Correspondence2",
+            "CTP_Category__c": "Correspondence",
+            "CTP_Sub_Category__c": "Letter declining indemnity"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef53"
+            },
+            "Name": "Correspondence4",
+            "CTP_Category__c": "Correspondence",
+            "CTP_Sub_Category__c": "Request for particulars"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef54"
+            },
+            "Name": "Medical information 4",
+            "CTP_Category__c": "Medical information",
+            "CTP_Sub_Category__c": "Ambulance records"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef55"
+            },
+            "Name": "SIRA documents 4",
+            "CTP_Category__c": "SIRA documents",
+            "CTP_Sub_Category__c": "Preliminary Conference Report"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef56"
+            },
+            "Name": "SIRA documents 5",
+            "CTP_Category__c": "SIRA documents"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef57"
+            },
+            "Name": "Application Documents 2",
+            "CTP_Category__c": "Application Documents",
+            "CTP_Sub_Category__c": "Submissions"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef58"
+            },
+            "Name": "Medical information 1",
+            "CTP_Category__c": "Medical information",
+            "CTP_Sub_Category__c": "Treating doctor/specialist report"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef59"
+            },
+            "Name": "Application Documents 8",
+            "CTP_Category__c": "Application Documents",
+            "CTP_Sub_Category__c": "Application for internal review by insurer"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef60"
+            },
+            "Name": "Medical3",
+            "CTP_Category__c": "Medical",
+            "CTP_Sub_Category__c": "Review panel combined certificate"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef61"
+            },
+            "Name": "Medical information 10",
+            "CTP_Category__c": "Medical information",
+            "CTP_Sub_Category__c": "Injury management consultation/review report"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef62"
+            },
+            "Name": "Medical13",
+            "CTP_Category__c": "Medical",
+            "CTP_Sub_Category__c": "Invoice incorrect"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef63"
+            },
+            "Name": "Claims5",
+            "CTP_Category__c": "Claims",
+            "CTP_Sub_Category__c": "Replacement Claims Dispute Reasons/Certificates"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef64"
+            },
+            "Name": "Legal12",
+            "CTP_Category__c": "Legal",
+            "CTP_Sub_Category__c": "Death certificate"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef65"
+            },
+            "Name": "Medical2",
+            "CTP_Category__c": "Medical",
+            "CTP_Sub_Category__c": "Review panel decision certificate and reasons"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef66"
+            },
+            "Name": "Medical information 7",
+            "CTP_Category__c": "Medical information",
+            "CTP_Sub_Category__c": "Certificate of capacity"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef67"
+            },
+            "Name": "Legal5",
+            "CTP_Category__c": "Legal",
+            "CTP_Sub_Category__c": "Schedule of damages"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef68"
+            },
+            "Name": "Application Documents 7",
+            "CTP_Category__c": "Application Documents",
+            "CTP_Sub_Category__c": "Acknowledgement letter of application for internal review by insurer"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef69"
+            },
+            "Name": "Claims9",
+            "CTP_Category__c": "Claims",
+            "CTP_Sub_Category__c": "Claims Dispute Reasons/Certificates"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef70"
+            },
+            "Name": "Medical6",
+            "CTP_Category__c": "Medical",
+            "CTP_Sub_Category__c": "Worksheets"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef71"
+            },
+            "Name": "Application Documents 4",
+            "CTP_Category__c": "Application Documents"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef72"
+            },
+            "Name": "SIRA documents 1",
+            "CTP_Category__c": "SIRA documents",
+            "CTP_Sub_Category__c": "Findings and recommendations on merit review by SIRA"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef73"
+            },
+            "Name": "Legal6",
+            "CTP_Category__c": "Legal",
+            "CTP_Sub_Category__c": "Legal reports"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef74"
+            },
+            "Name": "Claims8",
+            "CTP_Category__c": "Claims",
+            "CTP_Sub_Category__c": "S 100 invoice"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef75"
+            },
+            "Name": "Medical11",
+            "CTP_Category__c": "Medical",
+            "CTP_Sub_Category__c": "Subpoena"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef76"
+            },
+            "Name": "Correspondence3",
+            "CTP_Category__c": "Correspondence",
+            "CTP_Sub_Category__c": "Insurer liability notice"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef77"
+            },
+            "Name": "Correspondence7",
+            "CTP_Category__c": "Correspondence",
+            "CTP_Sub_Category__c": "Emails"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef78"
+            },
+            "Name": "Surveillance2",
+            "CTP_Category__c": "Surveillance",
+            "CTP_Sub_Category__c": "Surveillance report"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef79"
+            },
+            "Name": "SIRA documents 8",
+            "CTP_Category__c": "SIRA documents",
+            "CTP_Sub_Category__c": "Review panel combined certificate"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef80"
+            },
+            "Name": "Claims11",
+            "CTP_Category__c": "Claims",
+            "CTP_Sub_Category__c": "Invoice incorrect"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef81"
+            },
+            "Name": "Medical information 3",
+            "CTP_Category__c": "Medical information",
+            "CTP_Sub_Category__c": "Hospital records"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef82"
+            },
+            "Name": "Legal14",
+            "CTP_Category__c": "Legal",
+            "CTP_Sub_Category__c": "Lifetime Care & Support documentation"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef83"
+            },
+            "Name": "Occupational rehabilitation services1",
+            "CTP_Category__c": "Occupational rehabilitation services",
+            "CTP_Sub_Category__c": "Suitable duties plan"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef84"
+            },
+            "Name": "Occupational rehabilitation services2",
+            "CTP_Category__c": "Occupational rehabilitation services",
+            "CTP_Sub_Category__c": "Return to work goals"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef85"
+            },
+            "Name": "Occupational rehabilitation services3",
+            "CTP_Category__c": "Occupational rehabilitation services",
+            "CTP_Sub_Category__c": "Return to work plan"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef86"
+            },
+            "Name": "Occupational rehabilitation services4",
+            "CTP_Category__c": "Occupational rehabilitation services",
+            "CTP_Sub_Category__c": "Vocational Assessment report"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef87"
+            },
+            "Name": "Occupational rehabilitation services5",
+            "CTP_Category__c": "Occupational rehabilitation services",
+            "CTP_Sub_Category__c": "Labour market analysis report"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef88"
+            },
+            "Name": "Occupational rehabilitation services6",
+            "CTP_Category__c": "Occupational rehabilitation services",
+            "CTP_Sub_Category__c": "Earning capacity assessment report"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef89"
+            },
+            "Name": "Occupational rehabilitation services7",
+            "CTP_Category__c": "Occupational rehabilitation services",
+            "CTP_Sub_Category__c": "NTS approval/ sign-off suitable employment options"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef90"
+            },
+            "Name": "Occupational rehabilitation services8",
+            "CTP_Category__c": "Occupational rehabilitation services",
+            "CTP_Sub_Category__c": "Progress report"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef91"
+            },
+            "Name": "Occupational rehabilitation services9",
+            "CTP_Category__c": "Occupational rehabilitation services",
+            "CTP_Sub_Category__c": "Closure report"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef92"
+            },
+            "Name": "Occupational rehabilitation services10",
+            "CTP_Category__c": "Occupational rehabilitation services",
+            "CTP_Sub_Category__c": "Job seeking report/plan"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef93"
+            },
+            "Name": "Occupational rehabilitation services11",
+            "CTP_Category__c": "Occupational rehabilitation services",
+            "CTP_Sub_Category__c": "Job seeking logs"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef94"
+            },
+            "Name": "Occupational rehabilitation services12",
+            "CTP_Category__c": "Occupational rehabilitation services",
+            "CTP_Sub_Category__c": "Injury management plan"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef95"
+            },
+            "Name": "Occupational rehabilitation services13",
+            "CTP_Category__c": "Occupational rehabilitation services",
+            "CTP_Sub_Category__c": "Section 53 documents"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef96"
+            },
+            "Name": "Occupational rehabilitation services14",
+            "CTP_Category__c": "Occupational rehabilitation services",
+            "CTP_Sub_Category__c": "Workplace assessment"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef97"
+            },
+            "Name": "Occupational rehabilitation services15",
+            "CTP_Category__c": "Occupational rehabilitation services",
+            "CTP_Sub_Category__c": "Worktrial progress report"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef98"
+            },
+            "Name": "Occupational rehabilitation services16",
+            "CTP_Category__c": "Occupational rehabilitation services",
+            "CTP_Sub_Category__c": "Worktrial closure report"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef99"
+            },
+            "Name": "Occupational rehabilitation services17",
+            "CTP_Category__c": "Occupational rehabilitation services",
+            "CTP_Sub_Category__c": "Case conference report"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef100"
+            },
+            "Name": "Occupational rehabilitation services18",
+            "CTP_Category__c": "Occupational rehabilitation services",
+            "CTP_Sub_Category__c": "Transferable skills analysis report"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef101"
+            },
+            "Name": "Occupational rehabilitation services19",
+            "CTP_Category__c": "Occupational rehabilitation services",
+            "CTP_Sub_Category__c": "Rehab provider referral"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef102"
+            },
+            "Name": "Medical4",
+            "CTP_Category__c": "Medical",
+            "CTP_Sub_Category__c": "Imaging reports"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef103"
+            },
+            "Name": "Claims3",
+            "CTP_Category__c": "Claims",
+            "CTP_Sub_Category__c": "Decision – certificate and reasons"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef104"
+            },
+            "Name": "Claims14",
+            "CTP_Category__c": "Claims",
+            "CTP_Sub_Category__c": "Subpoena"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef105"
+            },
+            "Name": "Claims7",
+            "CTP_Category__c": "Claims",
+            "CTP_Sub_Category__c": "S 100 directions request for information"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef106"
+            },
+            "Name": "Medical information 12",
+            "CTP_Category__c": "Medical information",
+            "CTP_Sub_Category__c": "Joint medico-legal report"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef107"
+            },
+            "Name": "Expenses3",
+            "CTP_Category__c": "Expenses",
+            "CTP_Sub_Category__c": "Treatment costs"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef108"
+            },
+            "Name": "Correspondence1",
+            "CTP_Category__c": "Correspondence"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef109"
+            },
+            "Name": "Correspondence5",
+            "CTP_Category__c": "Correspondence",
+            "CTP_Sub_Category__c": "Photos"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef110"
+            },
+            "Name": "Medical7",
+            "CTP_Category__c": "Medical",
+            "CTP_Sub_Category__c": "Non-binding opinion"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef111"
+            },
+            "Name": "Legal2",
+            "CTP_Category__c": "Legal",
+            "CTP_Sub_Category__c": "Statutory declaration"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef112"
+            },
+            "Name": "Application Documents 3",
+            "CTP_Category__c": "Application Documents",
+            "CTP_Sub_Category__c": "Obvious error application"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef113"
+            },
+            "Name": "Medical information 2",
+            "CTP_Category__c": "Medical information",
+            "CTP_Sub_Category__c": "Treating doctor/specialist notes"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef114"
+            },
+            "Name": "SIRA documents 7",
+            "CTP_Category__c": "SIRA documents",
+            "CTP_Sub_Category__c": "Review panel decision certificate and reasons"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef115"
+            },
+            "Name": "Legal4",
+            "CTP_Category__c": "Legal",
+            "CTP_Sub_Category__c": "Bio mechanical assessment report"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef116"
+            },
+            "Name": "SIRA documents 6",
+            "CTP_Category__c": "SIRA documents",
+            "CTP_Sub_Category__c": "Combined certificate"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef117"
+            },
+            "Name": "Legal10",
+            "CTP_Category__c": "Legal",
+            "CTP_Sub_Category__c": "Birth Certificate or Passport"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef118"
+            },
+            "Name": "Merit Review6",
+            "CTP_Category__c": "Merit Review",
+            "CTP_Sub_Category__c": "Invoice"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef119"
+            },
+            "Name": "Expenses2",
+            "CTP_Category__c": "Expenses",
+            "CTP_Sub_Category__c": "Legal costs"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef120"
+            },
+            "Name": "Medical information 8",
+            "CTP_Category__c": "Medical information",
+            "CTP_Sub_Category__c": "Neuropsychologist report"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef121"
+            },
+            "Name": "Merit Review7",
+            "CTP_Category__c": "Merit Review",
+            "CTP_Sub_Category__c": "Travel request/expense"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef122"
+            },
+            "Name": "Expenses1",
+            "CTP_Category__c": "Expenses",
+            "CTP_Sub_Category__c": "Funeral expenses"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef123"
+            },
+            "Name": "SIRA documents 2",
+            "CTP_Category__c": "SIRA documents",
+            "CTP_Sub_Category__c": "Previous SIRA certificate or decision"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef124"
+            },
+            "Name": "Merit Review3",
+            "CTP_Category__c": "Merit Review",
+            "CTP_Sub_Category__c": "Suitable employment information (vocational/functional/transferable skills analysis)"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef125"
+            },
+            "Name": "Merit Review5",
+            "CTP_Category__c": "Merit Review",
+            "CTP_Sub_Category__c": "Surveillance/factual investigations"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef126"
+            },
+            "Name": "Medical information 5",
+            "CTP_Category__c": "Medical information",
+            "CTP_Sub_Category__c": "Physiotherapy records"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef127"
+            },
+            "Name": "Medical information 16",
+            "CTP_Category__c": "Medical information",
+            "CTP_Sub_Category__c": "Authorised health practitioner report"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef128"
+            },
+            "Name": "SIRA documents 11",
+            "CTP_Category__c": "SIRA documents",
+            "CTP_Sub_Category__c": "Decision – certificate and reasons"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef129"
+            },
+            "Name": "Merit Review8",
+            "CTP_Category__c": "Merit Review",
+            "CTP_Sub_Category__c": "Hearing/teleconference minutes/transcripts"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef130"
+            },
+            "Name": "Claims10",
+            "CTP_Category__c": "Claims",
+            "CTP_Sub_Category__c": "Tax Invoice"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef131"
+            },
+            "Name": "Claims13",
+            "CTP_Category__c": "Claims",
+            "CTP_Sub_Category__c": "Recommendation to PCA for exemption"
+        },
+        {
+            "attributes": {
+                "type": "CTP_AttachmentCategorySubCategoryMapping__c",
+                "referenceId": "CTP_AttachmentCategorySubCategoryMapping__cRef132"
+            },
+            "Name": "Medical information 13",
+            "CTP_Category__c": "Medical information",
+            "CTP_Sub_Category__c": "Vocational assessment report"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "CTP_OLCS_Integration_Settings__c",
+                "referenceId": "CTP_OLCS_Integration_Settings__cRef1"
+            },
+            "Name": "ClaimSubmissionAPI",
+            "Active__c": true,
+            "isMockEnabled__c": false,
+            "Timeout__c": 120000
+        },
+        {
+            "attributes": {
+                "type": "CTP_OLCS_Integration_Settings__c",
+                "referenceId": "CTP_OLCS_Integration_Settings__cRef2"
+            },
+            "Name": "DetermineInsurerAPI",
+            "Active__c": true,
+            "isMockEnabled__c": false,
+            "Timeout__c": 120000
+        }
+    ]
+}

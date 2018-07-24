@@ -1,0 +1,53 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "CaseTeamRoleAssociation__c",
+                "referenceId": "CaseTeamRoleAssociation__cRef1"
+            },
+            "Name": "Insurer_Claims_Manager_Claims_Manager",
+            "AccountType__c": "Insurer",
+            "CaseTeamRole__c": "Insurer Claims Manager",
+            "ContactRole__c": "Claims Manager"
+        },
+        {
+            "attributes": {
+                "type": "CaseTeamRoleAssociation__c",
+                "referenceId": "CaseTeamRoleAssociation__cRef2"
+            },
+            "Name": "Insurer_Triager_Triage",
+            "AccountType__c": "Insurer",
+            "CaseTeamRole__c": "Insurer Triager",
+            "ContactRole__c": "Triage"
+        },
+        {
+            "attributes": {
+                "type": "CaseTeamRoleAssociation__c",
+                "referenceId": "CaseTeamRoleAssociation__cRef3"
+            },
+            "Name": "Insurer_Legal_Rep_Legal_Rep",
+            "AccountType__c": "Insurer",
+            "CaseTeamRole__c": "Insurer Legal Rep",
+            "ContactRole__c": "Legal Rep"
+        },
+        {
+            "attributes": {
+                "type": "CaseTeamRoleAssociation__c",
+                "referenceId": "CaseTeamRoleAssociation__cRef4"
+            },
+            "Name": "Insurer_Administrator",
+            "AccountType__c": "Insurer",
+            "ContactRole__c": "Administrator"
+        },
+        {
+            "attributes": {
+                "type": "CaseTeamRoleAssociation__c",
+                "referenceId": "CaseTeamRoleAssociation__cRef5"
+            },
+            "Name": "Legal_Firm_Legal_Rep",
+            "AccountType__c": "Legal Firm",
+            "CaseTeamRole__c": "Legal Representative",
+            "ContactRole__c": "Legal Rep"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>Email</fullName>
+        <default>false</default>
+        <label>Email</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Meeting</fullName>
+        <default>false</default>
+        <label>Meeting</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Other</fullName>
+        <default>false</default>
+        <label>Other</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Call</fullName>
+        <default>false</default>
+        <label>Call</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Phonecall</fullName>
+        <default>false</default>
+        <label>Phonecall</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Videoconference</fullName>
+        <default>false</default>
+        <label>Videoconference</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Face to face</fullName>
+        <default>false</default>
+        <label>Face to face</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Mutiparty videoconference</fullName>
+        <default>false</default>
+        <label>Mutiparty videoconference</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Multiparty teleconference</fullName>
+        <default>false</default>
+        <label>Multiparty teleconference</label>
+    </standardValue>
+</StandardValueSet>

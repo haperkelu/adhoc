@@ -1,0 +1,28 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "CTP_CaseTypeMapping__c",
+                "referenceId": "CTP_CaseTypeMapping__cRef1"
+            },
+            "Name": "1",
+            "CTP_Case_Type__c": "CTP Assist",
+            "CTP_Origin__c": "Web",
+            "CTP_Priority__c": "Standard",
+            "CTP_RecordType__c": "Feedback",
+            "CTP_Status__c": "New"
+        },
+        {
+            "attributes": {
+                "type": "CTP_CaseTypeMapping__c",
+                "referenceId": "CTP_CaseTypeMapping__cRef2"
+            },
+            "Name": "2",
+            "CTP_Case_Type__c": "DRS",
+            "CTP_Origin__c": "Web",
+            "CTP_Priority__c": "Standard",
+            "CTP_RecordType__c": "Feedback",
+            "CTP_Status__c": "New"
+        }
+    ]
+}

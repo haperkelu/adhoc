@@ -1,0 +1,592 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef1"
+            },
+            "Name": "Afrikaans"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef2"
+            },
+            "Name": "Akan"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef3"
+            },
+            "Name": "Albanian"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef4"
+            },
+            "Name": "Amharic"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef5"
+            },
+            "Name": "Arabic"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef6"
+            },
+            "Name": "Armenian"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef7"
+            },
+            "Name": "Balinese"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef8"
+            },
+            "Name": "Basque"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef9"
+            },
+            "Name": "Bengali"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef10"
+            },
+            "Name": "Bosnian"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef11"
+            },
+            "Name": "Bulgarian"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef12"
+            },
+            "Name": "Burmese"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef13"
+            },
+            "Name": "Cantonese"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef14"
+            },
+            "Name": "Catalan"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef15"
+            },
+            "Name": "Cebuano"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef16"
+            },
+            "Name": "Croatian"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef17"
+            },
+            "Name": "Czech"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef18"
+            },
+            "Name": "Danish"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef19"
+            },
+            "Name": "Dari"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef20"
+            },
+            "Name": "Dutch"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef21"
+            },
+            "Name": "English"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef22"
+            },
+            "Name": "Estonian"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef23"
+            },
+            "Name": "Ewe"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef24"
+            },
+            "Name": "Fijian"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef25"
+            },
+            "Name": "Filipino"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef26"
+            },
+            "Name": "Finnish"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef27"
+            },
+            "Name": "French"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef28"
+            },
+            "Name": "German"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef29"
+            },
+            "Name": "Greek"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef30"
+            },
+            "Name": "Hakka"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef31"
+            },
+            "Name": "Hausa"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef32"
+            },
+            "Name": "Hebrew"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef33"
+            },
+            "Name": "Hindi"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef34"
+            },
+            "Name": "Hungarian"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef35"
+            },
+            "Name": "Icelandic"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef36"
+            },
+            "Name": "Indonesian"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef37"
+            },
+            "Name": "Irish"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef38"
+            },
+            "Name": "Italian"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef39"
+            },
+            "Name": "Japanese"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef40"
+            },
+            "Name": "Kashmiri"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef41"
+            },
+            "Name": "Kikuyu"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef42"
+            },
+            "Name": "Korean"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef43"
+            },
+            "Name": "Kurdish"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef44"
+            },
+            "Name": "Lao"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef45"
+            },
+            "Name": "Latvian"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef46"
+            },
+            "Name": "Lithuanian"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef47"
+            },
+            "Name": "Luganda"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef48"
+            },
+            "Name": "Macedonian"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef49"
+            },
+            "Name": "Malay"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef50"
+            },
+            "Name": "Maltese"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef51"
+            },
+            "Name": "Mandarin"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef52"
+            },
+            "Name": "Mongolian"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef53"
+            },
+            "Name": "Ndebele"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef54"
+            },
+            "Name": "Norwegian"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef55"
+            },
+            "Name": "Polish"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef56"
+            },
+            "Name": "Portuguese"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef57"
+            },
+            "Name": "Punjabi"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef58"
+            },
+            "Name": "Romanian"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef59"
+            },
+            "Name": "Romany"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef60"
+            },
+            "Name": "Russian"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef61"
+            },
+            "Name": "Samoan"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef62"
+            },
+            "Name": "Serbian"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef63"
+            },
+            "Name": "Sindhi"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef64"
+            },
+            "Name": "Slovak"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef65"
+            },
+            "Name": "Slovene"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef66"
+            },
+            "Name": "Somali"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef67"
+            },
+            "Name": "Spanish"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef68"
+            },
+            "Name": "Swahili"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef69"
+            },
+            "Name": "Swedish"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef70"
+            },
+            "Name": "Tagalog"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef71"
+            },
+            "Name": "Tamil"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef72"
+            },
+            "Name": "Tetum"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef73"
+            },
+            "Name": "Thai"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef74"
+            },
+            "Name": "Tibetan"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef75"
+            },
+            "Name": "Tigre"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef76"
+            },
+            "Name": "Tongan"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef77"
+            },
+            "Name": "Turkish"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef78"
+            },
+            "Name": "Ukrainian"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef79"
+            },
+            "Name": "Urdu"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef80"
+            },
+            "Name": "Vietnamese"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef81"
+            },
+            "Name": "Welsh"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef82"
+            },
+            "Name": "Xhosa"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef83"
+            },
+            "Name": "Yiddish"
+        },
+        {
+            "attributes": {
+                "type": "CTP_Language_Map__c",
+                "referenceId": "CTP_Language_Map__cRef84"
+            },
+            "Name": "Zulu"
+        }
+    ]
+}

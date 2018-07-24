@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customSettingsType>List</customSettingsType>
+    <description>Release# R.1.5 
+Story# DCR-461 
+Should hold all the application stage values with order.</description>
+    <enableFeeds>false</enableFeeds>
+    <label>Application Stage order</label>
+    <visibility>Public</visibility>
+</CustomObject>

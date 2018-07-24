@@ -1,0 +1,13 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "ServiceChannel",
+                "referenceId": "ServiceChannelRef1"
+            },
+            "MasterLabel": "CTP Assist Feedback Cases",
+            "DeveloperName": "CTP_Assist_Feedback_Cases",
+            "RelatedEntity": "Case"
+        }
+    ]
+}

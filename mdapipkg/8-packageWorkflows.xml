@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <!-- Custom Objects -->
+        <members>CTP_Accident__c</members>
+        <members>ApplicationLog__c</members>
+        <members>CTP_Injury_Treatment__c</members>
+        <members>CTP_DisputeToInjury__c</members>
+        <members>Attachment__c</members>
+        <members>User</members>
+        <members>Activity</members>
+        <members>Task</members>
+        <members>Event</members>
+        <members>TaskTemplate__c</members>
+        <members>CTP_Invoice__c</members>
+        <members>CTP_Claim__c</members>
+        <members>CaseItem__c</members>
+        <members>Contact</members>
+        <members>Account</members>
+        <members>Case</members>
+        <members>CTP_Vehicle__c</members>
+        <members>Comments__c</members>
+        <members>Configuration__c</members>
+        <members>Application_and_Disputes_Report__c</members>
+        <members>GLS_Licence__c</members>
+        <members>GLS_LicenceCondition__c</members>
+        <members>IPM_Account_WIC_Code__c</members>
+        <members>IPM_Assessment__c</members>
+        <members>Custom_Authorisation__c</members>
+        <members>IPM_Director_s_Brief__c</members>
+        <members>DocumentAnnotation__c</members>
+        <members>IPM_Escalated_Complaint__c</members>
+        <members>CTP_ExcludeInsurer_LegalFirm__c</members>
+        <members>IPM_Financial_Analysis__c</members>
+        <members>IPM_Follow_Up_Activity__c</members>
+        <members>IPM_Insurer_Review_Process__c</members>
+        <members>Litigation__c</members>
+        <members>IPM_Measure__c</members>
+        <members>OLCN_OutboundCalls__c</members>
+        <members>IPM_Risk_Issue__c</members>
+        <members>IPM_Risk_Indicator__c</members>
+        <members>IPM_Risk_Indicator_Reference__c</members>
+        <members>IPM_Significant_Matter__c</members>
+        <members>Snippet__c</members>
+        <members>VerificationCode__c</members>
+        <members>IPM_WIC_Code__c</members>    
+        <members>LiveChatTranscript</members>
+        <members>CTP_USERSETUP__mdt</members>
+        <members>IPM_Test_Measure_Set__mdt</members>
+        <name>CustomObject</name> <!-- Replace the object references -->
+    </types>
+    <types> <!-- Replace the object references -->
+        <members>*</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomApplication</name>
+    </types>    <!-- Dependency on Flexipages -->
+    <types>
+        <members>*</members>
+        <name>AppMenu</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ApprovalProcess</name>    <!-- Dependency on workflow alerts -->
+    </types>
+    <types>
+        <members>*</members>
+        <name>AssignmentRule</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>AssignmentRules</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>AutoResponseRule</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>AutoResponseRules</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>EntitlementProcess</name> <!-- Dependency on Workflow Field update -->
+    </types>
+    <types>
+        <members>*</members>
+        <name>EscalationRules</name>
+    </types>
+    <types>
+        <members>CTP_Assist</members>
+        <members>CTP_LiveAgent</members>
+        <name>LiveChatAgentConfig</name>
+    </types>
+    <types>
+        <members>CTP_LiveChatButton</members>
+        <name>LiveChatButton</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>Workflow</name>
+    </types>
+    <types>
+        <members>CTP_Lodgement_and_Finalisation_of_App</members>
+        <members>CTP_Lodgement_and_Finalisation_of_Disp</members>
+        <name>AnalyticSnapshot</name>
+    </types>
+    <types>
+        <members>SiteFooter</members>
+        <members>SiteHeader</members>
+        <members>SiteLogin</members>
+        <members>SitePoweredBy</members>
+        <name>ApexComponent</name>
+    </types>
+    <types>
+        <members>External Accessor Community</members>
+        <members>Insurer Community</members>
+        <members>Legal Community</members>
+        <members>MRS-Insurer%2FLegal Firm Community</members>
+        <members>MRS-Worker%2FSole Practitioner Community</members>
+        <members>OnlineClaimNotification</members>
+        <members>Public Community</members>
+        <name>ManagedTopics</name>
+    </types>
+    <!--<types>
+        <members>EmbeddedServiceBranding_Parent04I7F000000Caki_15f6ceca9c6</members>
+        <name>EmbeddedServiceBranding</name>
+    </types>
+    <types>
+        <members>CTP_Assist</members>
+        <name>EmbeddedServiceConfig</name>
+    </types>
+    <types>
+        <members>EmbeddedServiceLiveAgent_Parent04I7F000000CakiUAC_15f6cecd279</members>
+        <name>EmbeddedServiceLiveAgent</name>
+    </types>-->
+    <!--<types>
+        <members>CTP_Case_Application_Actions</members>
+        <members>CTP_Case_Assist_Damages_Actions</members>
+        <name>FlowDefinition</name>
+    </types>
+    <types>
+        <members>CTP_Case_Assist_Damages_Actions-6</members>
+        <members>CTP_Case_Application_Actions-1</members>
+        <name>Flow</name>
+    </types>-->
+    <version>42.0</version>
+</Package>

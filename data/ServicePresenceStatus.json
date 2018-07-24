@@ -1,0 +1,20 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "ServicePresenceStatus",
+                "referenceId": "ServicePresenceStatusRef1"
+            },
+            "DeveloperName": "Online",
+            "MasterLabel": "Available"
+        },
+        {
+            "attributes": {
+                "type": "ServicePresenceStatus",
+                "referenceId": "ServicePresenceStatusRef2"
+            },
+            "DeveloperName": "Busy",
+            "MasterLabel": "Busy"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "PresenceUserConfig",
+                "referenceId": "PresenceUserConfigRef2"
+            },
+            "Capacity": 3,
+            "DeveloperName": "CTP_Assist",
+            "MasterLabel": "CTP Assist",
+            "OptionsIsAutoAcceptEnabled": false,
+            "OptionsIsDeclineEnabled": true,
+            "OptionsIsDeclineReasonEnabled": false,
+            "OptionsIsDisconnectSoundEnabled": true,
+            "OptionsIsRequestSoundEnabled": true
+        }
+    ]
+}

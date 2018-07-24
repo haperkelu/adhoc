@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Insurer_Community</members>
+        <members>External_Accessor_Community</members>
+        <members>Legal_Community</members>
+        <members>MRS_Insurer_Legal_Firm_Community</members>
+        <members>MRS_Worker_Sole_Practitioner_Community</members>
+        <members>OnlineClaimNotification</members>
+        <members>Public_Community</members>
+        <name>CustomSite</name>
+    </types>
+    <!--<types>
+        <members>Insurer Community.Banned</members>
+        <members>Legal Community.Banned</members>
+        <members>MRS-Insurer/Legal Firm Community.Banned</members>
+        <members>MRS-Worker/Sole Practitioner Community.Banned</members>
+        <members>OnlineClaimNotification.Banned</members>
+        <members>Public Community.Banned</members>
+        <name>KeywordList</name>
+    </types>-->
+    <types>
+        <members>External Accessor Community</members>
+        <members>Insurer Community</members>
+        <members>Legal Community</members>
+        <members>MRS-Insurer%2FLegal Firm Community</members>
+        <members>MRS-Worker%2FSole Practitioner Community</members>
+        <members>OnlineClaimNotification</members>
+        <members>Public Community</members>
+        <name>Network</name>
+    </types>
+    <!--<types>
+        <members>cbExternal_Accessor_Community</members>
+        <members>cbInsurer_Community</members>
+        <members>cbLegal_Community</members>
+        <members>cbMRS_Insurer_Legal_Firm_Community</members>
+        <members>cbMRS_Worker_Sole_Practitioner_Community</members>
+        <members>cbOnlineClaimNotification</members>
+        <members>cbPublic_Community</members>
+        <name>NetworkBranding</name>
+    </types>-->
+    <types>
+        <members>External_Accessor_Community1</members>
+        <members>Insurer_Community1</members>
+        <members>Legal_Community1</members>
+        <members>MRS_Insurer_Legal_Firm_Community1</members>
+        <members>MRS_Worker_Sole_Practitioner_Community1</members>
+        <members>OnlineClaimNotification_C1</members>
+        <members>Public_Community1</members>
+        <name>SiteDotCom</name>
+    </types>
+    <!--<types>
+        <members>External Accessor Community</members>
+        <members>Insurer Community</members>
+        <members>Legal Community</members>
+        <members>MRS-Insurer%2FLegal Firm Community</members>
+        <members>MRS-Worker%2FSole Practitioner Community</members>
+        <members>OnlineClaimNotification</members>
+        <members>Public Community</members>
+        <name>ManagedTopics</name>
+    </types>-->
+    <types>
+        <members>CommunitiesLanding</members>
+        <members>OLCN_CommunitiesLanding</members>
+        <members>OLCN_CommunitiesLogin</members>
+        <members>IPM_Generate_Licence</members>
+        <!--<members>*</members>-->
+        <name>ApexPage</name>
+    </types>
+    <types>
+        <members>CommunitiesLandingController</members>
+        <members>CommunitiesLandingControllerTest</members>
+        <members>OLCN_CommunitiesLogin_CC</members>
+        <members>OLCN_CommunitiesLogin_CC_Test</members>
+        <members>OLCN_InsurerPortalLogin_CC</members>
+        <members>OLCN_InsurerPortalLogin_CC_Test</members>
+        <members>OLCN_MetaUtility</members>
+        <members>TestDataUtility</members>
+        <members>OLCN_TestDataUtility</members>
+        <members>CTP_SetUpUtility</members>
+        <members>IPM_Insurer_Review_Process__c</members>
+        <members>CTP_TestData</members>
+        <members>CTP_TestData_Test</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Admin</members>
+        <members>CTP Assist</members>
+        <members>CTP Dispute Resolution User</members>
+        <members>CTP External Assessor</members>
+        <members>External Accessor Community Profile</members>
+        <members>CTP Insurer Admin</members>
+        <members>CTP Internal Decision Maker</members>
+        <members>CTP Insurer Claim Manager</members>
+        <members>CTP Applicant Public Community User</members>
+        <members>CTP Legal Profile</members>
+        <members>MRS Legal Rep Community User</members>
+        <members>MRS Applicant Community User</members>
+        <members>MRS Insurer Community User</members>
+        <members>DRS Executive Office</members>
+        <members>%7ECTP Insurer</members>
+        <name>Profile</name>
+    </types>
+    <types>
+        <members>F_Secure_Cloud_Protection_User_External_Assessors_Community</members>
+        <members>F_Secure_Cloud_Protection_User_Insurer_Community</members>
+        <members>F_Secure_Cloud_Protection_User_Legal_Community</members>
+        <members>F_Secure_Cloud_Protection_User_MRS_Insurer_Legal_Firm_Community</members>
+        <members>F_Secure_Cloud_Protection_User_MRS_Worker_Sole_Practitioner_Community</members>
+        <members>F_Secure_Cloud_Protection_User_OnlineClaimNotification_Community</members>
+        <members>F_Secure_Cloud_Protection_User_Public_Community</members>
+        <members>Manage_External_User_Access</members>
+        <members>SIRA_2FA_Logins</members>
+        <name>PermissionSet</name>
+    </types>
+    
+    <version>42.0</version>
+</Package>

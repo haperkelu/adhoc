@@ -1,0 +1,60 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "OLCN_GeneralSetting__c",
+                "referenceId": "OLCN_GeneralSetting__cRef1"
+            },
+            "Name": "DrawLoopId_for_ANF",
+            "OLCN_Value__c": "a037F000002jqvw"
+        },
+        {
+            "attributes": {
+                "type": "OLCN_GeneralSetting__c",
+                "referenceId": "OLCN_GeneralSetting__cRef2"
+            },
+            "Name": "DeployId_for_ANF",
+            "OLCN_Value__c": "a017F000004Fi9f"
+        },
+        {
+            "attributes": {
+                "type": "OLCN_GeneralSetting__c",
+                "referenceId": "OLCN_GeneralSetting__cRef3"
+            },
+            "Name": "DrawLoopId_for_PICF",
+            "OLCN_Value__c": "a037F000002jqyI"
+        },
+        {
+            "attributes": {
+                "type": "OLCN_GeneralSetting__c",
+                "referenceId": "OLCN_GeneralSetting__cRef4"
+            },
+            "Name": "DeployId_for_PICF",
+            "OLCN_Value__c": "a017F000004Fkrg"
+        },
+        {
+            "attributes": {
+                "type": "OLCN_GeneralSetting__c",
+                "referenceId": "OLCN_GeneralSetting__cRef5"
+            },
+            "Name": "InsurerLandingCaseView",
+            "OLCN_Value__c": "00B7F0000039LyA"
+        },
+        {
+            "attributes": {
+                "type": "OLCN_GeneralSetting__c",
+                "referenceId": "OLCN_GeneralSetting__cRef6"
+            },
+            "Name": "OrgWideEmailAddress",
+            "OLCN_Value__c": "DoNotReply.Motor@sira.nsw.gov.au"
+        },
+        {
+            "attributes": {
+                "type": "OLCN_GeneralSetting__c",
+                "referenceId": "OLCN_GeneralSetting__cRef7"
+            },
+            "Name": "CaseRecordTypes",
+            "OLCN_Value__c": "Online_Claims_Notification,CTP_Assist_Damages,CTP_Assist_Non_damages,CTP_Compensation_to_Relatives,Feedback"
+        }
+    ]
+}

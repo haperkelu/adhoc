@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Account.MRSShareBusinessAccount</members>
+        <members>Account.SIRA_Public_Accounts</members>
+        <members>Case.All_DRS</members>
+        <members>Case.CAS_Read_Write_Case_Level_Access</members>
+        <members>Case.CSESharingAAMI</members>
+        <members>Case.CSESharingCICAllianzOrAllianz</members>
+        <members>Case.CSESharingGIO</members>
+        <members>Case.CSESharingNRMA</members>
+        <members>Case.CSESharingQBE</members>
+        <members>Case.CTPSharingClaimCICAllianz</members>
+        <members>Case.CTPSharingClaimNRMA</members>
+        <members>Case.CTPSharingClaimQBE</members>
+        <members>Case.CTPSharingClaimsAAMIGIO</members>
+        <members>Case.CTP_ViewApplicationDisputes</members>
+        <members>CaseItem__c.Case_Action_Shared_with_External_Assessor</members>
+        <members>CaseItem__c.Case_Action_Shared_with_External_Assessor</members>
+        <members>CaseItem__c.Case_Action_Shared_with_External_Assessor</members>
+        <members>Case.MRSIcare_sharing</members>
+        <members>Case.MRS_Icare_TMF_sharing</members>
+        <members>Case.Share_System_Cases_with_CTP_Assist</members>
+        <members>CTP_Claim__c.CTP_Share_AAMIGIO_Claims</members>
+        <members>CTP_Claim__c.CTP_Share_AAMIGIO_Claims</members>
+        <members>CTP_Claim__c.CTP_Share_AAMIGIO_Claims</members>
+        <members>CTP_Claim__c.CTP_Share_AllianzCIC_Claims</members>
+        <members>CTP_Claim__c.CTP_Share_AllianzCIC_Claims</members>
+        <members>CTP_Claim__c.CTP_Share_AllianzCIC_Claims</members>
+        <members>CTP_Claim__c.CTP_Share_NRMA_Claims</members>
+        <members>CTP_Claim__c.CTP_Share_NRMA_Claims</members>
+        <members>CTP_Claim__c.CTP_Share_NRMA_Claims</members>
+        <members>CTP_Claim__c.CTP_Share_QBE_Claims</members>
+        <members>CTP_Claim__c.CTP_Share_QBE_Claims</members>
+        <members>CTP_Claim__c.CTP_Share_QBE_Claims</members>
+        <name>SharingCriteriaRule</name>
+    </types>
+    <types>
+        <members>Account.IPM_All_IPMG_users_can_edit_all_Accounts_owned_by_an_IPMG_user</members>
+        <members>Account.MRS_Internal_Account_Sharing</members>
+        <members>Case.CTP_MRS_Manager_Role_Share_Read</members>
+        <members>Case.Share_all_CTP_Assist_with_CTP_Assist</members>
+        <members>GLS_Licence__c.IPM_All_IPMG_users_can_read_all_Licences_owned_by_an_IPMG_user</members>
+        <members>GLS_Licence__c.IPM_All_IPMG_users_can_read_all_Licences_owned_by_an_IPMG_user</members>
+        <members>GLS_Licence__c.IPM_All_IPMG_users_can_read_all_Licences_owned_by_an_IPMG_user</members>
+        <members>GLS_LicenceCondition__c.IPM_All_IPMG_users_can_read_all_Licence_Conditions_owned_by_an_IPMG_user</members>
+        <members>GLS_LicenceCondition__c.IPM_All_IPMG_users_can_read_all_Licence_Conditions_owned_by_an_IPMG_user</members>
+        <members>GLS_LicenceCondition__c.IPM_All_IPMG_users_can_read_all_Licence_Conditions_owned_by_an_IPMG_user</members>
+        <members>IPM_Assessment__c.IPM_All_IPMG_users_can_edit_all_Assessments_owned_by_an_IPMG_user</members>
+        <members>IPM_Assessment__c.IPM_All_IPMG_users_can_edit_all_Assessments_owned_by_an_IPMG_user</members>
+        <members>IPM_Assessment__c.IPM_All_IPMG_users_can_edit_all_Assessments_owned_by_an_IPMG_user</members>
+        <members>IPM_Director_s_Brief__c.IPM_All_IPMG_users_can_read_all_Director_s_Briefs_owned_by_an_IPMG_user</members>
+        <members>IPM_Director_s_Brief__c.IPM_All_IPMG_users_can_read_all_Director_s_Briefs_owned_by_an_IPMG_user</members>
+        <members>IPM_Director_s_Brief__c.IPM_All_IPMG_users_can_read_all_Director_s_Briefs_owned_by_an_IPMG_user</members>
+        <members>IPM_Escalated_Complaint__c.IPM_All_IPMG_users_can_edit_all_Escalated_Complaints_owned_by_an_IPMG_user</members>
+        <members>IPM_Escalated_Complaint__c.IPM_All_IPMG_users_can_edit_all_Escalated_Complaints_owned_by_an_IPMG_user</members>
+        <members>IPM_Escalated_Complaint__c.IPM_All_IPMG_users_can_edit_all_Escalated_Complaints_owned_by_an_IPMG_user</members>
+        <members>IPM_Financial_Analysis__c.IPM_Roles_and_Sub_Insurer_Portfolio_Manager</members>
+        <members>IPM_Financial_Analysis__c.IPM_Roles_and_Sub_Insurer_Portfolio_Manager</members>
+        <members>IPM_Financial_Analysis__c.IPM_Roles_and_Sub_Insurer_Portfolio_Manager</members>
+        <members>IPM_Follow_Up_Activity__c.IPM_All_IPMG_users_can_edit_all_Follow_Up_Activities_owned_by_an_IPMG_user</members>
+        <members>IPM_Follow_Up_Activity__c.IPM_All_IPMG_users_can_edit_all_Follow_Up_Activities_owned_by_an_IPMG_user</members>
+        <members>IPM_Follow_Up_Activity__c.IPM_All_IPMG_users_can_edit_all_Follow_Up_Activities_owned_by_an_IPMG_user</members>
+        <members>IPM_Insurer_Review_Process__c.IPM_All_IPMG_users_can_edit_all_Insurer_Review_Processes_owned_by_an_IPMG_user</members>
+        <members>IPM_Insurer_Review_Process__c.IPM_All_IPMG_users_can_edit_all_Insurer_Review_Processes_owned_by_an_IPMG_user</members>
+        <members>IPM_Insurer_Review_Process__c.IPM_All_IPMG_users_can_edit_all_Insurer_Review_Processes_owned_by_an_IPMG_user</members>
+        <members>IPM_Risk_Indicator__c.IPM_All_IPMG_users_can_read_all_Risk_Indicators_owned_by_an_IPMG_user</members>
+        <members>IPM_Risk_Indicator__c.IPM_All_IPMG_users_can_read_all_Risk_Indicators_owned_by_an_IPMG_user</members>
+        <members>IPM_Risk_Indicator__c.IPM_All_IPMG_users_can_read_all_Risk_Indicators_owned_by_an_IPMG_user</members>
+        <members>IPM_Risk_Indicator_Reference__c.IPM_All_IPMG_users_can_read_all_Risk_Indicator_References_owned_by_an_IPMG_user</members>
+        <members>IPM_Risk_Indicator_Reference__c.IPM_All_IPMG_users_can_read_all_Risk_Indicator_References_owned_by_an_IPMG_user</members>
+        <members>IPM_Risk_Indicator_Reference__c.IPM_All_IPMG_users_can_read_all_Risk_Indicator_References_owned_by_an_IPMG_user</members>
+        <members>IPM_Risk_Issue__c.IPM_All_IPMG_users_can_edit_all_Risk_Issues_owned_by_an_IPMG_user</members>
+        <members>IPM_Risk_Issue__c.IPM_All_IPMG_users_can_edit_all_Risk_Issues_owned_by_an_IPMG_user</members>
+        <members>IPM_Risk_Issue__c.IPM_All_IPMG_users_can_edit_all_Risk_Issues_owned_by_an_IPMG_user</members>
+        <members>IPM_Significant_Matter__c.IPM_All_IPMG_users_can_edit_all_Significant_Matters_owned_by_an_IPMG_user</members>
+        <members>IPM_Significant_Matter__c.IPM_All_IPMG_users_can_edit_all_Significant_Matters_owned_by_an_IPMG_user</members>
+        <members>IPM_Significant_Matter__c.IPM_All_IPMG_users_can_edit_all_Significant_Matters_owned_by_an_IPMG_user</members>
+        <name>SharingOwnerRule</name>
+    </types>
+    <types>
+        <members>Account</members>
+        <members>Application_and_Disputes_Report__c</members>
+        <members>ApplicationLog__c</members>
+        <members>Application_Stage_order__c</members>
+        <members>Asset</members>
+        <members>Campaign</members>
+        <members>Case</members>
+        <members>CaseItem__c</members>
+        <members>CaseTeamRoleAssociation__c</members>
+        <members>ChannelProgram</members>
+        <members>Comments__c</members>
+        <members>Configuration__c</members>
+        <members>Contact</members>
+        <members>CTP_Accident__c</members>
+        <members>CTP_AttachmentCategorySubCategoryMapping__c</members>
+        <members>CTP_CaseRecordTypeEntitlementMapping__c</members>
+        <members>CTP_CaseTypeMapping__c</members>
+        <members>CTP_Claim__c</members>
+        <members>CTP_DisputeCategoryDisputeTypeMapping__c</members>
+        <members>CTP_FeedbackTypeSubType__c</members>
+        <members>CTP_Injury_Treatment__c</members>
+        <members>CTP_Invoice__c</members>
+        <members>CTP_Language_Map__c</members>
+        <members>CTP_Milestone_Dispute_Type_Days__c</members>
+        <members>CTP_OLCSAttachmentCategoryMapping__c</members>
+        <members>CTP_OLCS_Integration_Settings__c</members>
+        <members>CTP_Record_Types__c</members>
+        <members>CTP_UCDInsurerMapping__c</members>
+        <members>CTP_Vehicle__c</members>
+        <members>Custom_Authorisation__c</members>
+        <members>GLS_Licence__c</members>
+        <members>GLS_LicenceCondition__c</members>
+        <members>IPM_Account_WIC_Code__c</members>
+        <members>IPM_Assessment__c</members>
+        <members>IPM_Director_s_Brief__c</members>
+        <members>IPM_Escalated_Complaint__c</members>
+        <members>IPM_Financial_Analysis__c</members>
+        <members>IPM_Follow_Up_Activity__c</members>
+        <members>IPM_Insurer_Review_Process__c</members>
+        <members>IPM_Risk_Indicator__c</members>
+        <members>IPM_Risk_Indicator_Reference__c</members>
+        <members>IPM_Risk_Issue__c</members>
+        <members>IPM_Significant_Matter__c</members>
+        <members>IPM_WIC_Code__c</members>
+        <members>Lead</members>
+        <members>OLCN_GeneralSetting__c</members>
+        <members>Opportunity</members>
+        <members>Order</members>
+        <members>Snippet__c</members>
+        <members>TaskTemplate__c</members>
+        <members>User</members>
+        <members>VerificationCode__c</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>Insurer Community.Customer_Members</members>
+        <members>Insurer Community.Members_without_contribution</members>
+        <members>Insurer Community.Partner_and_Customer_members</members>
+        <members>Legal Community.Customer_Members</members>
+        <members>Legal Community.Members_without_contribution</members>
+        <members>Legal Community.Partner_and_Customer_members</members>
+        <members>MRS-Insurer/Legal Firm Community.Customer_Members</members>
+        <members>MRS-Insurer/Legal Firm Community.Members_without_contribution</members>
+        <members>MRS-Insurer/Legal Firm Community.Partner_and_Customer_members</members>
+        <members>MRS-Worker/Sole Practitioner Community.Customer_Members</members>
+        <members>MRS-Worker/Sole Practitioner Community.Members_without_contribution</members>
+        <members>MRS-Worker/Sole Practitioner Community.Partner_and_Customer_members</members>
+        <members>OnlineClaimNotification.Customer_Members</members>
+        <members>OnlineClaimNotification.Members_without_contribution</members>
+        <members>OnlineClaimNotification.Partner_and_Customer_members</members>
+        <members>Public Community.Customer_Members</members>
+        <members>Public Community.Members_without_contribution</members>
+        <members>Public Community.Partner_and_Customer_members</members>
+        <name>UserCriteria</name>
+    </types>
+    <version>42.0</version>
+</Package>
